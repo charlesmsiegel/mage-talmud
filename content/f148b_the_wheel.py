@@ -1,4 +1,4 @@
-# Folio 148b - The Wheel. Verso of the Akashayana folio: the law of return
+# Folio 148b - The Wheel. Verso of the Akashic Brotherhood folio: the law of return
 # (reincarnation, the lukou bond, the teaching structure), per Lore of the
 # Traditions via the wod-llm-wiki knowledge base.
 FOLIO = {'bottom': '<p><span class="lemma">On playing a returning soul.</span> Reincarnation is a '
@@ -62,11 +62,11 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a returning soul.</span> R
  'chapter': 'Chapter the Fifth &middot; continued',
  'colophon': 'An out-of-character disputation for Mage: the Ascension &middot; fan work in the '
              'form of a daf; no rules text is reproduced &middot; set in Abbess &amp; Goudy '
-             'Old Style after the M20 interior &middot; verso of the Akashayana&rsquo;s folio; '
+             'Old Style after the M20 interior &middot; verso of the Brotherhood&rsquo;s folio; '
              'the gate of 148a opens onto this Wheel.',
  'folio': '148B',
  'glossL': '<p><span class="mark">a</span> On reincarnation as central to the modern '
-           'Akashayana &mdash; near half of each generation returning &mdash; see the Lore of '
+           'Brotherhood &mdash; near half of each generation returning &mdash; see the Lore of '
            'the Traditions chapter on the Akashayana.</p>\n'
            '        <p><span class="mark">b</span> On the l&ugrave;k&#466;u, the intersection '
            'binding two Avatars across lifetimes, see the same chapter; the word, the bond, '
@@ -93,7 +93,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a returning soul.</span> R
             'for it. Seniority disputes proceed accordingly, and the minutes of those '
             'disputes are, of course, in the Record &mdash; all of them.',
  'inner': '<p><span class="lemma">Near half are old souls.</span> The plain sense is '
-          'demographic, and startling: the Akashayana are the one Tradition whose elders may '
+          'demographic, and startling: the Brotherhood are the one Tradition whose elders may '
           'be novices and whose novices may be elders, at a rate too high to treat as legend. '
           'At the table this means any Akashic character &mdash; player or otherwise &mdash; '
           'might carry prior lives, and the sangha&rsquo;s institutions assume it the way a '
@@ -186,6 +186,6 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a returning soul.</span> R
  'rubric': 'the law of return, and its bookkeeping',
  'subtitle': 'Tractate Aliyah (&ldquo;Ascension&rdquo;) of Seder Chashak (חשך, &ldquo;to be dark, '
              'hidden, obscured&rdquo;) &middot; Chapter the Fifth: Avot, The Traditions, '
-             'continued &middot; of the Wheel &middot; the Akashayana&rsquo;s law of return',
+             'continued &middot; of the Wheel &middot; the Akashic Brotherhood&rsquo;s law of return',
  'title': 'Tractate Aliyah · Folio 148b — The Wheel: the law of return, and its bookkeeping',
  'type': 'daf'}

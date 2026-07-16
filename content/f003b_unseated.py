@@ -78,7 +78,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On quoting the recto.</span> The chea
            'Masoret, paid: the corral reading, given its own page. The recto&rsquo;s tenth '
            'chair &mdash; the refusal made furniture &mdash; is this folio&rsquo;s bench.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> One craft&rsquo;s answer '
-           'is already bound: the Wu Lung, old enemies of the Akashayana, now walk the Way '
+           'is already bound: the Wu Lung, old enemies of the Akashic Brotherhood, now walk the Way '
            'they warred against &mdash; folio 148a keeps the gate that question knocks '
            'at.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The compact of the '

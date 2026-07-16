@@ -40,15 +40,15 @@ FOLIO = {
             (None, '109', 'The Horizon'),
         ]),
         ('V \u00b7 Avot: The Traditions', [
-            ('148a', '148', 'The Akashayana \u00b7 The Wheel'),
-            (None, '150', 'The Celestial Chorus'),
-            (None, '152', 'The Sahajiya'),
-            (None, '154', 'The Kha\u2019vadi'),
-            (None, '156', 'The Chakravanti'),
-            (None, '158', 'The Order of Hermes'),
-            (None, '160', 'The Society of Ether'),
-            (None, '162', 'The Verbena'),
-            (None, '164', 'The Mercurial Elite'),
+            ('148a', '148', 'The Akashic Brotherhood \u00b7 The Wheel'),
+            ('150a', '150', 'The Celestial Chorus \u00b7 The Reformation'),
+            ('152a', '152', 'The Cult of Ecstasy \u00b7 The Burden'),
+            ('154a', '154', 'The Dreamspeakers \u00b7 The People'),
+            ('156a', '156', 'The Chakravanti \u00b7 Jhor'),
+            ('158a', '158', 'The Order of Hermes \u00b7 The Houses'),
+            ('160a', '160', 'The Society of Ether \u00b7 Paradigma'),
+            ('162a', '162', 'The Verbena \u00b7 The Garden'),
+            ('164a', '164', 'The Virtual Adepts \u00b7 The Web'),
         ]),
         ('VI \u00b7 The Union', [
             (None, '168', 'The Precepts'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are ten; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are twenty-four; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }

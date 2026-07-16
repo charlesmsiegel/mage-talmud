@@ -53,8 +53,11 @@ folio, cross-references in Masoret point at real folios (or are phrased as
 disputes — a folio whose outer commentary merely explains has failed.
 
 ## Current state
-Built: shaar, 2a, 2b, 3a, 3b, 148a, 148b, 515a, 515b, 533a, 533b — every
-bound folio is a complete a/b pair, and the shaar ToC links one row per
-folio number. All pass verify.
-Next: Phase 1 remaining — the luach (f435) and seder (f250) proofs, which
-need new renderers in build.py; see PLAN.md.
+Built: shaar, 2a/b, 3a/b, all of chapter V (148–164, nine Tradition
+pairs), 515a/b, 533a/b — every bound folio is a complete a/b pair, and the
+shaar ToC links one row per folio number. All pass verify.
+Names: classic Tradition names are primary (the renames didn't take),
+except Chakravanti and Society of Ether; naming questions appear in-folio
+as live debates.
+Next: chapter XI Sphere pairs (512–522 against the f515 mold), then the
+luach (f435) and seder (f250) proofs; see PLAN.md.

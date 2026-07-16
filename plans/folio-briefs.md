@@ -172,9 +172,9 @@ maaseh. **Inner** — the plain sense of playing one: what the paradigm
 permits, how the practice shapes coincidence (ties to 533a). **Outer** —
 the internal factions arguing (every Tradition contains its own dispute;
 that dispute is the folio's engine). **LA** — chronicle use, stereotypes to
-avoid, the Tradition's table pitfalls. **Hag** — earned, affectionate, dry.
+avoid, the Tradition's table pitfalls. **Hag** — earned, affectionate, dry. Names: the classic names are primary (Akashic Brotherhood, Cult of Ecstasy, Dreamspeakers, Virtual Adepts — the renames didn't take), except the Chakravanti and the Society of Ether, whose new names stuck; every folio carries its naming question as a live debate, never as a settled retitle.
 
-### f148a — The Akashayana (Mind) ✅
+### f148a — The Akashic Brotherhood (Mind) ✅
 Internal law: the Akashic Record and who may read it; Do as practice-law.
 Factions/dispute: warrior vs. scholar vs. merchant readings of the way
 (Vajrapani / Jnani / Shi-Ren tension); whether Do may be taught outside.
@@ -182,7 +182,7 @@ X: f423 (Do mechanics), f519. Hag seed: the Record remembers every argument
 about what the Record is.
 
 ### f148b — The Wheel (daf) ✅
-The verso: the Akashayana's law of return, per Lore of the Traditions.
+The verso: the Akashic Brotherhood's law of return, per Lore of the Traditions.
 **Center:** Mishnah — reincarnation law (near half of each generation are
 returning souls; the sangha plans for it); the lùkŏu (karmic bond of two
 Avatars across lifetimes, born of love or violent death, held until
@@ -196,51 +196,51 @@ split, metering memory); the lùkŏu as troupe glue; past lives must never
 drive. **X:** 148a, f043, 2b (Gilgul as the negative), 156.
 **Hag:** half the sangha remembers dying for the Way.
 
-### f150 — The Celestial Chorus (Prime)
+### f150a — The Celestial Chorus (Prime) ✅
 Internal law: the One sung by many; heresy and harmony procedure.
 Dispute: the One as a being vs. the sum of the song (monotheist vs.
 ecumenical readings); the Chorus's imperial history vs. its universalism.
 X: f520, 2a (Valoran). Hag: the choir argues in harmony; it is still arguing.
 
-### f152 — The Sahajiya (Time)
+### f152a — The Cult of Ecstasy (Time) ✅
 Internal law: the Code of Ananda — ecstasy without predation; enforcement.
 Dispute: liberation vs. discipline (is the Code a fence or a betrayal of the
 practice); the seer's burden. X: f522, 3a (Salonikas is theirs — the folio
 must face him). Hag: the only Tradition whose law is mostly about parties.
 
-### f154 — The Kha'vadi (Spirit)
+### f154a — The Dreamspeakers (Spirit) ✅
 Internal law: the Families; custodianship of the spirit ways.
 Dispute: the umbrella-seat wound (2a's "consented" — this folio owns it):
 pan-shamanic unity vs. colonial artifact; reclamation vs. departure.
 X: 2a, f521, f003b. Hag: one chair, a hundred nations; ask who built the chair.
 
-### f156 — The Chakravanti (Entropy)
+### f156a — The Chakravanti (Entropy) ✅
 Internal law: the Good Death — when ending is licensed, diagnosis and
 consent procedure; the wheel. Dispute: jurisdiction over death (who
 appointed them); mercy vs. arrogance readings of the mandate.
 X: f514, 2b (Gilgul rhymes — say so in Masoret). Hag: the only law code
 whose every case is capital.
 
-### f158 — The Order of Hermes (Forces)
+### f158a — The Order of Hermes (Forces) ✅
 Internal law: the Houses, the pyramid of ranks, oaths and certámen.
 Dispute: hierarchy as strength vs. sclerosis; the Great Work vs. the
 committee; old grudges as constitutional law. X: f143/f430, f515, 2a
 (LaSalle). Hag: the Order has a form for schism; it is in triplicate.
 
-### f160 — The Society of Ether (Matter)
+### f160a — The Society of Ether (Matter) ✅
 Internal law: Science! — peer review by demonstration; the ether affirmed.
 Dispute: consensus science's apostates or its conscience; inheriting the
 alchemists' chair (3a ruling ii — the folio must cite it). Gemara: the
 secession from the Union retold, 1904. X: 3a, f517, f168. Hag: the
 difference between mad science and science is one accepted paper.
 
-### f162 — The Verbena (Life)
+### f162a — The Verbena (Life) ✅
 Internal law: blood and garden — the old faith's rites and their costs;
 initiation. Dispute: the ethics of blood rite (consent and sacrifice);
 romanticizing the burned past vs. remembering it. X: 2a (Nightshade),
 f516. Hag: the gentlest healers keep the sharpest knives.
 
-### f164 — The Mercurial Elite (Correspondence)
+### f164a — The Virtual Adepts (Correspondence) ✅
 Internal law: information's freedom; reputation as rank; the Web as commons.
 Gemara: the defection from the Union retold (mid-century), the youngest
 chair (3a ruling i). Dispute: liberation tech vs. surveillance tech — the
@@ -249,6 +249,26 @@ X: 3a, f512, 533b (the camera problem is their home turf — Masoret).
 Hag: they freed information; it has not called since.
 
 ---
+
+### The chapter V versos (all ✅)
+Every Tradition folio is an a/b pair; each verso carries the Tradition's
+second subject, wiki-checked like the recto:
+- **f150b — The Reformation**: the Five Doctrines, the Great Return, the
+  abolished pontificate, the departed hardliners, the Order of Naught (TEYKU).
+- **f152b — The Burden**: the seer's law — carrier not author, the telling as
+  act, the 3a ruling vii privilege argued from the Tradition's side (TEYKU).
+- **f154b — The People**: the societies, the Avatar Storm's losses, the
+  reclamation-vs-departure door (TEYKU as official position).
+- **f156b — Jhor**: the death-taint as law — course, watches, prescribed rest,
+  the intervention question (TEYKU).
+- **f158b — The Houses**: the thirteen charters, Degrees, adoptions, the
+  Tremere defection (Masoret to Tractate Masekha), the alchemists' return.
+- **f160b — Paradigma**: the journal as tribunal — priority, stapled
+  retractions, the 1935 anonymous number, the schools' equality (TEYKU).
+- **f162b — The Garden**: blood vs rite, fosterage, open lineage books, the
+  green current and "the Tree grafts" (TEYKU on the Wyck).
+- **f164b — The Web**: realm law — commons vs Constraint, Reality 2.0, the
+  persistent dead, the basilisk dispute (TEYKU).
 
 ## Chapter VI — The Union
 
