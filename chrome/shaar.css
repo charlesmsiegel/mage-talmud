@@ -1,0 +1,112 @@
+/* ---------- shaar (title page) ---------- */
+.shaar-page .frame { padding: 2.2rem 2rem 2.4rem; }
+.shaar-arch {
+  border: 1.5px solid var(--rule);
+  box-shadow: inset 0 0 0 4px var(--paper), inset 0 0 0 5px rgba(95,29,37,0.35),
+              inset 0 0 0 10px var(--paper), inset 0 0 0 11px rgba(75,40,112,0.3);
+  padding: 2.6rem 2.4rem 2.2rem;
+  text-align: center;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(75,40,112,0.07), transparent 55%),
+    linear-gradient(180deg, rgba(95,29,37,0.04), transparent 40%);
+}
+.shaar-seder {
+  font-family: var(--display);
+  font-size: 0.95rem;
+  letter-spacing: 0.3em;
+  color: var(--purple);
+  text-transform: uppercase;
+}
+.shaar-hebrew {
+  font-size: 2.6rem;
+  color: var(--maroon);
+  margin: 1.1rem 0 0.2rem;
+  letter-spacing: 0.06em;
+}
+.shaar-title {
+  font-family: var(--display);
+  font-weight: normal;
+  font-size: clamp(2.6rem, 6vw, 4.4rem);
+  color: var(--maroon);
+  margin: 0.1rem 0 0.4rem;
+  letter-spacing: 0.05em;
+  line-height: 1;
+}
+.shaar-imprint {
+  font-size: 0.86rem;
+  font-style: italic;
+  color: var(--faint);
+  max-width: 42rem;
+  margin: 0.8rem auto 0;
+  line-height: 1.6;
+}
+.shaar-rule {
+  width: 38%;
+  margin: 1.5rem auto;
+  border: none;
+  border-top: 1px solid var(--rule);
+}
+.shaar-toc {
+  max-width: 46rem;
+  margin: 0 auto;
+  text-align: left;
+  columns: 2;
+  column-gap: 2.4rem;
+  column-rule: 1px solid rgba(95,29,37,0.25);
+  font-size: 0.85rem;
+}
+.shaar-toc .toc-chapter {
+  break-inside: avoid;
+  margin-bottom: 0.9rem;
+}
+.shaar-toc .toc-head {
+  font-family: var(--display);
+  font-size: 0.9rem;
+  letter-spacing: 0.1em;
+  color: var(--purple);
+  margin-bottom: 0.25rem;
+}
+.shaar-toc a {
+  color: var(--body-text);
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(95,29,37,0.4);
+}
+.shaar-toc a:hover { color: var(--maroon); border-bottom-style: solid; }
+.shaar-toc .toc-wanting {
+  color: var(--faint);
+  font-style: italic;
+}
+.shaar-toc .fol {
+  font-variant: small-caps;
+  color: var(--maroon);
+  margin-right: 0.35rem;
+}
+.shaar-colophon {
+  margin-top: 1.8rem;
+  font-size: 0.72rem;
+  font-style: italic;
+  color: var(--faint);
+}
+@media (max-width: 860px) {
+  .shaar-toc { columns: 1; }
+  .shaar-arch { padding: 1.4rem 1rem; }
+}
+
+/* ---------- Dark Pack notice ---------- */
+.darkpack {
+  margin-top: 1.6rem;
+  text-align: center;
+}
+.darkpack img {
+  width: 84px;
+  height: auto;
+  opacity: 0.85;
+}
+.darkpack p {
+  max-width: 34rem;
+  margin: 0.6rem auto 0;
+  font-size: 0.68rem;
+  font-style: italic;
+  color: var(--faint);
+  line-height: 1.5;
+}
