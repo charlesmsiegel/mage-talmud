@@ -21,10 +21,13 @@ MANIFEST = [
     'f002a_convocation',
     'f002b_betrayal',
     'f003a_judgments',
+    'f003b_unseated',
     '...',
     'f148a_akashayana',
+    'f148b_the_wheel',
     '...',
     'f515a_forces',
+    'f515b_conjunctions',
     '...',
     'f533a_paradox',
     'f533b_witnesses',
@@ -147,35 +150,36 @@ def render_shaar(m):
 
 
 # The eight tractates of Seder Chashak, shelved in publication order of the
-# game lines they answer to. Only Aliyah is bound; the rest are wanting.
+# game lines they answer to. Hebrew names per SPEC section 1; a spine lights
+# up and becomes clickable when its tractate is bound.
 SHELF = [
-    ('Masquerade', None),
-    ('Apocalypse', None),
-    ('Aliyah', 'tractate-aliyah.html'),
-    ('Oblivion', None),
-    ('Dreaming', None),
-    ('Reckoning', None),
-    ('Resurrection', None),
-    ('Redemption', None),
+    ('Masekha',  '\u05de\u05e1\u05db\u05d4',             'Vampire: the Masquerade',   None),
+    ('Acharit',  '\u05d0\u05d7\u05e8\u05d9\u05ea',       'Werewolf: the Apocalypse',  None),
+    ('Aliyah',   '\u05e2\u05dc\u05d9\u05d9\u05d4',       'Mage: the Ascension',       'tractate-aliyah.html'),
+    ('Neshiyah', '\u05e0\u05e9\u05d9\u05d9\u05d4',       'Wraith: the Oblivion',      None),
+    ('Chalom',   '\u05d7\u05dc\u05d5\u05dd',             'Changeling: the Dreaming',  None),
+    ('Din',      '\u05d3\u05d9\u05df',                   'Hunter: the Reckoning',     None),
+    ('Techiyah', '\u05ea\u05d7\u05d9\u05d9\u05d4',       'Mummy: the Resurrection',   None),
+    ('Nefilim',  '\u05e0\u05e4\u05d9\u05dc\u05d9\u05dd', 'Demon: the Fallen',         None),
 ]
 
 
 def render_shelf():
     spines = []
-    for i, (name, href) in enumerate(SHELF, 1):
+    for i, (name, hebrew, line, href) in enumerate(SHELF, 1):
         if href:
             spines.append(
                 f'<a class="book-spine aliyah" href="{href}" '
-                f'title="Tractate {name} \u2014 take it down">\n'
-                f'  <span class="spine-word">\u05e2\u05dc\u05d9\u05d9\u05d4</span>\n'
+                f'title="Tractate {name} \u00b7 {line}">\n'
+                f'  <span class="spine-word">{hebrew}</span>\n'
                 f'  <span class="spine-title">Tractate {name}</span>\n'
                 f'  <span class="spine-band"></span>\n'
                 f'</a>')
         else:
             spines.append(
                 f'<div class="book-spine wanting b{i}" '
-                f'title="Tractate {name} \u2014 wanting">\n'
-                f'  <span class="spine-word"></span>\n'
+                f'title="Tractate {name} \u00b7 {line}">\n'
+                f'  <span class="spine-word">{hebrew}</span>\n'
                 f'  <span class="spine-title">Tractate {name}</span>\n'
                 f'  <span class="spine-band"></span>\n'
                 f'</div>')
@@ -183,9 +187,6 @@ def render_shelf():
   <header class="shelf-head">
     <div class="shelf-hebrew">\u05d7\u05e9\u05da</div>
     <div class="shelf-seder">Seder Chashak</div>
-    <p class="shelf-note">the World of Darkness as an order of tractates.
-    Eight volumes stand on the shelf; one is bound, and the rest are wanting
-    &mdash; which is not a lack, but a plan.</p>
   </header>
   <div class="shelf">
     <div class="books">
@@ -194,7 +195,6 @@ def render_shelf():
     <div class="plank"></div>
     <div class="plank-shadow"></div>
   </div>
-  <p class="shelf-legend">Take down the third volume.</p>
 </main>"""
 
 

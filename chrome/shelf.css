@@ -20,16 +20,7 @@ body { min-height: 92vh; display: flex; flex-direction: column; justify-content:
   margin: 0.5rem 0 0.1rem;
   letter-spacing: 0.08em;
 }
-.shelf-note {
-  font-size: 0.88rem;
-  font-style: italic;
-  color: rgba(203, 185, 162, 0.8);
-  max-width: 34rem;
-  margin: 0.7rem auto 2.6rem;
-  line-height: 1.6;
-}
-
-.shelf { position: relative; }
+.shelf { position: relative; margin-top: 2.6rem; }
 .books {
   display: flex;
   align-items: flex-end;
@@ -124,13 +115,6 @@ a.book-spine.aliyah:focus-visible {
   height: 26px;
   margin: 0 6%;
   background: radial-gradient(ellipse at 50% 0%, rgba(0, 0, 0, 0.5), transparent 70%);
-}
-
-.shelf-legend {
-  font-size: 0.8rem;
-  font-style: italic;
-  color: rgba(203, 185, 162, 0.6);
-  margin-top: 1.6rem;
 }
 
 @media (max-width: 620px) {

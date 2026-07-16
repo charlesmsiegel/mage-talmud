@@ -11,8 +11,11 @@ Update the status tables here in the same commit as the work.
 | 2a | Convocation | daf | **built** |
 | 2b | The Betrayal | daf | **built** |
 | 3a | Judgments | daf | **built** |
+| 3b | The Unseated Answer | daf | **built** |
 | 148a | The Akashayana | daf (Avot mold) | **built** |
+| 148b | The Wheel | daf | **built** |
 | 515a | Forces | daf (Sphere mold) | **built** |
+| 515b | Conjunctions | daf | **built** |
 | 533a | Paradox | daf | **built** |
 | 533b | Witnesses | daf | **built** |
 | everything else | — | — | briefed in plans/folio-briefs.md |

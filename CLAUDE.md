@@ -53,6 +53,8 @@ folio, cross-references in Masoret point at real folios (or are phrased as
 disputes — a folio whose outer commentary merely explains has failed.
 
 ## Current state
-Built: shaar, 2a, 2b, 3a, 148a, 515a, 533a, 533b. All pass verify.
+Built: shaar, 2a, 2b, 3a, 3b, 148a, 148b, 515a, 515b, 533a, 533b — every
+bound folio is a complete a/b pair, and the shaar ToC links one row per
+folio number. All pass verify.
 Next: Phase 1 remaining — the luach (f435) and seder (f250) proofs, which
 need new renderers in build.py; see PLAN.md.

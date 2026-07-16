@@ -20,10 +20,8 @@ FOLIO = {
     # chapters: (chapter_head, [(folio_anchor_or_None, folio_label, entry_title), ...])
     'toc': [
         ('I \u00b7 The Nine Seats', [
-            ('2a',   '2a',  'Convocation'),
-            ('2b',   '2b',  'The Betrayal'),
-            ('3a',   '3a',  'Judgments'),
-            (None,   '3b',  'The Unseated Answer'),
+            ('2a',   '2',   'Convocation \u00b7 The Betrayal'),
+            ('3a',   '3',   'Judgments \u00b7 The Unseated Answer'),
             (None,   '143', 'Cert\u00e1men'),
         ]),
         ('II \u00b7 The Awakening', [
@@ -42,7 +40,7 @@ FOLIO = {
             (None, '109', 'The Horizon'),
         ]),
         ('V \u00b7 Avot: The Traditions', [
-            ('148a', '148a', 'The Akashayana'),
+            ('148a', '148', 'The Akashayana \u00b7 The Wheel'),
             (None, '150', 'The Celestial Chorus'),
             (None, '152', 'The Sahajiya'),
             (None, '154', 'The Kha\u2019vadi'),
@@ -88,15 +86,14 @@ FOLIO = {
             (None,    '500',  'Casting'),
             (None,    '512',  'Correspondence'),
             (None,    '514',  'Entropy'),
-            ('515a',  '515a', 'Forces'),
+            ('515a',  '515',  'Forces \u00b7 Conjunctions'),
             (None,    '516',  'Life'),
             (None,    '517',  'Matter'),
             (None,    '519',  'Mind'),
             (None,    '520',  'Prime'),
             (None,    '521',  'Spirit'),
             (None,    '522',  'Time'),
-            ('533a',  '533a', 'Paradox'),
-            ('533b',  '533b', 'Witnesses'),
+            ('533a',  '533',  'Paradox \u00b7 Witnesses'),
             (None,    '554',  'Quiet'),
             (None,    '567',  'Focus: Belief'),
             (None,    '572',  'Focus: Practice'),
@@ -108,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are seven; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are ten; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }

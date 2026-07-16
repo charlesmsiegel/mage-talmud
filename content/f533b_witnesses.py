@@ -69,8 +69,8 @@ FOLIO = {'bottom': '<p><span class="lemma">On monsters in the audience.</span> T
            '        <p class="drop"><span class="mark">d</span> On the lens: the question was '
            'raised overleaf, folio 533a, and left standing. This page takes it up.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The witness problem recurs across Seder Chashak: '
-           'Tractate Masquerade&rsquo;s breach, Tractate Apocalypse&rsquo;s Veil and its Delirium, '
-           'Tractate Dreaming&rsquo;s Banality. One law, refracted through four tractates.</p>\n'
+           'Tractate Masekha&rsquo;s breach, Tractate Acharit&rsquo;s Veil and its Delirium, '
+           'Tractate Chalom&rsquo;s Banality. One law, refracted through four tractates.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> Note the difference of '
            'jurisdiction: the Veil enforces itself upon the witness&rsquo;s mind; Paradox, upon '
            'the worker. The Delirium punishes seeing; Paradox punishes being seen.</p>\n'

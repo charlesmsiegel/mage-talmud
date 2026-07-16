@@ -23,9 +23,25 @@ convention is invented, it gets written into this file in the same commit.
 
 - The corpus is **Seder Chashak** (חשך, "to be dark, hidden, obscured") — the
   World of Darkness as an order of tractates. This volume is **Tractate
-  Aliyah** (עלייה, "ascension"): Mage. Sibling tractates (Masquerade,
-  Apocalypse, Dreaming, Redemption, Oblivion, Reckoning) exist only as
-  Masoret cross-references until someone writes them.
+  Aliyah** (עלייה, "ascension"): Mage. The sibling tractates carry Hebrew
+  names chosen for the connotations of each line's subtitle, and exist only
+  as shelf spines and Masoret cross-references until someone writes them:
+  - **Masekha** (מסכה, "mask" — and, pointedly, "molten idol"): Vampire,
+    the Masquerade. The pun on *masechet* is intentional and citable.
+  - **Acharit** (אחרית, "the end of days," *acharit ha-yamim*): Werewolf,
+    the Apocalypse.
+  - **Neshiyah** (נשייה, "oblivion, the land of forgetting," Ps. 88's
+    *eretz neshiyah* — where the dead are forgotten): Wraith, the Oblivion.
+  - **Chalom** (חלום, "dream"; Ps. 126's "we were like dreamers" — exile
+    remembered as a dream): Changeling, the Dreaming.
+  - **Din** (דין, "judgment"; *Yom ha-Din*, the Day of Reckoning): Hunter,
+    the Reckoning.
+  - **Techiyah** (תחייה, "resurrection," *techiyat ha-metim*): Mummy, the
+    Resurrection.
+  - **Nefilim** (נפילים, "the fallen ones," Gen. 6): Demon, the Fallen.
+  In-folio references use the Hebrew name (e.g. "Tractate Masekha's
+  breach"); the shelf shows Hebrew script on the spine-head and the
+  transliteration on the spine.
 - **Folio numbers are M20 page numbers.** Folio 148 is the Akashayana because
   that is their page in the book; the Spheres run 511–527; Paradox is 533.
   This makes Ein Mishpat citations and folio numbers one concordance, and
@@ -146,7 +162,11 @@ Total ≈ 70 folios + shaar.
    &middot;` (files are ASCII with entities, matching the ported folios).
 3. Add the module to `MANIFEST` in build.py (keep `'...'` lacunae markers
    between non-adjacent folios), and un-wanting its line in
-   `content/shaar.py`'s ToC (set the anchor).
+   `content/shaar.py`'s ToC (set the anchor). ToC rows are one per **folio
+   number**, not per side: the anchor is the `a` side, the label is the bare
+   number, and the recto and verso titles are joined with a middot
+   ("Forces · Conjunctions"). When a folio's `b` side is bound later, extend
+   the existing row's title rather than adding a row.
 4. `python3 build.py` → `python3 verify.py`.
 5. If verify warns a flow doesn't wrap: add a lemma to that flow (see §4).
 6. Eyeball the page in a browser at desktop and ≤860px widths.
