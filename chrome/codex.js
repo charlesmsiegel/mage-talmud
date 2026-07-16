@@ -1,7 +1,8 @@
-/* CodexNav - binds the leaves into a turnable volume. Requires DafEngine. */
+/* CodexNav - binds the leaves into a turnable volume. Requires DafEngine.
+   No tab bar: pages are turned with the side arrows, arrow keys, swipe, or
+   a #folio hash (the shaar ToC links navigate this way). */
 (function () {
   var leaves = Array.prototype.slice.call(document.querySelectorAll('.leaf'));
-  var tabs = Array.prototype.slice.call(document.querySelectorAll('.tabs button'));
   var prevBtn = document.querySelector('.turn.prev');
   var nextBtn = document.querySelector('.turn.next');
   var names = leaves.map(function (l) { return l.getAttribute('data-folio'); });
@@ -19,7 +20,6 @@
     if (current >= 0) leaves[current].className = 'leaf';
     current = i;
     leaves[i].className = 'leaf active' + (dir ? ' ' + dir : '');
-    tabs.forEach(function (t, k) { t.classList.toggle('active', k === i); });
     prevBtn.disabled = (i === 0);
     nextBtn.disabled = (i === leaves.length - 1);
     document.title = 'Tractate Aliyah \u00b7 ' +
@@ -38,9 +38,6 @@
 
   prevBtn.addEventListener('click', function () { show(current - 1, 'bwd'); });
   nextBtn.addEventListener('click', function () { show(current + 1, 'fwd'); });
-  tabs.forEach(function (t, k) {
-    t.addEventListener('click', function () { show(k, k > current ? 'fwd' : 'bwd'); });
-  });
 
   document.addEventListener('keydown', function (e) {
     if (e.key === 'ArrowRight') show(current + 1, 'fwd');

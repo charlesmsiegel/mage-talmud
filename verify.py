@@ -48,9 +48,10 @@ def main():
         page.on('console', lambda m: errs.append(m.text) if m.type == 'error' else None)
         page.goto('file://' + str(path))
         page.wait_for_timeout(1200)
-        n = page.evaluate("() => document.querySelectorAll('.tabs button').length")
-        for i in range(n):
-            page.evaluate(f"() => document.querySelectorAll('.tabs button')[{i}].click()")
+        folios = page.evaluate("() => Array.from(document.querySelectorAll('.leaf'))"
+                               ".map(l => l.getAttribute('data-folio'))")
+        for f in folios:
+            page.evaluate("f => { location.hash = f; }", f)
             page.wait_for_timeout(750)
             r = page.evaluate(GEO)
             if r.get('visible', 1) != 1:

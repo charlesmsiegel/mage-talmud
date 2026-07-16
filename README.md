@@ -28,9 +28,13 @@ The build embeds this notice and the Dark Pack logo into the site itself
 ## Website
 
 Every push to `main` builds `dist/` and publishes it to GitHub Pages
-(`.github/workflows/site.yml`): the bound codex is the front page, and each
-standalone folio is reachable at its own path (e.g. `/f533a_paradox.html`).
-Pull requests run the same build plus `verify.py` as checks.
+(`.github/workflows/site.yml`). The front page is **the shelf**: the eight
+tractates of Seder Chashak spine-out on a shelf, of which only Aliyah is
+bound and clickable. Clicking it opens the codex (`/tractate-aliyah.html`),
+which is paged through with side arrows, arrow keys, or swipe — no tab bar.
+Each standalone folio is also reachable at its own path (e.g.
+`/f533a_paradox.html`). Pull requests run the same build plus `verify.py`
+as checks.
 
 ## Quickstart
 
@@ -56,8 +60,9 @@ assets/
   darkpack_logo.png Dark Pack logo (README display copy)
 chrome/
   daf.css           shared page styles (fontless; fonts injected at build)
-  codex.css         binder bar, page-turn animation
+  codex.css         page-turn chrome: side arrows, shelf link, leaf animation
   shaar.css         title-page styles (standalone shaar + codex)
+  shelf.css         the shelf home page (eight spines, one bound)
   engine.js         DafEngine: runtime interlock layout (class-scoped)
   codex.js          CodexNav: tabs, arrows, keyboard, swipe, hash routing
   fonts/            Abbess + Goudy Old Style, base64-embedded at build time

@@ -142,6 +142,58 @@ def render_shaar(m):
 </main>"""
 
 
+# The eight tractates of Seder Chashak, shelved in publication order of the
+# game lines they answer to. Only Aliyah is bound; the rest are wanting.
+SHELF = [
+    ('Masquerade', None),
+    ('Apocalypse', None),
+    ('Aliyah', 'tractate-aliyah.html'),
+    ('Oblivion', None),
+    ('Dreaming', None),
+    ('Reckoning', None),
+    ('Resurrection', None),
+    ('Redemption', None),
+]
+
+
+def render_shelf():
+    spines = []
+    for i, (name, href) in enumerate(SHELF, 1):
+        if href:
+            spines.append(
+                f'<a class="book-spine aliyah" href="{href}" '
+                f'title="Tractate {name} \u2014 take it down">\n'
+                f'  <span class="spine-word">\u05e2\u05dc\u05d9\u05d9\u05d4</span>\n'
+                f'  <span class="spine-title">Tractate {name}</span>\n'
+                f'  <span class="spine-band"></span>\n'
+                f'</a>')
+        else:
+            spines.append(
+                f'<div class="book-spine wanting b{i}" '
+                f'title="Tractate {name} \u2014 wanting">\n'
+                f'  <span class="spine-word"></span>\n'
+                f'  <span class="spine-title">Tractate {name}</span>\n'
+                f'  <span class="spine-band"></span>\n'
+                f'</div>')
+    return f"""<main class="shelf-room">
+  <header class="shelf-head">
+    <div class="shelf-hebrew">\u05d7\u05e9\u05da</div>
+    <div class="shelf-seder">Seder Chashak</div>
+    <p class="shelf-note">the World of Darkness as an order of tractates.
+    Eight volumes stand on the shelf; one is bound, and the rest are wanting
+    &mdash; which is not a lack, but a plan.</p>
+  </header>
+  <div class="shelf">
+    <div class="books">
+      {chr(10).join(spines)}
+    </div>
+    <div class="plank"></div>
+    <div class="plank-shadow"></div>
+  </div>
+  <p class="shelf-legend">Take down the third volume.</p>
+</main>"""
+
+
 RENDERERS = {'daf': render_daf, 'shaar': render_shaar}
 
 
@@ -197,24 +249,19 @@ def build():
         print(f'built {out.name}  ({out.stat().st_size:,} bytes)')
 
     # ---- the bound codex ----
-    tab_buttons, leaf_divs = [], []
+    leaf_divs = []
     for item in leaves:
         if item is None:
-            tab_buttons.append('<span class="lacuna" title="the folios between are wanting">'
-                               '&middot;&middot;&middot;</span>')
             continue
         m, body = item
         anchor = m['folio'].lower()
-        label = 'Shaar' if anchor == 'shaar' else anchor
-        tab_buttons.append(f'<button><span class="fnum">{label}</span>{m["name"]}</button>')
         leaf_divs.append(f'<div class="leaf" data-folio="{anchor}" data-name="{m["name"]}">\n'
                          f'{body}\n</div>')
 
-    nav = ('<nav class="binder">\n'
-           '  <button class="turn prev" aria-label="previous folio">&lsaquo;</button>\n'
-           '  <div class="tabs">\n    ' + '\n    '.join(tab_buttons) + '\n  </div>\n'
-           '  <button class="turn next" aria-label="next folio">&rsaquo;</button>\n'
-           '</nav>\n')
+    nav = ('<a class="shelf-link" href="./" title="return the volume to the shelf">'
+           '&lsaquo; the shelf</a>\n'
+           '<button class="turn prev" aria-label="previous folio">&lsaquo;</button>\n'
+           '<button class="turn next" aria-label="next folio">&rsaquo;</button>\n')
 
     codex = page_shell(
         'Tractate Aliyah \u00b7 Seder Chashak \u2014 the bound folios',
@@ -224,6 +271,14 @@ def build():
         extra_js='<script>\n' + (CHROME / 'codex.js').read_text() + '\n</script>\n')
     out = DIST / 'tractate-aliyah.html'
     out.write_text(codex)
+    print(f'built {out.name}  ({out.stat().st_size:,} bytes)')
+
+    # ---- the shelf (site home page) ----
+    out = DIST / 'index.html'
+    out.write_text(page_shell(
+        'Seder Chashak \u2014 the shelf',
+        render_shelf(),
+        extra_css='\n' + (CHROME / 'shelf.css').read_text()))
     print(f'built {out.name}  ({out.stat().st_size:,} bytes)')
 
 

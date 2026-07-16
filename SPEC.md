@@ -76,7 +76,13 @@ Register conventions:
   head, subtitle, glosses, title box, center (Mishnah+Gemara), two commentary
   flows, bottom band, hagahah, colophon.
 - **shaar** — ornate title page + table of contents (implemented). Folio 1 of
-  the codex; ToC anchors navigate the binder.
+  the codex; ToC anchors navigate the codex by hash.
+- **the shelf** — the site's home page (implemented; `dist/index.html`, not a
+  folio). The eight tractates of Seder Chashak stand spine-out on a shelf in
+  publication order of their game lines; only Aliyah is bound and clickable,
+  the rest are wanting. Clicking Aliyah opens the codex, which has no tab
+  bar: pages are turned with the side arrows, arrow keys, swipe, or a
+  `#folio` hash.
 - **luach** — chart folio: the center block is a reference table (difficulty
   charts, weapons, backlash ladder, Merits/Flaws), commentary frame thinner.
   Precedent: the Vilna's own diagram pages in Eruvin. **Not yet implemented**
