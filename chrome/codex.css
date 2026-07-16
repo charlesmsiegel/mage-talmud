@@ -1,8 +1,12 @@
 /* ---------- codex chrome: no tab bar, just the turnable pages ---------- */
-.shelf-link {
+.codex-links {
   position: fixed;
   top: 0.9rem; left: 1rem;
   z-index: 50;
+  display: flex;
+  gap: 0.45rem;
+}
+.codex-links a {
   font-family: var(--display);
   font-size: 0.78rem;
   letter-spacing: 0.12em;
@@ -15,7 +19,7 @@
   background: rgba(25, 20, 22, 0.78);
   transition: color 0.15s, border-color 0.15s;
 }
-.shelf-link:hover { color: var(--gold); border-color: rgba(228, 200, 109, 0.55); }
+.codex-links a:hover { color: var(--gold); border-color: rgba(228, 200, 109, 0.55); }
 
 .turn {
   position: fixed;
@@ -61,5 +65,5 @@
     height: 2.8rem; width: 3.4rem;
     font-size: 1.7rem;
   }
-  .shelf-link { position: absolute; }
+  .codex-links { position: absolute; }
 }
