@@ -11,6 +11,8 @@ Update the status tables here in the same commit as the work.
 | 2a | Convocation | daf | **built** |
 | 2b | The Betrayal | daf | **built** |
 | 3a | Judgments | daf | **built** |
+| 148a | The Akashayana | daf (Avot mold) | **built** |
+| 515a | Forces | daf (Sphere mold) | **built** |
 | 533a | Paradox | daf | **built** |
 | 533b | Witnesses | daf | **built** |
 | everything else | — | — | briefed in plans/folio-briefs.md |
@@ -20,10 +22,10 @@ Update the status tables here in the same commit as the work.
 Each proves a mold the rest of production reuses. Definition of done is in
 CLAUDE.md.
 
-1. **f515 Forces** (Sphere daf). No new code. Proves the Sphere mold that
-   folios 512–524 will be batch-produced against. Brief: chapter XI.
-2. **f148 Akashayana** (Avot daf). No new code. Proves the Tradition mold for
-   chapter V (and, with the register swap, chapter VI). Brief: chapter V.
+1. ~~**f515 Forces** (Sphere daf)~~ **done** — the Sphere mold is proven;
+   folios 512–524 batch against `content/f515a_forces.py`.
+2. ~~**f148 Akashayana** (Avot daf)~~ **done** — the Avot mold is proven;
+   chapter V batches against `content/f148a_akashayana.py`.
 3. **f435 Hazards** (luach). Requires `render_luach` in build.py + table CSS
    in chrome/daf.css. Spec: plans/pagetypes.md. Proves the chart mold used by
    273/275/303/435 and the minor tractates.

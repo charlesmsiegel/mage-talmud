@@ -22,6 +22,10 @@ MANIFEST = [
     'f002b_betrayal',
     'f003a_judgments',
     '...',
+    'f148a_akashayana',
+    '...',
+    'f515a_forces',
+    '...',
     'f533a_paradox',
     'f533b_witnesses',
 ]
