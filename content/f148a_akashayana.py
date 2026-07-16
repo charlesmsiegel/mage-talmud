@@ -1,9 +1,9 @@
-# Folio 148a - The Akashayana. The Phase-1 Avot-mold proof (SPEC section 7):
+# Folio 148a - The Akashic Brotherhood. The Phase-1 Avot-mold proof (SPEC section 7):
 # Mishnah = the Tradition as law; Gemara = the chain of transmission,
 # Pirkei Avot form; outer = the Tradition's internal factions arguing.
 FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> The caricature arrives '
            'before the character does: shave the head, fold the hands, wait for the fight scene. '
-           'Resist it. The Akashayana of the books are librarians, medics, fencers, monks, '
+           'Resist it. The Brotherhood of the books are librarians, medics, fencers, monks, '
            'programmers, and grandmothers, drawn from half the world&rsquo;s cultures and several '
            'of its quarrels, and the Way is what they share, not a costume. Two pitfalls '
            'deserve naming in session zero: the kung-fu cartoon, which reduces a contemplative '
@@ -32,16 +32,16 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
  'bottom_head': 'The Later Authorities<span class="comm-sub">on stereotype and specificity, the '
                 'Record as plot, and the Way at the table</span>',
  'center': '<p class="noindent"><span class="dropcap">M</span><span class="kw">ISHNAH.</span> '
-           '<span class="incipit">The Akashayana hold</span> that mind is prior: body, breath, '
+           '<span class="incipit">The Akashic Brotherhood hold</span> that mind is prior: body, breath, '
            'and thought are one motion, and the self is a habit that training unlearns.<sup>a</sup> '
            'Their practice is <span class="term">Do</span>, the Way entire &mdash; meditation, '
            'medicine, calligraphy, and the arts of war as one curriculum, of which combat is a '
            'wing and not the house.<sup>b</sup> Their instruments are the body and its '
            'disciplines: breath, stance, fast, drill, and the question sat with until it opens. '
-           'Their seat among the Nine is <span class="term">Mind</span>. They are called also the '
-           'Akashic Brotherhood, and they are many peoples, many lineages, and several old '
-           'quarrels walking one Way; the Way is what is shared, and the law requires nothing '
-           'else to be.</p>\n'
+           'Their seat among the Nine is <span class="term">Mind</span>. They are many peoples, many '
+           'lineages, and several old quarrels walking one Way &mdash; some urge the pan-Asian '
+           'name <span class="term">Akashayana</span> for the whole, and the urging is argued '
+           'below; the Way is what is shared, and the law requires nothing else to be.</p>\n'
            '        <p>Their internal law is twofold. The <span class="term">Akashic '
            'Record</span>: every action, thought, and intent &mdash; past, passing, and to '
            'come &mdash; leaves its imprint in the primal emptiness, and the trained may reach '
@@ -68,7 +68,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
              'Style after the M20 interior &middot; first of the nine Avot folios; its eight '
              'siblings are wanting &middot; teyku &mdash; let the gate stand open or shut.',
  'folio': '148A',
- 'glossL': '<p><span class="mark">a</span> On the Akashayana entire &mdash; paradigm, practice, '
+ 'glossL': '<p><span class="mark">a</span> On the Akashic Brotherhood entire &mdash; paradigm, practice, '
            'history, and the modern sangha &mdash; see M20, the Traditions chapter, folio 148, '
            'whence this page takes its number.</p>\n'
            '        <p><span class="mark">b</span> On Do as curriculum and combat art, see '
@@ -91,7 +91,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
            '        <p class="drop"><span class="mark">&sect;</span> The seat&rsquo;s Sphere is '
            'tried at folio 519, which is wanting; the duel law this folio&rsquo;s masters are '
            'forever being challenged under is folio 143, likewise wanting.</p>',
- 'h1': 'The Akashayana',
+ 'h1': 'The Akashic Brotherhood',
  'hagahah': 'The Akashic Record preserves, complete and consultable, every argument the '
             'Brotherhood has ever held about what the Akashic Record is. Consulting it does not '
             'settle the question. It adds the consultation.',
@@ -117,7 +117,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
           '        <p><span class="lemma">The body and its disciplines.</span> The instrument '
           'law&rsquo;s plain sense: nothing to confiscate, nothing to forget in the other '
           'coat. Customs cannot seize breath, and the naked-cell scene that disarms every '
-          'other Tradition leaves the Akashayana approximately as dangerous as before. The '
+          'other Tradition leaves the Brotherhood approximately as dangerous as before. The '
           'price sits on the other side of the ledger: the toolkit took years the other '
           'Traditions spent elsewhere, and the body&rsquo;s limits &mdash; fatigue, injury, '
           'age &mdash; are the toolkit&rsquo;s limits too.</p>\n'
@@ -143,7 +143,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
           'opposite.</p>',
  'inner_head': 'On the Way<span class="comm-sub">the inner commentary &middot; the plain sense '
                '&middot; playing the paradigm, clause by clause</span>',
- 'name': 'The Akashayana',
+ 'name': 'The Akashic Brotherhood',
  'outer': '<p><span class="lemma">Of which combat is a wing.</span> Then which wing bears the '
           'house? <span class="voice">The fist says:</span> the Way survived because warriors '
           'died for it &mdash; against the death-mages in the passes, against the Union in the '
@@ -192,6 +192,6 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
  'rubric': 'the Way, its keepers, and its gate',
  'subtitle': 'Tractate Aliyah (&ldquo;Ascension&rdquo;) of Seder Chashak (חשך, &ldquo;to be dark, '
              'hidden, obscured&rdquo;) &middot; Chapter the Fifth: Avot, The Traditions &middot; '
-             'of the Akashayana &middot; the Tradition as law, its lineage as aggada',
- 'title': 'Tractate Aliyah · Folio 148a — The Akashayana: the Way, its keepers, and its gate',
+             'of the Akashic Brotherhood &middot; the Tradition as law, its lineage as aggada',
+ 'title': 'Tractate Aliyah · Folio 148a — The Akashic Brotherhood: the Way, its keepers, and its gate',
  'type': 'daf'}

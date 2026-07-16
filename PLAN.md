@@ -12,8 +12,16 @@ Update the status tables here in the same commit as the work.
 | 2b | The Betrayal | daf | **built** |
 | 3a | Judgments | daf | **built** |
 | 3b | The Unseated Answer | daf | **built** |
-| 148a | The Akashayana | daf (Avot mold) | **built** |
+| 148a | The Akashic Brotherhood | daf (Avot mold) | **built** |
 | 148b | The Wheel | daf | **built** |
+| 150a/b | The Celestial Chorus · The Reformation | daf pair | **built** |
+| 152a/b | The Cult of Ecstasy · The Burden | daf pair | **built** |
+| 154a/b | The Dreamspeakers · The People | daf pair | **built** |
+| 156a/b | The Chakravanti · Jhor | daf pair | **built** |
+| 158a/b | The Order of Hermes · The Houses | daf pair | **built** |
+| 160a/b | The Society of Ether · Paradigma | daf pair | **built** |
+| 162a/b | The Verbena · The Garden | daf pair | **built** |
+| 164a/b | The Virtual Adepts · The Web | daf pair | **built** |
 | 515a | Forces | daf (Sphere mold) | **built** |
 | 515b | Conjunctions | daf | **built** |
 | 533a | Paradox | daf | **built** |
@@ -27,7 +35,7 @@ CLAUDE.md.
 
 1. ~~**f515 Forces** (Sphere daf)~~ **done** — the Sphere mold is proven;
    folios 512–524 batch against `content/f515a_forces.py`.
-2. ~~**f148 Akashayana** (Avot daf)~~ **done** — the Avot mold is proven;
+2. ~~**f148 Akashic Brotherhood** (Avot daf)~~ **done** — the Avot mold is proven;
    chapter V batches against `content/f148a_akashayana.py`.
 3. **f435 Hazards** (luach). Requires `render_luach` in build.py + table CSS
    in chrome/daf.css. Spec: plans/pagetypes.md. Proves the chart mold used by
@@ -47,7 +55,7 @@ faction chapters batch cleanly once their molds exist.
 2. **X Strife** (409, 423, 430, 435✓) — combat; 435 already done in Phase 1.
 3. **XI The Book of Magick** (500, 512–524 batch vs the f515 mold, 554,
    567/572/586, 607) — the heart; largest chapter, ~16 remaining after proofs.
-4. **V Avot** (150–164 batch vs the f148 mold) — 8 remaining.
+4. ~~**V Avot** (150–164 batch vs the f148 mold)~~ **done** — chapter V complete, every folio an a/b pair.
 5. **VI The Union** (168, 186–194) — decide the register-swap question on 168
    before batching the Conventions (see chapter VI brief).
 6. **II The Awakening** (38, 43, 46) and **III The World** (62, 78, 82).
