@@ -9,6 +9,22 @@ This is a fan work. No sourcebook text is reproduced anywhere in the project
 wording and the fiction is retold, with Ein Mishpat glosses citing the real
 page numbers instead.
 
+## Dark Pack
+
+<img src="assets/darkpack_logo.png" alt="World of Darkness Dark Pack logo" width="180">
+
+This project is unofficial fan content made under Paradox Interactive's
+[Dark Pack agreement](https://www.paradoxinteractive.com/games/world-of-darkness/community/dark-pack-agreement).
+It is not official World of Darkness material, it is non-commercial, and it
+is free to access.
+
+> Portions of the materials are the copyrights and trademarks of Paradox
+> Interactive AB, and are used with permission. All rights reserved. For more
+> information please visit [worldofdarkness.com](https://www.worldofdarkness.com).
+
+The build embeds this notice and the Dark Pack logo into the site itself
+(logo on the shaar; a legal line in every page's footer).
+
 ## Website
 
 Every push to `main` builds `dist/` and publishes it to GitHub Pages
@@ -36,12 +52,16 @@ PLAN.md             roadmap, status tables, phase checklists
 plans/
   folio-briefs.md   a content brief for every planned folio (~65)
   pagetypes.md      design specs: luach, seder, shtar; shaar upgrades
+assets/
+  darkpack_logo.png Dark Pack logo (README display copy)
 chrome/
   daf.css           shared page styles (fontless; fonts injected at build)
-  codex.css         binder bar, page-turn animation, shaar styles
+  codex.css         binder bar, page-turn animation
+  shaar.css         title-page styles (standalone shaar + codex)
   engine.js         DafEngine: runtime interlock layout (class-scoped)
   codex.js          CodexNav: tabs, arrows, keyboard, swipe, hash routing
   fonts/            Abbess + Goudy Old Style, base64-embedded at build time
+  darkpack-logo.png small Dark Pack logo, base64-embedded into the shaar
 content/
   shaar.py          title page + table of contents (anchors = binder hashes)
   f002a_*.py ...    one module per folio; dict format documented by example

@@ -95,6 +95,20 @@ def render_daf(m):
 </main>"""
 
 
+DARKPACK_TEXT = (
+    'Unofficial fan content made under Paradox Interactive&rsquo;s '
+    '<a href="https://www.paradoxinteractive.com/games/world-of-darkness/community/dark-pack-agreement">'
+    'Dark Pack agreement</a>; not official World of Darkness material. '
+    'Portions of the materials are the copyrights and trademarks of Paradox '
+    'Interactive AB, and are used with permission. All rights reserved. For more '
+    'information please visit <a href="https://www.worldofdarkness.com">worldofdarkness.com</a>.')
+
+
+def darkpack_logo_uri():
+    b = base64.b64encode((CHROME / 'darkpack-logo.png').read_bytes()).decode()
+    return 'data:image/png;base64,' + b
+
+
 def render_shaar(m):
     chapters = []
     for head, entries in m['toc']:
@@ -118,6 +132,10 @@ def render_shaar(m):
         {''.join(chapters)}
       </div>
       <hr class="shaar-rule">
+      <div class="darkpack">
+        <img src="{darkpack_logo_uri()}" alt="World of Darkness Dark Pack logo">
+        <p>{DARKPACK_TEXT}</p>
+      </div>
       <p class="shaar-colophon">{m['colophon']}</p>
     </div>
   </div>
@@ -136,6 +154,7 @@ def page_shell(title, body, extra_css='', extra_js=''):
         '<style>\n' + font_css() + (CHROME / 'daf.css').read_text()
         + extra_css + '\n</style>\n</head>\n<body>\n'
         + body
+        + f'\n<footer class="darkpack-legal">{DARKPACK_TEXT}</footer>\n'
         + '\n<script>\n' + (CHROME / 'engine.js').read_text() + '\n</script>\n'
         + extra_js + '</body>\n</html>\n')
 
@@ -173,7 +192,8 @@ def build():
         if only and not entry.startswith(only):
             continue
         out = DIST / (entry + '.html')
-        out.write_text(page_shell(m['title'], body, extra_js=STANDALONE_INIT))
+        css = '\n' + (CHROME / 'shaar.css').read_text() if m['type'] == 'shaar' else ''
+        out.write_text(page_shell(m['title'], body, extra_css=css, extra_js=STANDALONE_INIT))
         print(f'built {out.name}  ({out.stat().st_size:,} bytes)')
 
     # ---- the bound codex ----
@@ -199,7 +219,8 @@ def build():
     codex = page_shell(
         'Tractate Aliyah \u00b7 Seder Chashak \u2014 the bound folios',
         nav + '<div class="book">\n' + '\n'.join(leaf_divs) + '\n</div>',
-        extra_css='\n' + (CHROME / 'codex.css').read_text(),
+        extra_css='\n' + (CHROME / 'shaar.css').read_text()
+                  + '\n' + (CHROME / 'codex.css').read_text(),
         extra_js='<script>\n' + (CHROME / 'codex.js').read_text() + '\n</script>\n')
     out = DIST / 'tractate-aliyah.html'
     out.write_text(codex)

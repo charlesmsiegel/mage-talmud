@@ -297,3 +297,17 @@ body {
   .running-head { grid-template-columns: 1fr; text-align: center; }
   .running-head .folio, .running-head .folio.right { text-align: center; }
 }
+
+/* Dark Pack legal line (every built page; sits on the dark body background) */
+.darkpack-legal {
+  max-width: 46rem;
+  margin: 0.9rem auto 1.6rem;
+  padding: 0 1rem;
+  text-align: center;
+  font-family: var(--serif);
+  font-size: 0.68rem;
+  font-style: italic;
+  color: rgba(203, 185, 162, 0.75);
+  line-height: 1.5;
+}
+.darkpack-legal a { color: inherit; }

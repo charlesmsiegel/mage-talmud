@@ -51,9 +51,8 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    # Requires a one-time repo setting: Settings -> Pages -> Source = GitHub Actions.
+    # (The default GITHUB_TOKEN cannot enable Pages itself.)
     steps:
-      - uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - id: deployment
         uses: actions/deploy-pages@v4
