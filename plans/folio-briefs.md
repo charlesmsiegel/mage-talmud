@@ -11,9 +11,9 @@ ToC; the exact page for a specific rule may need checking against the book.
 
 ---
 
-## Chapter I — The Nine Seats (2a ✅, 2b ✅, 3a ✅)
+## Chapter I — The Nine Seats (2a ✅, 2b ✅, 3a ✅, 3b ✅)
 
-### f003b — The Unseated Answer (daf)
+### f003b — The Unseated Answer (daf) ✅
 The verso the Masoret of 2a promised: the founding retold from outside.
 **Center:** Mishnah — the Council's law of outsiders: parley rights, the
 guest seat's protections, the status of the unseated (neither member nor
@@ -174,12 +174,27 @@ the internal factions arguing (every Tradition contains its own dispute;
 that dispute is the folio's engine). **LA** — chronicle use, stereotypes to
 avoid, the Tradition's table pitfalls. **Hag** — earned, affectionate, dry.
 
-### f148 — The Akashayana (Mind)
+### f148a — The Akashayana (Mind) ✅
 Internal law: the Akashic Record and who may read it; Do as practice-law.
 Factions/dispute: warrior vs. scholar vs. merchant readings of the way
 (Vajrapani / Jnani / Shi-Ren tension); whether Do may be taught outside.
 X: f423 (Do mechanics), f519. Hag seed: the Record remembers every argument
 about what the Record is.
+
+### f148b — The Wheel (daf) ✅
+The verso: the Akashayana's law of return, per Lore of the Traditions.
+**Center:** Mishnah — reincarnation law (near half of each generation are
+returning souls; the sangha plans for it); the lùkŏu (karmic bond of two
+Avatars across lifetimes, born of love or violent death, held until
+resolved); teaching order (bodhimandala, the monastic first season, free
+choice of school, senior/junior pairs). Gemara — a returning-soul maaseh;
+the Wheel checks no affiliations (the Wu Lung arriving).
+**Disputes:** does seniority survive death; the hateful lùkŏu as debt vs.
+doom; the enemy reborn — welcome vs. infiltration (148a's gate dispute,
+answered from above). **LA:** returning souls at the table (authorship
+split, metering memory); the lùkŏu as troupe glue; past lives must never
+drive. **X:** 148a, f043, 2b (Gilgul as the negative), 156.
+**Hag:** half the sangha remembers dying for the Way.
 
 ### f150 — The Celestial Chorus (Prime)
 Internal law: the One sung by many; heresy and harmony procedure.
@@ -463,13 +478,21 @@ holders. **Hag:** one per Sphere, earned.
   readings of one Sphere); the living-pattern boundary (which dot touches
   life); curse ethics. X: f156, f393. Hag: the house always wins; Entropy 3
   is buying the house.
-- **f515 Forces** (THE PHASE-1 PROOF) — disputes: control vs. create (the
+- **f515a Forces** (THE PHASE-1 PROOF) ✅ — disputes: control vs. create (the
   juiciest dot-boundary in the game — rank 2's redirect against rank 3's
   conjure, argued with the classic cases: the redirected bullet, the fanned
   flame, the lightning from clear sky); base-damage scaling; invisible
   workings' vulgarity (cite 533a HOO directly). X: f158, f186, f435.
   Hag: every apprentice's first question is the fireball; every master's
   last answer is the match.
+- **f515b Conjunctions** ✅ — the verso: joint-working law. Mishnah — rated
+  by the highest Sphere (cite 533a), Prime as senior partner, the named
+  pairings (Matter/Life attraction-repulsion; Entropy; Mind; Spirit; Time
+  triggers), specialties at the fourth dot (tens double), Resonance and the
+  "Nukes." Disputes: Sphere-shopping the rating law; the standing shield's
+  vulgarity meter; the hung bolt's Paradox timing (TEYKU); Resonance as
+  signature (the witness thesis again). X: 515a, 533a, f517/f520/f522.
+  Hag: no one introduces herself as a Nuke.
 - **f516 Life** — disputes: heal-self vs. heal-others rank asymmetry; the
   better-body temptation; where Life ends and Mind begins in a brain.
   X: f162, f190, f406.
