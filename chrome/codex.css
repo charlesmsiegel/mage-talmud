@@ -1,0 +1,177 @@
+/* ---------- binder ---------- */
+body { padding-top: 5.4rem; }
+.binder {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+  padding: 0.55rem 1rem;
+  background: linear-gradient(180deg, #2b2124, #241c1e);
+  border-bottom: 1px solid #4b3a3e;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.5);
+}
+.binder .turn {
+  font-family: var(--display);
+  font-size: 1.5rem;
+  line-height: 1;
+  color: var(--gold);
+  background: none;
+  border: 1px solid rgba(228,200,109,0.35);
+  border-radius: 2px;
+  width: 2.2rem; height: 2.2rem;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+.binder .turn:hover { background: rgba(228,200,109,0.12); }
+.binder .turn:disabled { opacity: 0.25; cursor: default; background: none; }
+.tabs {
+  display: flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  overflow-x: auto;
+  max-width: 78vw;
+  scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tabs button {
+  font-family: var(--display);
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  color: #cbb9a2;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 0.3rem 0.55rem 0.35rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 0.15s, border-color 0.15s;
+}
+.tabs button:hover { color: var(--gold); }
+.tabs button.active { color: var(--gold); border-bottom-color: var(--gold); }
+.tabs button .fnum { color: #8d7a80; margin-right: 0.3rem; }
+.tabs button.active .fnum { color: rgba(228,200,109,0.7); }
+.tabs .lacuna {
+  font-family: var(--serif);
+  color: #6d5a60;
+  letter-spacing: 0.2em;
+  padding: 0 0.15rem;
+  cursor: help;
+}
+
+/* ---------- leaves & the turn ---------- */
+.book { perspective: 2600px; }
+.leaf { display: none; }
+.leaf.active { display: block; }
+.leaf.active.fwd { animation: turnFwd 0.55s cubic-bezier(0.2, 0.7, 0.3, 1); transform-origin: left center; }
+.leaf.active.bwd { animation: turnBwd 0.55s cubic-bezier(0.2, 0.7, 0.3, 1); transform-origin: right center; }
+@keyframes turnFwd {
+  from { opacity: 0; transform: rotateY(-16deg) translateX(30px); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes turnBwd {
+  from { opacity: 0; transform: rotateY(16deg) translateX(-30px); }
+  to   { opacity: 1; transform: none; }
+}
+
+@media (max-width: 860px) {
+  body { padding-top: 7.6rem; }
+  .binder { flex-wrap: wrap; gap: 0.4rem; padding: 0.45rem 0.6rem; }
+  .tabs { max-width: 100vw; order: 3; width: 100%; justify-content: flex-start; }
+}
+
+/* ---------- shaar (title page) ---------- */
+.shaar-page .frame { padding: 2.2rem 2rem 2.4rem; }
+.shaar-arch {
+  border: 1.5px solid var(--rule);
+  box-shadow: inset 0 0 0 4px var(--paper), inset 0 0 0 5px rgba(95,29,37,0.35),
+              inset 0 0 0 10px var(--paper), inset 0 0 0 11px rgba(75,40,112,0.3);
+  padding: 2.6rem 2.4rem 2.2rem;
+  text-align: center;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(75,40,112,0.07), transparent 55%),
+    linear-gradient(180deg, rgba(95,29,37,0.04), transparent 40%);
+}
+.shaar-seder {
+  font-family: var(--display);
+  font-size: 0.95rem;
+  letter-spacing: 0.3em;
+  color: var(--purple);
+  text-transform: uppercase;
+}
+.shaar-hebrew {
+  font-size: 2.6rem;
+  color: var(--maroon);
+  margin: 1.1rem 0 0.2rem;
+  letter-spacing: 0.06em;
+}
+.shaar-title {
+  font-family: var(--display);
+  font-weight: normal;
+  font-size: clamp(2.6rem, 6vw, 4.4rem);
+  color: var(--maroon);
+  margin: 0.1rem 0 0.4rem;
+  letter-spacing: 0.05em;
+  line-height: 1;
+}
+.shaar-imprint {
+  font-size: 0.86rem;
+  font-style: italic;
+  color: var(--faint);
+  max-width: 42rem;
+  margin: 0.8rem auto 0;
+  line-height: 1.6;
+}
+.shaar-rule {
+  width: 38%;
+  margin: 1.5rem auto;
+  border: none;
+  border-top: 1px solid var(--rule);
+}
+.shaar-toc {
+  max-width: 46rem;
+  margin: 0 auto;
+  text-align: left;
+  columns: 2;
+  column-gap: 2.4rem;
+  column-rule: 1px solid rgba(95,29,37,0.25);
+  font-size: 0.85rem;
+}
+.shaar-toc .toc-chapter {
+  break-inside: avoid;
+  margin-bottom: 0.9rem;
+}
+.shaar-toc .toc-head {
+  font-family: var(--display);
+  font-size: 0.9rem;
+  letter-spacing: 0.1em;
+  color: var(--purple);
+  margin-bottom: 0.25rem;
+}
+.shaar-toc a {
+  color: var(--body-text);
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(95,29,37,0.4);
+}
+.shaar-toc a:hover { color: var(--maroon); border-bottom-style: solid; }
+.shaar-toc .toc-wanting {
+  color: var(--faint);
+  font-style: italic;
+}
+.shaar-toc .fol {
+  font-variant: small-caps;
+  color: var(--maroon);
+  margin-right: 0.35rem;
+}
+.shaar-colophon {
+  margin-top: 1.8rem;
+  font-size: 0.72rem;
+  font-style: italic;
+  color: var(--faint);
+}
+@media (max-width: 860px) {
+  .shaar-toc { columns: 1; }
+  .shaar-arch { padding: 1.4rem 1rem; }
+}
