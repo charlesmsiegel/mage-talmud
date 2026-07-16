@@ -258,8 +258,12 @@ def build():
         leaf_divs.append(f'<div class="leaf" data-folio="{anchor}" data-name="{m["name"]}">\n'
                          f'{body}\n</div>')
 
-    nav = ('<a class="shelf-link" href="./" title="return the volume to the shelf">'
+    nav = ('<nav class="codex-links">\n'
+           '  <a class="shelf-link" href="./" title="return the volume to the shelf">'
            '&lsaquo; the shelf</a>\n'
+           '  <a class="toc-link" href="#shaar" title="return to the shaar (table of contents)">'
+           'contents</a>\n'
+           '</nav>\n'
            '<button class="turn prev" aria-label="previous folio">&lsaquo;</button>\n'
            '<button class="turn next" aria-label="next folio">&rsaquo;</button>\n')
 
