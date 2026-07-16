@@ -42,7 +42,7 @@ FOLIO = {
             (None, '109', 'The Horizon'),
         ]),
         ('V \u00b7 Avot: The Traditions', [
-            (None, '148', 'The Akashayana'),
+            ('148a', '148a', 'The Akashayana'),
             (None, '150', 'The Celestial Chorus'),
             (None, '152', 'The Sahajiya'),
             (None, '154', 'The Kha\u2019vadi'),
@@ -88,7 +88,7 @@ FOLIO = {
             (None,    '500',  'Casting'),
             (None,    '512',  'Correspondence'),
             (None,    '514',  'Entropy'),
-            (None,    '515',  'Forces'),
+            ('515a',  '515a', 'Forces'),
             (None,    '516',  'Life'),
             (None,    '517',  'Matter'),
             (None,    '519',  'Mind'),
@@ -108,7 +108,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are five; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are seven; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }

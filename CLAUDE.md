@@ -30,6 +30,12 @@ python3 verify.py         # geometry harness; must PASS before a folio is done
 ```
 
 ## Producing a folio (the loop)
+0. **Fact-check against the wiki.** The `wod-llm-wiki` repo
+   (`charlesmsiegel/wod-llm-wiki`; sibling checkout `../wod-llm-wiki` when
+   present) is the source of truth for every setting and mechanics claim —
+   its pages carry book+page citations. Grep it for the folio's subject
+   before and after writing; where memory and the wiki disagree, the wiki
+   wins. (SPEC §0 still governs: restate, never reproduce.)
 1. Find its brief in `plans/folio-briefs.md`.
 2. Copy the nearest content module in `content/` (SPEC §6 naming:
    `f{NNN}{a|b}_{slug}.py`), write the dict per the brief.
@@ -47,5 +53,6 @@ folio, cross-references in Masoret point at real folios (or are phrased as
 disputes — a folio whose outer commentary merely explains has failed.
 
 ## Current state
-Built: shaar, 2a, 2b, 3a, 533a, 533b. All pass verify.
-Next: Phase 1 template proofs — see PLAN.md.
+Built: shaar, 2a, 2b, 3a, 148a, 515a, 533a, 533b. All pass verify.
+Next: Phase 1 remaining — the luach (f435) and seder (f250) proofs, which
+need new renderers in build.py; see PLAN.md.
