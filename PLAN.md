@@ -55,8 +55,10 @@ faction chapters batch cleanly once their molds exist.
 
 ## Phase 3 — Bindery (when folio count makes the flat tab bar absurd, ~15+)
 
-- Chapter-grouped binder: one tabs row per perek, or a chapter dropdown +
-  folio tabs. Keep lacuna markers within chapters.
+- Navigation at scale: the codex is deliberately tab-less (pages turn via
+  arrows/keys/swipe; the shaar ToC deep-links by hash). When the folio count
+  grows, invest in the shaar ToC (and perhaps per-chapter half-title leaves),
+  not a tab bar.
 - Auto-generate the shaar ToC from build.py's MANIFEST + brief titles
   (single source of truth; today shaar.py is hand-kept).
 - Print stylesheet (each leaf a print page; binder hidden).

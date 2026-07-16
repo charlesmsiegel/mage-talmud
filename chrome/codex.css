@@ -1,65 +1,43 @@
-/* ---------- binder ---------- */
-body { padding-top: 5.4rem; }
-.binder {
+/* ---------- codex chrome: no tab bar, just the turnable pages ---------- */
+.shelf-link {
   position: fixed;
-  top: 0; left: 0; right: 0;
+  top: 0.9rem; left: 1rem;
   z-index: 50;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.8rem;
-  padding: 0.55rem 1rem;
-  background: linear-gradient(180deg, #2b2124, #241c1e);
-  border-bottom: 1px solid #4b3a3e;
-  box-shadow: 0 6px 24px rgba(0,0,0,0.5);
-}
-.binder .turn {
   font-family: var(--display);
-  font-size: 1.5rem;
-  line-height: 1;
-  color: var(--gold);
-  background: none;
-  border: 1px solid rgba(228,200,109,0.35);
-  border-radius: 2px;
-  width: 2.2rem; height: 2.2rem;
-  cursor: pointer;
-  transition: background 0.15s, color 0.15s;
-}
-.binder .turn:hover { background: rgba(228,200,109,0.12); }
-.binder .turn:disabled { opacity: 0.25; cursor: default; background: none; }
-.tabs {
-  display: flex;
-  align-items: baseline;
-  gap: 0.35rem;
-  overflow-x: auto;
-  max-width: 78vw;
-  scrollbar-width: none;
-}
-.tabs::-webkit-scrollbar { display: none; }
-.tabs button {
-  font-family: var(--display);
-  font-size: 0.82rem;
-  letter-spacing: 0.08em;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
   color: #cbb9a2;
-  background: none;
-  border: none;
-  border-bottom: 2px solid transparent;
-  padding: 0.3rem 0.55rem 0.35rem;
-  cursor: pointer;
-  white-space: nowrap;
+  text-decoration: none;
+  padding: 0.4rem 0.65rem;
+  border: 1px solid rgba(228, 200, 109, 0.25);
+  border-radius: 2px;
+  background: rgba(25, 20, 22, 0.78);
   transition: color 0.15s, border-color 0.15s;
 }
-.tabs button:hover { color: var(--gold); }
-.tabs button.active { color: var(--gold); border-bottom-color: var(--gold); }
-.tabs button .fnum { color: #8d7a80; margin-right: 0.3rem; }
-.tabs button.active .fnum { color: rgba(228,200,109,0.7); }
-.tabs .lacuna {
-  font-family: var(--serif);
-  color: #6d5a60;
-  letter-spacing: 0.2em;
-  padding: 0 0.15rem;
-  cursor: help;
+.shelf-link:hover { color: var(--gold); border-color: rgba(228, 200, 109, 0.55); }
+
+.turn {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 50;
+  font-family: var(--display);
+  font-size: 2.1rem;
+  line-height: 1;
+  color: var(--gold);
+  background: rgba(25, 20, 22, 0.72);
+  border: 1px solid rgba(228, 200, 109, 0.35);
+  border-radius: 2px;
+  width: 2.5rem;
+  height: 3.8rem;
+  cursor: pointer;
+  transition: background 0.15s, opacity 0.15s;
 }
+.turn.prev { left: 0.7rem; }
+.turn.next { right: 0.7rem; }
+.turn:hover { background: rgba(228, 200, 109, 0.14); }
+.turn:disabled { opacity: 0.18; cursor: default; background: rgba(25, 20, 22, 0.72); }
 
 /* ---------- leaves & the turn ---------- */
 .book { perspective: 2600px; }
@@ -77,7 +55,11 @@ body { padding-top: 5.4rem; }
 }
 
 @media (max-width: 860px) {
-  body { padding-top: 7.6rem; }
-  .binder { flex-wrap: wrap; gap: 0.4rem; padding: 0.45rem 0.6rem; }
-  .tabs { max-width: 100vw; order: 3; width: 100%; justify-content: flex-start; }
+  .turn {
+    top: auto; bottom: 0.8rem;
+    transform: none;
+    height: 2.8rem; width: 3.4rem;
+    font-size: 1.7rem;
+  }
+  .shelf-link { position: absolute; }
 }

@@ -17,10 +17,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Build folios and codex
+      - name: Build folios, codex, and shelf
         run: python3 build.py
-      - name: Codex is the site's front page
-        run: cp dist/tractate-aliyah.html dist/index.html
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
