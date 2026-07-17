@@ -32,6 +32,10 @@ Update the status tables here in the same commit as the work.
 | 520a/b | Prime · The Well | daf pair | **built** |
 | 521a/b | Spirit · The Crossing | daf pair | **built** |
 | 522a/b | Time · The Rewind | daf pair | **built** |
+| 384a/b | The Golden Rule · The Contract | daf pair | **built** |
+| 385a/b | The Dice · The Count | daf pair | **built** |
+| 393a/b | The Rule of One · The Comment | daf pair | **built** |
+| 406a/b | Health · The Wound | daf pair | **built** |
 | 533a | Paradox | daf | **built** |
 | 533b | Witnesses | daf | **built** |
 | everything else | — | — | briefed in plans/folio-briefs.md |
@@ -59,7 +63,8 @@ conventions get written down, same commit).
 Rationale: mechanics folios get cited by everything, so they go early; the
 faction chapters batch cleanly once their molds exist.
 
-1. **IX Middot** (384, 385, 393, 406) — the dice; everything cites these.
+1. ~~**IX Middot** (384, 385, 393, 406)~~ **done** — the dice; four a/b pairs,
+   chapter complete.
 2. **X Strife** (409, 423, 430, 435✓) — combat; 435 already done in Phase 1.
 3. **XI The Book of Magick** — Sphere pairs 512–522 **done**; remaining: 500,
    554, 567/572/586, 607.
