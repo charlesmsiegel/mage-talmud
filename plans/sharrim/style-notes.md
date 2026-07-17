@@ -77,7 +77,21 @@ line's own palette, display face, and ornament language.
 
 ## Chalom — Changeling: the Dreaming (C20)
 
-- awaiting screenshot + display font
+- **Display face:** Kells (`chrome/fonts/Kells.ttf`, user-supplied) — an
+  insular/uncial face after the Book of Kells.
+- **Palette:** golden-orange major heads, teal-green sub-heads, black body
+  on white/cream; the border carries saturated golds, reds, and greens.
+- **Frame/ornament:** full Celtic knotwork border — interlaced ribbon
+  bands on all four edges with illuminated stained-glass-style roundels at
+  the corners. Tables framed by their own knotwork bands with roundel
+  finials; alternating lavender row tint. Bullets are small Celtic spiral
+  glyphs.
+- **Running matter:** page number + book title in small uncial at the
+  foot, no band.
+- **Register for the shaar:** illuminated-manuscript joy; the one sibling
+  whose source already looks like a medieval codex page (Chalom as
+  "dream"). Title page should feel like an illuminated incipit — the
+  knotwork doing what Aliyah's arch does.
 
 ## Din — Hunter: the Reckoning
 
