@@ -82,7 +82,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the banker in the cabal.</span> Pr
            'side; the famous conjunction fight&rsquo;s other half was staged at 517a as promised, '
            'and concludes opposite.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The life-blood this Sphere '
-           'pools and the node-law it founds are folio 78&rsquo;s, wanting; the wells, tithes, and '
+           'pools and the node-law it founds are folio 78&rsquo;s; the wells, tithes, and '
            'trespass of that folio will cite this one as their charter.</p>',
  'h1': 'Prime',
  'hagahah': 'Every Tradition&rsquo;s word for quintessence is a theology: the Chorus&rsquo;s '
@@ -99,7 +99,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the banker in the cabal.</span> Pr
           'rank&rsquo;s quiet revolution: the unaided mage holds quintessence only to her '
           'Avatar&rsquo;s measure, and Prime raises the ceiling. The plain sense for play is that '
           'the Sphere&rsquo;s first dot changes a character&rsquo;s economy before her capability '
-          '&mdash; she can bank &mdash; and folio 43, wanting, will owe this clause a '
+          '&mdash; she can bank &mdash; and folio 43 owes this clause a '
           'cross-reference when it prices the Avatar itself.</p>\n'
           '        <p><span class="lemma">The partnership every creation owes.</span> The '
           'senior-partner law, plainly, and the conjunction fight&rsquo;s settled core: to stand a '

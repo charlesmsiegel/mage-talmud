@@ -25,14 +25,14 @@ FOLIO = {
             (None,   '143', 'Cert\u00e1men'),
         ]),
         ('II \u00b7 The Awakening', [
-            (None, '38', 'Of Gods and Men'),
-            (None, '43', 'The Avatar'),
-            (None, '46', 'The Will to Power'),
+            ('38a', '38', 'Of Gods and Men · The Fragile Path'),
+            ('43a', '43', 'The Avatar · The Seeking'),
+            ('46a', '46', 'The Will to Power · The War'),
         ]),
         ('III \u00b7 The World', [
-            (None, '62', 'Consensus and Belief'),
-            (None, '78', 'The Life-Blood of Reality'),
-            (None, '82', 'The Gauntlet'),
+            ('62a', '62', 'Consensus and Belief · The Zones'),
+            ('78a', '78', 'The Life-Blood · The Wells'),
+            ('82a', '82', 'The Gauntlet · The Crossing'),
         ]),
         ('IV \u00b7 The Worlds Beyond', [
             (None, '89',  'The Penumbra'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are eighty-four; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are ninety-six; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }

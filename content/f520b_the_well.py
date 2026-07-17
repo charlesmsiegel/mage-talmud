@@ -134,7 +134,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the chantry budget.</span> Run the
           'unaided mage banks quintessence only to her Avatar&rsquo;s depth, and the '
           'Sphere&rsquo;s first rank raises the ceiling &mdash; so the well&rsquo;s whole '
           'vessel-system, periapt to node, exists because souls are small containers. The theology '
-          'is optional; the logistics are not; and folio 43, wanting, inherits the question of why '
+          'is optional; the logistics are not; and folio 43 inherits the question of why '
           'the container is sized as it is.</p>',
  'inner_head': 'The Ladder, Continued<span class="comm-sub">the inner commentary &middot; the '
                'plain sense &middot; vessels, flavors, and bottoms</span>',

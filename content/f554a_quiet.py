@@ -175,7 +175,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On taking the voice.</span> Quiet is 
           'punishment that graduates its victims wiser is either a very '
           'strange punishment or not one at all. The three schools have '
           'held these positions since the elder manuscripts, the Avatar&rsquo;s '
-          'own folio, 43, wanting, is claimed as authority by all three, '
+          'own folio, 43, is claimed as authority by all three, '
           'and the tractate notes only what the text guarantees: the '
           'teaching reading is sometimes true and never promised, which is '
           'the exact shape of every mercy in this binding.</p>\n'

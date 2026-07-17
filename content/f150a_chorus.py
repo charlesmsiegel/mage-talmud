@@ -73,8 +73,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a Singer.</span> The pitfa
            '        <p class="drop"><span class="mark">d</span> On Valoran, who unified the '
            'Messianic Voices and presented one choir in 1461, see the histories cited at folio 2a '
            'and the Chorus&rsquo;s own Book of Ages.</p>',
- 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 520, '
-           'which is wanting; the life-blood it governs at folio 78, likewise. The choir&rsquo;s '
+ 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 520; the life-blood it governs at folio 78. The choir&rsquo;s '
            'claim &mdash; that Prime is the divine substance &mdash; is a paradigm, and folio 2a '
            'rules that no one compels one.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The choir&rsquo;s knightly '

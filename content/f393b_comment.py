@@ -200,7 +200,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the Arete botch as scene.</span> T
           'fluent in each mage&rsquo;s fears to be the world&rsquo;s generic '
           'no. On this reading the botch is the mage&rsquo;s own Avatar, or '
           'her doubt, or the unswept corners of her paradigm speaking with '
-          'her own borrowed power &mdash; and folio 43, wanting, is '
+          'her own borrowed power &mdash; and folio 43 is '
           'reserved the question of whether those are three names for one '
           'speaker. The first school comforts; the second explains too '
           'much, which in this tractate is the mark of a reading that '

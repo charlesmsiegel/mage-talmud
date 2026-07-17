@@ -72,9 +72,8 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the People.</span> The ste
            '        <p class="drop"><span class="mark">d</span> On the founders Naioba and '
            'Star-of-Eagles, their marriage, and her murder, see the Tradition&rsquo;s entries '
            'across the recensions.</p>',
- 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 521, '
-           'wanting; the Gauntlet it works across at folio 82, likewise; the worlds beyond at '
-           'chapter IV entire.</p>\n'
+ 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 521; the Gauntlet it works across at folio 82; the worlds beyond at '
+           'chapter IV entire, wanting.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The word '
            '&ldquo;consented&rdquo; in folio 2a&rsquo;s aggada is this folio&rsquo;s inheritance '
            'and the verso&rsquo;s subject; the unseated cousins who never consented at all hold '

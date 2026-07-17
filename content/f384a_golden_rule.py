@@ -84,7 +84,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On overriding visibly.</span> The rul
            'post, or rule is this law exercised, and the Masoret has counted the '
            'citations and given up counting.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The rule&rsquo;s '
-           'setting-side rhyme is folio 62, wanting: the Consensus is rule zero worked '
+           'setting-side rhyme is folio 62: the Consensus is rule zero worked '
            'at cosmic scale, and the Storyteller&rsquo;s table is a reality zone with '
            'snacks. The comparison is the Gemara&rsquo;s and the tractate stands by '
            'it.</p>\n'
