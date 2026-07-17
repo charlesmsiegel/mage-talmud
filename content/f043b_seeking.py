@@ -94,9 +94,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the solo episode.</span> The books
            'joined them. The mindscape&rsquo;s clearing exit at 554b '
            'completes the triangle.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The '
-           'rank this trial unlocks is 46a&rsquo;s ladder, next leaf, and '
-           'the seder of 250a has already priced its first rungs; the '
-           'Masoret notes the chapter assembling itself.</p>',
+           'rank this trial unlocks is 46a&rsquo;s ladder, next leaf, and the seder of 250a prices its first rungs; the Masoret notes the chapter assembling itself.</p>',
  'h1': 'The Seeking',
  'hagahah': 'The trial is graded by the examiner, staged by the examiner, and '
             'taken inside the examiner. Every mage passes eventually. Make '
