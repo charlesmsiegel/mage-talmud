@@ -127,7 +127,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On prophecy at the table.</span> The 
           '        <p><span class="lemma">The eye that never closes.</span> The rest '
           'discipline&rsquo;s plain sense: unrested foresight degrades toward wish. The seer who '
           'reads the moment&rsquo;s neighbors without pause begins to lean on them, then to lean '
-          'them &mdash; the observer&rsquo;s pressure folio 522 will give mechanics to &mdash; and '
+          'them &mdash; the observer&rsquo;s pressure folio 522 gives mechanics to &mdash; and '
           'the Tradition&rsquo;s elders enforce fallow seasons the way the Chakravanti enforce '
           'their watches: as statute, against the diligent, who need it most.</p>',
  'inner_head': 'On the Weight<span class="comm-sub">the inner commentary &middot; the plain sense '

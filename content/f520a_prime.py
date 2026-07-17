@@ -82,8 +82,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the banker in the cabal.</span> Pr
            'side; the famous conjunction fight&rsquo;s other half was staged at 517a as promised, '
            'and concludes opposite.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The life-blood this Sphere '
-           'pools and the node-law it founds are folio 78&rsquo;s; the wells, tithes, and '
-           'trespass of that folio will cite this one as their charter.</p>',
+           'pools and the node-law it founds are folio 78&rsquo;s; the wells, tithes, and trespass of that folio cite this one as their charter.</p>',
  'h1': 'Prime',
  'hagahah': 'Every Tradition&rsquo;s word for quintessence is a theology: the Chorus&rsquo;s '
             'divine substance, the Ether&rsquo;s subtle medium, the Syndicate&rsquo;s liquidity. '

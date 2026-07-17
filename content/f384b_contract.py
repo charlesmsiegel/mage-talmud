@@ -81,7 +81,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On running session zero.</span> Treat
            'Gemara&rsquo;s forty citations, abridged.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On stakes before '
            'dice, see the duel law of folio 143, wanting, whose brief already '
-           'promises the clause; combat&rsquo;s folio 409 will repeat it, on '
+           'promises the clause; combat&rsquo;s folio 409 repeats it, on '
            'purpose.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The recto&rsquo;s loaded-gun dispute '
            'is answered here as fully as it can be: the contract is the safety, and '
