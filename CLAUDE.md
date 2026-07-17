@@ -53,7 +53,9 @@ folio, cross-references in Masoret point at real folios (or are phrased as
 disputes — a folio whose outer commentary merely explains has failed.
 
 ## Current state
-Built: shaar, 2a/b, 3a/b, all of chapter II (38/43/46, three pairs),
+Built: shaar, all of chapter I (2a/b, 3a/b, and 143 Certámen/Stakes,
+bound at its number between chapters IV and V), all of chapter II
+(38/43/46, three pairs),
 all of chapter III (62/78/82, three pairs), all of chapter IV
 (89/91/109, three pairs), all of chapter V
 (148–164, nine Tradition pairs), all of chapter VI (168 + the five
@@ -65,8 +67,8 @@ and 328 Arete/Price), all of chapter IX (384–406, four Middot
 pairs), all of chapter X (409–435, three daf pairs + the 435 luach
 pair), and all of chapter XI (500 Casting, the nine Sphere pairs
 512–522, 533 Paradox/Witnesses, 554 Quiet, the focus trio 567/572/586,
-and 607 Rotes) — one hundred and sixteen daf-sides, every bound folio a
-complete a/b pair, one shaar ToC row per folio number. All pass verify.
+and 607 Rotes) — one hundred and eighteen daf-sides, every bound folio
+a complete a/b pair, one shaar ToC row per folio number. All pass verify.
 All four page types are proven: daf, luach (f435a/b), seder (f250a),
 shaar — conventions in SPEC §3; the six VIII luachs batched against the
 luach mold, and the minor tractates batch against it next.
@@ -77,5 +79,6 @@ spine is lit and clickable.
 Names: classic Tradition names are primary (the renames didn't take),
 except Chakravanti and Society of Ether; naming questions appear in-folio
 as live debates.
-Next: f143 Certámen (merge decision vs f430) and the minor tractates
-(Kelim K.1–K.2, Bestiary B.1–B.3, shtar); see PLAN.md.
+Next: the minor tractates (Kelim K.1–K.2, Bestiary B.1–B.3, shtar);
+see PLAN.md. The f143-vs-f430 merge question is decided: both kept,
+courthouse/arena division marked in both Masorets.

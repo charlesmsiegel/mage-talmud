@@ -80,7 +80,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the journal as campaign.</span> A 
            'archives, one by cosmology, one by statute. The statute is the more fragile and knows '
            'it; hence the stapling.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The Symposium&rsquo;s '
-           'duel-by-demonstration is cert&aacute;men&rsquo;s cousin, folio 143, wanting; stakes on '
+           'duel-by-demonstration is cert&aacute;men&rsquo;s cousin, folio 143; stakes on '
            'the bench instead of the circle, and the apparatus as second.</p>',
  'h1': 'Paradigma',
  'hagahah': 'The journal&rsquo;s title is the Society&rsquo;s entire self-knowledge in one word: '

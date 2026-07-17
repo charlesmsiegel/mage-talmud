@@ -72,8 +72,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a Hermetic.</span> The car
            '        <p class="drop"><span class="mark">d</span> On Trianoma&rsquo;s midwinter '
            'founding, Doissetep, and Mistridge&rsquo;s master La Salle, see the histories cited at '
            'folio 2a and the Order&rsquo;s own books.</p>',
- 'glossR': '<p><span class="mark">&#8224;</span> Cert&aacute;men&rsquo;s institution is folio 143, '
-           'wanting, and its old-form mechanics are folio 430; this '
+ 'glossR': '<p><span class="mark">&#8224;</span> Cert&aacute;men&rsquo;s institution is folio 143, bound behind this leaf, and its old-form mechanics are folio 430; this '
            'folio&rsquo;s law is their preamble.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The defected House became '
            'the warlock clan of Tractate Masekha, and the grudge runs across the seder&rsquo;s '
