@@ -77,10 +77,10 @@ FOLIO = {
             ('406a', '406', 'Health \u00b7 The Wound'),
         ]),
         ('X \u00b7 Strife', [
-            (None, '409', 'Combat'),
-            (None, '423', 'The Martial Arts and Do'),
-            (None, '430', 'Duels, Old Form'),
-            (None, '435', 'Hazards (luach)'),
+            ('409a', '409', 'Combat \u00b7 The Gun and the Word'),
+            ('423a', '423', 'The Martial Arts and Do \u00b7 The Eight Limbs'),
+            ('430a', '430', 'Duels, Old Form \u00b7 The Wager'),
+            ('435a', '435', 'Hazards (luach) \u00b7 The Breaking'),
         ]),
         ('XI \u00b7 The Book of Magick', [
             (None,    '500',  'Casting'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are fifty; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are fifty-eight; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }

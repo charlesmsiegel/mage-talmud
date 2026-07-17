@@ -33,6 +33,10 @@ Update the status tables here in the same commit as the work.
 | 521a/b | Spirit · The Crossing | daf pair | **built** |
 | 522a/b | Time · The Rewind | daf pair | **built** |
 | 384a/b | The Golden Rule · The Contract | daf pair | **built** |
+| 409a/b | Combat · The Gun and the Word | daf pair | **built** |
+| 423a/b | The Martial Arts and Do · The Eight Limbs | daf pair | **built** |
+| 430a/b | Duels, Old Form · The Wager | daf pair | **built** |
+| 435a/b | Hazards · The Breaking | luach pair (mold proof) | **built** |
 | 385a/b | The Dice · The Count | daf pair | **built** |
 | 393a/b | The Rule of One · The Comment | daf pair | **built** |
 | 406a/b | Health · The Wound | daf pair | **built** |
@@ -50,9 +54,9 @@ CLAUDE.md.
    folios 512–524 batch against `content/f515a_forces.py`.
 2. ~~**f148 Akashic Brotherhood** (Avot daf)~~ **done** — the Avot mold is proven;
    chapter V batches against `content/f148a_akashayana.py`.
-3. **f435 Hazards** (luach). Requires `render_luach` in build.py + table CSS
-   in chrome/daf.css. Spec: plans/pagetypes.md. Proves the chart mold used by
-   273/275/303/435 and the minor tractates.
+3. ~~**f435 Hazards** (luach)~~ **done** — the chart mold is proven
+   (f435a/b, `render_luach`, table CSS); 273/275/303 and the minor
+   tractates batch against it. Conventions recorded in SPEC §3.
 4. **f250 The Seder of Creation** (seder). Requires `render_seder` + CSS.
    Spec: plans/pagetypes.md.
 
@@ -66,7 +70,8 @@ faction chapters batch cleanly once their molds exist.
 
 1. ~~**IX Middot** (384, 385, 393, 406)~~ **done** — the dice; four a/b pairs,
    chapter complete.
-2. **X Strife** (409, 423, 430, 435✓) — combat; 435 already done in Phase 1.
+2. ~~**X Strife** (409, 423, 430, 435)~~ **done** — four pairs, the last two
+   sides the luach proof; chapter complete.
 3. **XI The Book of Magick** — Sphere pairs 512–522 **done**; remaining: 500,
    554, 567/572/586, 607.
 4. ~~**V Avot** (150–164 batch vs the f148 mold)~~ **done** — chapter V complete, every folio an a/b pair.

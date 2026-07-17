@@ -311,3 +311,38 @@ body {
   line-height: 1.5;
 }
 .darkpack-legal a { color: inherit; }
+
+/* ---------- luach (chart folio): the reference table as center text ---------- */
+.luach-page .center-text table.luach {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--serif);
+  font-size: 0.78rem;
+  line-height: 1.35;
+  margin: 0.7rem 0 0.4rem;
+}
+.luach-page table.luach th {
+  font-family: var(--display);
+  font-weight: normal;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--maroon);
+  text-align: left;
+  padding: 0.25rem 0.5rem 0.25rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.luach-page table.luach td {
+  vertical-align: top;
+  padding: 0.3rem 0.5rem 0.3rem 0;
+  border-bottom: 1px solid rgba(95, 29, 37, 0.25);
+}
+.luach-page table.luach tr:nth-child(even) td { background: rgba(95, 29, 37, 0.04); }
+.luach-page table.luach td.num, .luach-page table.luach th.num { text-align: right; padding-right: 0.7rem; }
+.luach-page table.luach td .term { font-variant: small-caps; }
+.luach-page .luach-note {
+  font-size: 0.74rem;
+  font-style: italic;
+  color: var(--faint);
+  margin: 0.2rem 0 0.6rem;
+}

@@ -53,6 +53,18 @@ MANIFEST = [
     'f406a_health',
     'f406b_wound',
     '...',
+    'f409a_combat',
+    'f409b_gun_word',
+    '...',
+    'f423a_do',
+    'f423b_eight_limbs',
+    '...',
+    'f430a_duels',
+    'f430b_wager',
+    '...',
+    'f435a_hazards',
+    'f435b_breaking',
+    '...',
     'f512a_correspondence',
     'f512b_the_reach',
     'f514a_entropy',
@@ -110,10 +122,13 @@ def font_css(families=('Abbess', 'Goudy Old Style')):
     return '\n'.join(rules) + '\n'
 
 
-def render_daf(m):
+def render_daf(m, page_class='page'):
     """The standard daf body: glosses, title box, center Text, two flows,
-    bottom band. Geometry is applied at runtime by chrome/engine.js."""
-    return f"""<main class="page">
+    bottom band. Geometry is applied at runtime by chrome/engine.js.
+    The luach (chart folio) reuses this body with a wider center: its
+    center is a caption Mishnah + <table class="luach"> (SPEC section 3)."""
+    style = f''' style="--center-w:{m['center_w']}"''' if m.get('center_w') else ''
+    return f"""<main class="{page_class}"{style}>
   <div class="frame">
     <header class="running-head">
       <div class="folio">SEDER CHASHAK &middot; \u05d7\u05e9\u05da</div>
@@ -263,7 +278,11 @@ def render_shelf():
 </main>"""
 
 
-RENDERERS = {'daf': render_daf, 'shaar': render_shaar}
+def render_luach(m):
+    return render_daf(m, page_class='page luach-page')
+
+
+RENDERERS = {'daf': render_daf, 'shaar': render_shaar, 'luach': render_luach}
 
 
 def page_shell(title, body, extra_css='', extra_js='', fonts=('Abbess', 'Goudy Old Style')):
