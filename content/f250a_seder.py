@@ -46,7 +46,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On running the seder in session zero.
            'affinity &mdash; her line&rsquo;s, or the orphan&rsquo;s own choosing '
            '&mdash; and no Sphere ever above her Arete, the dots '
            'prudently held open until the fifth step settles what Arete is '
-           '&mdash; and the focus declared whole:the paradigm believed, the practice kept, the '
+           '&mdash; and the focus declared whole: the paradigm believed, the practice kept, the '
            'instruments held, seven at the least, all free of charge, for belief is not bought '
            'with points.<sup>c</sup></p>\n'
            '        <p class="step"><span class="term">Step Five.</span> Finish what '
