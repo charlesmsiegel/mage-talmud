@@ -216,7 +216,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the scholar&rsquo;s spotlight.</sp
           'sign: whatever enters by the open categories enters '
           'at the kinds&rsquo; own laws &mdash; innate, trained, or '
           'studied, with the untrained walls to match &mdash; for '
-          'the shelf may sprawl, but the theory of entry does not &mdash; and the chapter&rsquo;s charts close on that constancy, four pages of rows governed by one small theory, which is as near to elegance as bookkeeping comes.</p>',
+          'the shelf may sprawl, but the theory of entry does not &mdash; and the chapter&rsquo;s charts run on that constancy &mdash; six pages of rows governed by one small theory, the assets of 303 still to post &mdash; which is as near to elegance as bookkeeping comes.</p>',
  'outer_head': 'The Surveyors<span class="comm-sub">the outer commentary &middot; '
                'two difficulties: the lock, and the shelf</span>',
  'rubric': 'the studies, and the shelf behind',

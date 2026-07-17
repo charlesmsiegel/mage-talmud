@@ -66,9 +66,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On saying the epithet aloud.</span> T
              'learnings wait at folio 275.',
  'folio': '273B',
  'glossL': '<p><span class="mark">a</span> On the one-to-five ladder and its '
-           'epithets, see M20, the sixth chapter&rsquo;s trait entries, '
-           'restated here in the binding&rsquo;s own words per its standing '
-           'law.</p>\n'
+           'epithets, see M20, the sixth chapter&rsquo;s trait entries at folios 273&ndash;275, restated here in the binding&rsquo;s own words per its standing law.</p>\n'
            '        <p><span class="mark">b</span> On specialties at the '
            'fourth dot &mdash; the named edge, its reroll custom on tens '
            '&mdash; see the same chapter; the custom&rsquo;s grain is the '
