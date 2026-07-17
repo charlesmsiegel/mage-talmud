@@ -103,4 +103,17 @@ line's own palette, display face, and ornament language.
 
 ## Nefilim — Demon: the Fallen
 
-- awaiting screenshot + display font
+- **Display face:** Scythe (`chrome/fonts/Scythe.ttf`, user-supplied) — a
+  spiky, angular blackletter-adjacent face.
+- **Palette:** strictly monochrome — black ornament, heads, and body on
+  plain white; the only line with no accent color at all.
+- **Frame/ornament:** thorned briar border — a spear-like vertical rod
+  entwined with brambles down one edge, curling thorned tendrils across
+  the top, with inverted-pentagram medallions as finials; asymmetric,
+  mirrored fragment at the opposite corner. Wrought iron and thorns.
+- **Heads:** section heads in Scythe, black, letterspaced; running head
+  in black serif small caps over a thin rule at the top corner.
+- **Running matter:** plain page number at the foot; no band.
+- **Register for the shaar:** the fallen grandeur of a legal instrument —
+  Nefilim as "the fallen ones"; a covenant document gone to thorns. Title
+  page should read as an indictment scroll wound in briars.
