@@ -1,0 +1,251 @@
+/* ---------- the Sharrim: sibling-tractate title-page skins ----------
+   Each skin re-dresses the shaar in its source book's interior language:
+   display face, accent palette, and a CSS approximation of the border
+   ornament recorded in plans/sharrim/style-notes.md. The arch structure,
+   apparatus, and imprint discipline are Aliyah's, unchanged. */
+
+/* shared: sibling pages carry a small return-to-shelf link */
+.sib-nav {
+  max-width: 1150px;
+  margin: 0 auto 0.6rem;
+  text-align: left;
+}
+.sib-nav a {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 0.85rem;
+  color: rgba(228, 200, 109, 0.75);
+  text-decoration: none;
+}
+.sib-nav a:hover { color: var(--gold); }
+
+/* ============ Masekha · Vampire (V20): wrought iron on marble ============ */
+.page.skin-masekha {
+  --display: 'Delavan', 'Palatino Linotype', serif;
+  --maroon: #6e1418;
+  --purple: #3b3b3b;
+  --rule: rgba(20, 20, 20, 0.65);
+  --paper: #eef0ea;
+  --paper-deep: #e3e7de;
+  background:
+    radial-gradient(ellipse at 20% 10%, rgba(255,255,255,0.7), transparent 55%),
+    radial-gradient(ellipse at 80% 90%, rgba(120,130,115,0.18), transparent 55%),
+    #eef0ea;
+}
+.skin-masekha .frame {
+  border: 2px solid #161616;
+  box-shadow: inset 0 0 0 4px var(--paper), inset 0 0 0 5.5px rgba(22,22,22,0.7);
+}
+.skin-masekha .shaar-arch {
+  border: 1.5px solid #161616;
+  box-shadow: inset 0 0 0 4px var(--paper), inset 0 0 0 5px rgba(22,22,22,0.5),
+              inset 0 0 0 10px var(--paper), inset 0 0 0 11px rgba(110,20,24,0.35);
+  background:
+    repeating-linear-gradient(90deg, rgba(22,22,22,0.85) 0 2.5px, transparent 2.5px 16px)
+      top / 100% 10px no-repeat,
+    repeating-linear-gradient(90deg, rgba(22,22,22,0.85) 0 2.5px, transparent 2.5px 16px)
+      bottom / 100% 10px no-repeat,
+    radial-gradient(ellipse at 50% 0%, rgba(60,70,60,0.08), transparent 55%);
+}
+.skin-masekha .shaar-seder { color: #3b3b3b; }
+.skin-masekha .shaar-hebrew,
+.skin-masekha .shaar-title { color: #6e1418; }
+.skin-masekha .shaar-toc .toc-head { color: #3b3b3b; }
+.skin-masekha .shaar-toc .fol { color: #6e1418; }
+
+/* ============ Acharit · Werewolf (W20): claw-torn hide ============ */
+.page.skin-acharit {
+  --display: 'Garou', 'Palatino Linotype', serif;
+  --maroon: #1d1208;
+  --purple: #5a3116;
+  --rule: rgba(42, 27, 18, 0.7);
+  --paper: #f5efdd;
+  --paper-deep: #ece2c8;
+  background:
+    radial-gradient(ellipse at 22% 12%, rgba(255,255,255,0.5), transparent 60%),
+    radial-gradient(ellipse at 80% 92%, rgba(90, 58, 30, 0.12), transparent 55%),
+    #f5efdd;
+}
+.skin-acharit .frame {
+  border: 7px solid transparent;
+  border-image: repeating-linear-gradient(45deg,
+    #241708 0 7px, #6b3a1e 7px 11px, #120b06 11px 18px) 7;
+  box-shadow: none;
+}
+.skin-acharit .shaar-arch {
+  border: 1.5px solid rgba(42,27,18,0.8);
+  box-shadow: inset 0 0 0 4px var(--paper), inset 0 0 0 5.5px rgba(90,49,22,0.5);
+  background: radial-gradient(ellipse at 50% 0%, rgba(90,58,30,0.08), transparent 50%);
+}
+.skin-acharit .shaar-seder { color: #5a3116; }
+.skin-acharit .shaar-hebrew,
+.skin-acharit .shaar-title { color: #1d1208; }
+.skin-acharit .shaar-title { letter-spacing: 0.02em; }
+.skin-acharit .shaar-toc .toc-head { color: #5a3116; }
+.skin-acharit .shaar-toc .fol { color: #1d1208; }
+
+/* ============ Neshiyah · Wraith (Wr20): patinated relief iron ============ */
+.page.skin-neshiyah {
+  --display: 'Matrix Tall', 'Palatino Linotype', serif;
+  --maroon: #2f6f68;
+  --purple: #45544e;
+  --rule: rgba(60, 74, 68, 0.7);
+  --paper: #f3efe2;
+  --paper-deep: #eae4d2;
+  background:
+    radial-gradient(ellipse at 20% 8%, rgba(255,255,255,0.55), transparent 55%),
+    radial-gradient(ellipse at 82% 92%, rgba(70, 90, 82, 0.14), transparent 55%),
+    #f3efe2;
+}
+.skin-neshiyah .frame {
+  border: 9px solid #4c5a52;
+  border-right-width: 15px;
+  border-image: linear-gradient(160deg, #5d6e64, #38443e 45%, #59685e 70%, #2c3631) 9 15 9 9;
+  box-shadow: inset 0 0 0 3px var(--paper), inset 0 0 0 4px rgba(60,74,68,0.55);
+}
+.skin-neshiyah .shaar-arch {
+  border: 1.5px solid rgba(60,74,68,0.75);
+  box-shadow: inset 0 0 0 4px var(--paper), inset 0 0 0 5px rgba(47,111,104,0.4),
+              inset 0 0 0 10px var(--paper), inset 0 0 0 11px rgba(60,74,68,0.3);
+  background: radial-gradient(ellipse at 50% 0%, rgba(70,90,82,0.1), transparent 55%);
+}
+.skin-neshiyah .shaar-seder { color: #45544e; }
+.skin-neshiyah .shaar-hebrew,
+.skin-neshiyah .shaar-title { color: #2f6f68; }
+.skin-neshiyah .shaar-title { letter-spacing: 0.09em; }
+.skin-neshiyah .shaar-toc .toc-head { color: #45544e; }
+.skin-neshiyah .shaar-toc .fol { color: #2f6f68; }
+
+/* ============ Chalom · Changeling (C20): knotwork illumination ============ */
+.page.skin-chalom {
+  --display: 'Kells', 'Palatino Linotype', serif;
+  --maroon: #b07d1e;
+  --purple: #2f6b5a;
+  --rule: rgba(138, 96, 26, 0.6);
+  --paper: #fdfaf1;
+  --paper-deep: #f6efdc;
+  background:
+    radial-gradient(ellipse at 20% 8%, rgba(255,255,255,0.7), transparent 55%),
+    radial-gradient(ellipse at 82% 92%, rgba(176, 125, 30, 0.1), transparent 55%),
+    #fdfaf1;
+}
+.skin-chalom .frame {
+  border: 8px solid transparent;
+  border-image: repeating-linear-gradient(90deg,
+    #c8952c 0 9px, #8a2f23 9px 16px, #c8952c 16px 25px, #2f6b3a 25px 32px) 8;
+  box-shadow: inset 0 0 0 2px #fdfaf1, inset 0 0 0 3.5px rgba(138,96,26,0.6);
+}
+.skin-chalom .shaar-arch {
+  border: 1.5px solid rgba(138,96,26,0.7);
+  box-shadow: inset 0 0 0 4px var(--paper), inset 0 0 0 5px rgba(176,125,30,0.5),
+              inset 0 0 0 10px var(--paper), inset 0 0 0 11px rgba(47,107,90,0.4);
+  background: radial-gradient(ellipse at 50% 0%, rgba(176,125,30,0.08), transparent 55%);
+}
+.skin-chalom .shaar-seder { color: #2f6b5a; }
+.skin-chalom .shaar-hebrew,
+.skin-chalom .shaar-title { color: #b07d1e; }
+.skin-chalom .shaar-toc .toc-head { color: #2f6b5a; }
+.skin-chalom .shaar-toc .fol { color: #b07d1e; }
+
+/* ============ Din · Hunter: photocopied broadside ============ */
+.page.skin-din {
+  --display: 'Chouse', 'Arial Narrow', sans-serif;
+  --maroon: #101010;
+  --purple: #2c2c2c;
+  --rule: rgba(16, 16, 16, 0.75);
+  --paper: #f4f4f1;
+  --paper-deep: #e9e9e4;
+  background:
+    radial-gradient(ellipse at 15% 20%, rgba(60,60,60,0.10), transparent 45%),
+    radial-gradient(ellipse at 85% 70%, rgba(60,60,60,0.12), transparent 50%),
+    radial-gradient(ellipse at 45% 95%, rgba(60,60,60,0.08), transparent 45%),
+    #f4f4f1;
+}
+.skin-din .frame {
+  border: 10px solid #101010;
+  border-left-width: 7px;
+  border-right-width: 12px;
+  box-shadow: inset 0 0 0 3px var(--paper), inset 0 0 0 4px rgba(16,16,16,0.4);
+}
+.skin-din .shaar-arch {
+  border: 1.5px solid rgba(16,16,16,0.8);
+  box-shadow: inset 0 0 0 4px var(--paper), inset 0 0 0 6.5px #101010;
+  background: none;
+}
+.skin-din .shaar-seder { color: #2c2c2c; }
+.skin-din .shaar-hebrew,
+.skin-din .shaar-title { color: #101010; }
+.skin-din .shaar-title { letter-spacing: 0.12em; }
+.skin-din .shaar-toc .toc-head { color: #2c2c2c; letter-spacing: 0.14em; }
+.skin-din .shaar-toc .fol { color: #101010; }
+
+/* ============ Techiyah · Mummy: temple lintel ============ */
+.page.skin-techiyah {
+  --display: 'Nueva Caesar', 'Palatino Linotype', serif;
+  --maroon: #22201c;
+  --purple: #6e6a60;
+  --rule: rgba(110, 106, 96, 0.7);
+  --paper: #f2ead6;
+  --paper-deep: #e9dfc4;
+  background:
+    radial-gradient(ellipse at 20% 8%, rgba(255,255,255,0.6), transparent 55%),
+    radial-gradient(ellipse at 82% 92%, rgba(110,106,96,0.12), transparent 55%),
+    #f2ead6;
+}
+.skin-techiyah .frame {
+  border: 2px solid #6e6a60;
+  border-top: 12px solid transparent;
+  border-bottom: 12px solid transparent;
+  border-image: linear-gradient(180deg, #8b867a, #55514a 8%, #6e6a60 12%,
+    transparent 12%, transparent 88%, #8b867a 88%, #4a463f) 12 2;
+  box-shadow: inset 0 0 0 3px var(--paper), inset 0 0 0 4px rgba(110,106,96,0.5);
+}
+.skin-techiyah .shaar-arch {
+  border: 1.5px solid rgba(110,106,96,0.75);
+  box-shadow: inset 0 0 0 4px var(--paper), inset 0 0 0 5px rgba(110,106,96,0.45),
+              inset 0 0 0 10px var(--paper), inset 0 0 0 11px rgba(34,32,28,0.3);
+  background:
+    repeating-linear-gradient(90deg, rgba(110,106,96,0.5) 0 6px, transparent 6px 12px)
+      bottom / 100% 5px no-repeat,
+    radial-gradient(ellipse at 50% 0%, rgba(110,106,96,0.1), transparent 50%);
+}
+.skin-techiyah .shaar-seder { color: #6e6a60; }
+.skin-techiyah .shaar-hebrew,
+.skin-techiyah .shaar-title { color: #22201c; }
+.skin-techiyah .shaar-title { letter-spacing: 0.1em; }
+.skin-techiyah .shaar-toc .toc-head { color: #6e6a60; letter-spacing: 0.14em; }
+.skin-techiyah .shaar-toc .fol { color: #22201c; }
+
+/* ============ Nefilim · Demon: thorns in monochrome ============ */
+.page.skin-nefilim {
+  --display: 'Scythe', 'Palatino Linotype', serif;
+  --maroon: #000000;
+  --purple: #1c1c1c;
+  --rule: rgba(0, 0, 0, 0.7);
+  --paper: #fbfbf9;
+  --paper-deep: #f1f1ec;
+  background: #fbfbf9;
+}
+.skin-nefilim .frame {
+  border: 1.5px solid #000;
+  border-left: 7px solid #000;
+  box-shadow: inset 0 0 0 3px var(--paper), inset 0 0 0 4px rgba(0,0,0,0.85);
+}
+.skin-nefilim .shaar-arch {
+  border: 1px solid #000;
+  box-shadow: inset 0 0 0 4px var(--paper), inset 0 0 0 5px #000;
+  background:
+    repeating-linear-gradient(0deg, rgba(0,0,0,0.8) 0 7px, transparent 7px 20px)
+      left / 2px 100% no-repeat;
+}
+.skin-nefilim .shaar-seder { color: #1c1c1c; }
+.skin-nefilim .shaar-hebrew,
+.skin-nefilim .shaar-title { color: #000; }
+.skin-nefilim .shaar-title { letter-spacing: 0.1em; }
+.skin-nefilim .shaar-toc .toc-head { color: #1c1c1c; letter-spacing: 0.12em; }
+.skin-nefilim .shaar-toc .fol { color: #000; }
+
+@media (max-width: 620px) {
+  .skin-neshiyah .frame { border-width: 6px; border-right-width: 9px; }
+  .skin-din .frame { border-width: 6px; }
+}

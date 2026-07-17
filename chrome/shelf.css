@@ -61,22 +61,51 @@ body { min-height: 92vh; display: flex; flex-direction: column; justify-content:
   border-radius: 1px;
 }
 
-/* the seven wanting volumes */
-.book-spine.wanting {
-  background: linear-gradient(90deg, #221a1d 0%, #2c2226 45%, #1d1619 100%);
-  cursor: default;
+/* the seven sibling volumes: lit in their own line's colors, each opening
+   onto its shaar (the tractate behind it still wanting). Same hover rise
+   as Aliyah, subtler glow. */
+a.book-spine.sib {
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.28s cubic-bezier(0.2, 0.7, 0.3, 1), box-shadow 0.28s;
 }
-.book-spine.wanting .spine-title { color: rgba(203, 185, 162, 0.32); }
-.book-spine.wanting .spine-word { color: rgba(203, 185, 162, 0.22); }
-.book-spine.wanting .spine-band { background: rgba(203, 185, 162, 0.12); }
-/* slight variation so the row reads as separate volumes */
-.book-spine.b1 { height: clamp(252px, 44vw, 342px); background: linear-gradient(90deg, #241a1c, #33232a 45%, #1e1517); }
-.book-spine.b2 { background: linear-gradient(90deg, #1f1c22, #2b2634 45%, #191720); }
-.book-spine.b4 { height: clamp(228px, 40vw, 316px); background: linear-gradient(90deg, #1c1c1e, #29292c 45%, #161618); }
-.book-spine.b5 { background: linear-gradient(90deg, #22201a, #2f2c23 45%, #1a1915); }
-.book-spine.b6 { height: clamp(250px, 43vw, 336px); background: linear-gradient(90deg, #241d1a, #322822 45%, #1d1614); }
-.book-spine.b7 { height: clamp(232px, 41vw, 320px); background: linear-gradient(90deg, #201a20, #2d232d 45%, #181419); }
-.book-spine.b8 { background: linear-gradient(90deg, #231a1a, #312424 45%, #1c1414); }
+a.book-spine.sib:hover,
+a.book-spine.sib:focus-visible {
+  transform: translateY(-12px) rotate(-1deg);
+  box-shadow:
+    inset 3px 0 6px rgba(255, 255, 255, 0.1),
+    inset -4px 0 8px rgba(0, 0, 0, 0.45),
+    0 12px 22px rgba(0, 0, 0, 0.6);
+  outline: none;
+}
+/* s1 Masekha: iron over marble, oxblood band */
+.book-spine.s1 { height: clamp(252px, 44vw, 342px); background: linear-gradient(90deg, #20241f, #39423a 45%, #171b16); }
+.book-spine.s1 .spine-title, .book-spine.s1 .spine-word { color: #b8c4b4; }
+.book-spine.s1 .spine-band { background: #6e1418; }
+/* s2 Acharit: torn hide, rust band */
+.book-spine.s2 { background: linear-gradient(90deg, #241708, #4a2c14 45%, #170e05); }
+.book-spine.s2 .spine-title, .book-spine.s2 .spine-word { color: #d8c49a; }
+.book-spine.s2 .spine-band { background: #6b3a1e; }
+/* s4 Neshiyah: patinated iron, teal band */
+.book-spine.s4 { height: clamp(228px, 40vw, 316px); background: linear-gradient(90deg, #232b27, #3c4a44 45%, #181e1b); }
+.book-spine.s4 .spine-title, .book-spine.s4 .spine-word { color: #a9c3bc; }
+.book-spine.s4 .spine-band { background: #2f6f68; }
+/* s5 Chalom: illuminated gold and green */
+.book-spine.s5 { background: linear-gradient(90deg, #3a2c10, #6b511e 45%, #2a1f0b); }
+.book-spine.s5 .spine-title, .book-spine.s5 .spine-word { color: #ecd9a4; }
+.book-spine.s5 .spine-band { background: linear-gradient(90deg, #8a2f23, #c8952c, #2f6b3a); }
+/* s6 Din: taped black broadside */
+.book-spine.s6 { height: clamp(250px, 43vw, 336px); background: linear-gradient(90deg, #141414, #2e2e2c 45%, #0e0e0e); }
+.book-spine.s6 .spine-title, .book-spine.s6 .spine-word { color: #d6d6d0; }
+.book-spine.s6 .spine-band { background: #f4f4f1; }
+/* s7 Techiyah: sandstone and pewter */
+.book-spine.s7 { height: clamp(232px, 41vw, 320px); background: linear-gradient(90deg, #3a3428, #5d5545 45%, #2b2721); }
+.book-spine.s7 .spine-title, .book-spine.s7 .spine-word { color: #e4d9bc; }
+.book-spine.s7 .spine-band { background: #8b867a; }
+/* s8 Nefilim: black on black, white band */
+.book-spine.s8 { background: linear-gradient(90deg, #141214, #262226 45%, #0d0b0d); }
+.book-spine.s8 .spine-title, .book-spine.s8 .spine-word { color: #c9c9c9; }
+.book-spine.s8 .spine-band { background: #efefec; }
 
 /* Tractate Aliyah - the one bound volume */
 a.book-spine.aliyah {

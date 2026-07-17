@@ -83,14 +83,31 @@ def load(name):
     return mod.FOLIO
 
 
-def font_css():
-    ab = base64.b64encode((CHROME / 'fonts/ABBESSOpti.otf').read_bytes()).decode()
-    go = base64.b64encode((CHROME / 'fonts/GOUDOS.TTF').read_bytes()).decode()
-    return (
-        "@font-face { font-family: 'Abbess'; src: url(data:font/otf;base64,%s) "
-        "format('opentype'); font-display: swap; }\n"
-        "@font-face { font-family: 'Goudy Old Style'; src: url(data:font/ttf;base64,%s) "
-        "format('truetype'); font-display: swap; }\n" % (ab, go))
+# family name -> (file, format). Every page embeds Goudy; Aliyah pages add
+# Abbess; each sibling shaar adds only its own line's display face.
+FONTS = {
+    'Abbess':          ('fonts/ABBESSOpti.otf',  'opentype'),
+    'Goudy Old Style': ('fonts/GOUDOS.TTF',      'truetype'),
+    'Delavan':         ('fonts/Delavan.TTF',     'truetype'),
+    'Garou':           ('fonts/Garou.ttf',       'truetype'),
+    'Matrix Tall':     ('fonts/MatrixTall.ttf',  'truetype'),
+    'Kells':           ('fonts/Kells.ttf',       'truetype'),
+    'Chouse':          ('fonts/Chouse.ttf',      'truetype'),
+    'Nueva Caesar':    ('fonts/NuevaCaesar.ttf', 'truetype'),
+    'Scythe':          ('fonts/Scythe.ttf',      'truetype'),
+}
+
+
+def font_css(families=('Abbess', 'Goudy Old Style')):
+    rules = []
+    for fam in families:
+        path, fmt = FONTS[fam]
+        b64 = base64.b64encode((CHROME / path).read_bytes()).decode()
+        rules.append(
+            "@font-face { font-family: '%s'; src: url(data:font/%s;base64,%s) "
+            "format('%s'); font-display: swap; }" % (
+                fam, 'otf' if fmt == 'opentype' else 'ttf', b64, fmt))
+    return '\n'.join(rules) + '\n'
 
 
 def render_daf(m):
@@ -169,7 +186,8 @@ def render_shaar(m):
                 rows.append(f'<div class="toc-wanting"><span class="fol">{label}</span>{title} &mdash; wanting</div>')
         chapters.append('<div class="toc-chapter"><div class="toc-head">%s</div>%s</div>'
                         % (head, '\n'.join(rows)))
-    return f"""<main class="page shaar-page">
+    skin = (' ' + m['skin']) if m.get('skin') else ''
+    return f"""<main class="page shaar-page{skin}">
   <div class="frame">
     <div class="shaar-arch">
       <div class="shaar-seder">{m['seder']}</div>
@@ -192,39 +210,44 @@ def render_shaar(m):
 
 
 # The eight tractates of Seder Chashak, shelved in publication order of the
-# game lines they answer to. Hebrew names per SPEC section 1; a spine lights
-# up and becomes clickable when its tractate is bound.
+# game lines they answer to. Hebrew names per SPEC section 1. Aliyah is the
+# bound volume; the siblings' spines are lit in their own line's colors and
+# open onto their Sharrim (title pages; every folio behind them wanting).
 SHELF = [
-    ('Masekha',  '\u05de\u05e1\u05db\u05d4',             'Vampire: the Masquerade',   None),
-    ('Acharit',  '\u05d0\u05d7\u05e8\u05d9\u05ea',       'Werewolf: the Apocalypse',  None),
+    ('Masekha',  '\u05de\u05e1\u05db\u05d4',             'Vampire: the Masquerade',   'tractate-masekha.html'),
+    ('Acharit',  '\u05d0\u05d7\u05e8\u05d9\u05ea',       'Werewolf: the Apocalypse',  'tractate-acharit.html'),
     ('Aliyah',   '\u05e2\u05dc\u05d9\u05d9\u05d4',       'Mage: the Ascension',       'tractate-aliyah.html'),
-    ('Neshiyah', '\u05e0\u05e9\u05d9\u05d9\u05d4',       'Wraith: the Oblivion',      None),
-    ('Chalom',   '\u05d7\u05dc\u05d5\u05dd',             'Changeling: the Dreaming',  None),
-    ('Din',      '\u05d3\u05d9\u05df',                   'Hunter: the Reckoning',     None),
-    ('Techiyah', '\u05ea\u05d7\u05d9\u05d9\u05d4',       'Mummy: the Resurrection',   None),
-    ('Nefilim',  '\u05e0\u05e4\u05d9\u05dc\u05d9\u05dd', 'Demon: the Fallen',         None),
+    ('Neshiyah', '\u05e0\u05e9\u05d9\u05d9\u05d4',       'Wraith: the Oblivion',      'tractate-neshiyah.html'),
+    ('Chalom',   '\u05d7\u05dc\u05d5\u05dd',             'Changeling: the Dreaming',  'tractate-chalom.html'),
+    ('Din',      '\u05d3\u05d9\u05df',                   'Hunter: the Reckoning',     'tractate-din.html'),
+    ('Techiyah', '\u05ea\u05d7\u05d9\u05d9\u05d4',       'Mummy: the Resurrection',   'tractate-techiyah.html'),
+    ('Nefilim',  '\u05e0\u05e4\u05d9\u05dc\u05d9\u05dd', 'Demon: the Fallen',         'tractate-nefilim.html'),
+]
+
+# The sibling title pages: content module -> output slug. Each embeds only
+# Goudy + its own display face (see the module's 'display_font').
+SIBLINGS = [
+    ('shaar_masekha',  'tractate-masekha'),
+    ('shaar_acharit',  'tractate-acharit'),
+    ('shaar_neshiyah', 'tractate-neshiyah'),
+    ('shaar_chalom',   'tractate-chalom'),
+    ('shaar_din',      'tractate-din'),
+    ('shaar_techiyah', 'tractate-techiyah'),
+    ('shaar_nefilim',  'tractate-nefilim'),
 ]
 
 
 def render_shelf():
     spines = []
     for i, (name, hebrew, line, href) in enumerate(SHELF, 1):
-        if href:
-            spines.append(
-                f'<a class="book-spine aliyah" href="{href}" '
-                f'title="Tractate {name} \u00b7 {line}">\n'
-                f'  <span class="spine-word">{hebrew}</span>\n'
-                f'  <span class="spine-title">Tractate {name}</span>\n'
-                f'  <span class="spine-band"></span>\n'
-                f'</a>')
-        else:
-            spines.append(
-                f'<div class="book-spine wanting b{i}" '
-                f'title="Tractate {name} \u00b7 {line}">\n'
-                f'  <span class="spine-word">{hebrew}</span>\n'
-                f'  <span class="spine-title">Tractate {name}</span>\n'
-                f'  <span class="spine-band"></span>\n'
-                f'</div>')
+        cls = 'aliyah' if name == 'Aliyah' else f'sib s{i}'
+        spines.append(
+            f'<a class="book-spine {cls}" href="{href}" '
+            f'title="Tractate {name} \u00b7 {line}">\n'
+            f'  <span class="spine-word">{hebrew}</span>\n'
+            f'  <span class="spine-title">Tractate {name}</span>\n'
+            f'  <span class="spine-band"></span>\n'
+            f'</a>')
     return f"""<main class="shelf-room">
   <header class="shelf-head">
     <div class="shelf-hebrew">\u05d7\u05e9\u05da</div>
@@ -243,13 +266,13 @@ def render_shelf():
 RENDERERS = {'daf': render_daf, 'shaar': render_shaar}
 
 
-def page_shell(title, body, extra_css='', extra_js=''):
+def page_shell(title, body, extra_css='', extra_js='', fonts=('Abbess', 'Goudy Old Style')):
     return (
         '<!DOCTYPE html>\n<html lang="en">\n<head>\n'
         '<meta charset="UTF-8">\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
         f'<title>{title}</title>\n'
-        '<style>\n' + font_css() + (CHROME / 'daf.css').read_text()
+        '<style>\n' + font_css(fonts) + (CHROME / 'daf.css').read_text()
         + extra_css + '\n</style>\n</head>\n<body>\n'
         + body
         + f'\n<footer class="darkpack-legal">{DARKPACK_TEXT}</footer>\n'
@@ -322,6 +345,20 @@ def build():
     out = DIST / 'tractate-aliyah.html'
     out.write_text(codex)
     print(f'built {out.name}  ({out.stat().st_size:,} bytes)')
+
+    # ---- the Sharrim (sibling-tractate title pages) ----
+    sib_nav = ('<nav class="sib-nav"><a href="./" '
+               'title="return the volume to the shelf">&lsaquo; the shelf</a></nav>\n')
+    for module, slug in SIBLINGS:
+        m = load(module)
+        body = sib_nav + render_shaar(m)
+        out = DIST / (slug + '.html')
+        out.write_text(page_shell(
+            m['title'], body,
+            extra_css='\n' + (CHROME / 'shaar.css').read_text()
+                      + '\n' + (CHROME / 'sharrim.css').read_text(),
+            fonts=('Goudy Old Style', m['display_font'])))
+        print(f'built {out.name}  ({out.stat().st_size:,} bytes)')
 
     # ---- the shelf (site home page) ----
     out = DIST / 'index.html'

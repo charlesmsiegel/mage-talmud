@@ -38,6 +38,7 @@ Update the status tables here in the same commit as the work.
 | 406a/b | Health · The Wound | daf pair | **built** |
 | 533a | Paradox | daf | **built** |
 | 533b | Witnesses | daf | **built** |
+| the Sharrim | seven sibling title pages | shaar (skinned) | **built** — see SPEC §3; sources in plans/sharrim/ |
 | everything else | — | — | briefed in plans/folio-briefs.md |
 
 ## Phase 1 — Template proofs (do these first, in this order)
