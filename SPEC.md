@@ -115,8 +115,18 @@ Register conventions:
   did.
 - **luach** — chart folio: the center block is a reference table (difficulty
   charts, weapons, backlash ladder, Merits/Flaws), commentary frame thinner.
-  Precedent: the Vilna's own diagram pages in Eruvin. **Not yet implemented**
-  — needs a `render_luach` in build.py and table CSS in daf.css.
+  Precedent: the Vilna's own diagram pages in Eruvin. **Implemented** (proof:
+  f435a/b). Conventions, per the proof: the content dict is a daf whose
+  `center` is a one-paragraph caption Mishnah + `<table class="luach">`
+  (+ optionally a short Gemara below the table); `type: 'luach'` renders via
+  `render_daf` with a `luach-page` class; wide tables set `center_w: '44%'`
+  in the dict (a `--center-w` override on the leaf). Table CSS lives in
+  daf.css (Vilna look: horizontal rules only, Abbess letterspaced header
+  row, alternating row tint, `.num` right-aligned). Charts **restate the
+  structure and cite the grain**: fine-grained source ladders may be
+  abridged to bands with an Ein Mishpat note (ruling recorded in f435b's
+  outer commentary). Budgets: the daf word budgets apply with the caption +
+  table text counted as the center; verify must pass unchanged.
 - **seder** — ordered-procedure page for character creation: numbered steps as
   the center, commentary wrapped around each step. The Haggadah's genre.
   **Not yet implemented.**
