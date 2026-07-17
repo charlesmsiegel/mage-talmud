@@ -72,8 +72,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a death-mage.</span> The b
            '        <p class="drop"><span class="mark">d</span> On the fallen house &mdash; its '
            'crimes, its erasure, and the student redeemed &mdash; see the same chapter&rsquo;s '
            'account of the Helekar affair.</p>',
- 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 514, '
-           'wanting; the botch it tithes at folio 393, likewise. The Wheel&rsquo;s rhyme with '
+ 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 514; the botch it tithes at folio 393. The Wheel&rsquo;s rhyme with '
            'folio 148b is exact and uncomfortable: two Traditions keep death&rsquo;s books, and '
            'their war was, among other things, an audit dispute.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> Gilgul, the sentence of '
@@ -82,7 +81,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a death-mage.</span> The b
            'absolute, for it kills the returning, not the returned.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The martyr of the First Cabal '
            'is folio 2b&rsquo;s; the war in the passes, folio 148a&rsquo;s; the fallen generally, '
-           'folio 224&rsquo;s, wanting.</p>',
+           'folio 224&rsquo;s.</p>',
  'h1': 'The Chakravanti',
  'hagahah': 'The Chakravanti keep the only law code whose every case is capital. This reads as '
             'gallows humor until one notices its discipline: a code that cannot impose a lesser '
@@ -140,7 +139,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a death-mage.</span> The b
           'indistinguishable, from the outside, from a appetite dressed in duty. The Council '
           'tolerates them as one tolerates a neighbor&rsquo;s guard dog &mdash; useful, watched. '
           '<span class="voice">Others say</span> the license is issued by the work itself: someone '
-          'tends the deathbeds no healer can win, unmakes the things folio 224 will catalogue, and '
+          'tends the deathbeds no healer can win, unmakes the things folio 224 catalogues, and '
           'carries what that carrying costs &mdash; and the objectors have had five centuries to '
           'volunteer and have sent, instead, opinions. An objection to the defenders: the fallen '
           'house prospered for a generation inside this very framework; the license did not fail '

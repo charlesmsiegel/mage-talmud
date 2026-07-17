@@ -77,7 +77,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the healer in the cabal.</span> Li
            'folio 162a, whose blood-and-garden law is its living jurisprudence; the Union&rsquo;s '
            'vats run the same ladder under the Progenitors, folio 190.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The healing this Sphere '
-           'works and the injury it repairs are folio 406&rsquo;s ledger, wanting; the aggravated '
+           'works and the injury it repairs are folio 406&rsquo;s ledger; the aggravated '
            'clause here is why that folio&rsquo;s worst column exists.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> Where Life ends and Mind '
            'begins in a living brain is argued opposite and will be argued again at folio 519; the '

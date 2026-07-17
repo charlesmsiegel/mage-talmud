@@ -99,8 +99,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the crossing as finale.</span> The
            'paradox law that lapses past the wall is 533a&rsquo;s, whose '
            'margin has been warned.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The '
-           'exile of the mad and the fallen is chapter VII&rsquo;s '
-           'debt, folios 197 through 234, wanting; and the storm that '
+           'exile of the mad and the fallen is chapter VII&rsquo;s, folios 197 through 234; and the storm that '
            'scarred these crossings is filed with the end-times, '
            'wanting, as 82a&rsquo;s Masoret already marked.</p>',
  'h1': 'The Horizon',

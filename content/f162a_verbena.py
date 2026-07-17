@@ -72,8 +72,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a witch.</span> Two carica
            '        <p class="drop"><span class="mark">d</span> On Nightshade of Harrogate, '
            'convener at Mistridge, see the histories cited at folio 2a; this folio&rsquo;s aggada '
            'leans on that one and adds the ashes.</p>',
- 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 516, '
-           'wanting; the healing it governs at folio 406, likewise. The Tradition&rsquo;s claim to '
+ 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 516; the healing it governs at folio 406. The Tradition&rsquo;s claim to '
            'eldest lineage is disputed by the Dreamspeakers of folio 154a without heat &mdash; the '
            'People predate the claim and decline the contest, which stings more.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The founding rage of folio '
@@ -115,7 +114,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a witch.</span> Two carica
           'consent, formal, witnessed, and freely given. What consent can mean at that altitude is '
           'the disputants&rsquo; first case opposite, and the tractate does not pretend the clause '
           'is comfortable; it rules only that without the clause the Tradition is '
-          'indistinguishable from what folio 224 will catalogue, and the Verbena wrote the clause '
+          'indistinguishable from what folio 224 catalogues, and the Verbena wrote the clause '
           'for exactly that reason.</p>\n'
           '        <p><span class="lemma">Priestess and priest of any body.</span> The modern '
           'clause, plainly: the old God-and-Goddess polarity is energies, not anatomy, and the '

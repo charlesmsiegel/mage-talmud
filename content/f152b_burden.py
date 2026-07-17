@@ -61,7 +61,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On prophecy at the table.</span> The 
  'folio': '152B',
  'glossL': '<p><span class="mark">a</span> On Ecstatic foresight &mdash; the widened perception '
            'that reads the moment&rsquo;s neighbors &mdash; see M20&rsquo;s Cult of Ecstasy entry '
-           'and the Time Sphere, folio 522, wanting.</p>\n'
+           'and the Time Sphere, folio 522.</p>\n'
            '        <p><span class="mark">b</span> On the told future differing from the seen one, '
            'see the Time discussions of the recensions; the Storyteller&rsquo;s side of the '
            'problem is treated wherever precognition meets plot.</p>\n'
@@ -80,7 +80,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On prophecy at the table.</span> The 
            'was acquitted; the tractate keeps both verdicts.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The mechanics of sight '
            '&mdash; what Time&rsquo;s ranks actually yield, and whether a rewind unmakes Paradox '
-           '&mdash; are folio 522&rsquo;s, wanting; this folio is the ethics, not the engine.</p>',
+           '&mdash; are folio 522&rsquo;s; this folio is the ethics, not the engine.</p>',
  'h1': 'The Burden',
  'hagahah': 'Scholars with foresight argue anyway; the recto&rsquo;s chapter promised as much. The '
             'Burden explains why: the seer who knows how the argument ends still does not know how '

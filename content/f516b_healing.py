@@ -64,7 +64,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On healing as drama.</span> The once-
            '        <p><span class="mark">b</span> On one healing to a scene, see the same '
            'chapters; the clause binds the patient, not the healer.</p>\n'
            '        <p class="drop"><span class="mark">c</span> On aggravated healing as always '
-           'vulgar and half-effective, see the same; folio 406, wanting, will keep the injury '
+           'vulgar and half-effective, see the same; folio 406 keeps the injury '
            'ledger this clause writes into.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On harm undodgeable and unarmored, '
            'and on damage spread over an interval &mdash; the death curse &mdash; see the same '

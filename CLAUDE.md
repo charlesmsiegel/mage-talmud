@@ -59,11 +59,12 @@ all of chapter III (62/78/82, three pairs), all of chapter IV
 (148–164, nine Tradition pairs), all of chapter VI (168 + the five
 Convention pairs 186–194,
 in the register swap: inner = procedures-manual deadpan, outer =
-Tradition polemic), 250a/b, all of chapter IX (384–406, four Middot
+Tradition polemic), all of chapter VII (197/224/234, three pairs),
+250a/b, all of chapter IX (384–406, four Middot
 pairs), all of chapter X (409–435, three daf pairs + the 435 luach
 pair), and all of chapter XI (500 Casting, the nine Sphere pairs
 512–522, 533 Paradox/Witnesses, 554 Quiet, the focus trio 567/572/586,
-and 607 Rotes) — one hundred and two daf-sides, every bound folio a
+and 607 Rotes) — one hundred and eight daf-sides, every bound folio a
 complete a/b pair, one shaar ToC row per folio number. All pass verify.
 All four page types are proven: daf, luach (f435a/b), seder (f250a),
 shaar — conventions in SPEC §3; 273/275/303 and the minor tractates
@@ -75,6 +76,5 @@ spine is lit and clickable.
 Names: classic Tradition names are primary (the renames didn't take),
 except Chakravanti and Society of Ether; naming questions appear in-folio
 as live debates.
-Next: chapter VII (3b's debts: 197/224/234), the VIII luachs
-(273/275/303) + 328, f143 Certámen (merge decision vs f430), and
-the minor tractates; see PLAN.md.
+Next: the VIII luachs (273/275/303) + 328, f143 Certámen (merge
+decision vs f430), and the minor tractates; see PLAN.md.

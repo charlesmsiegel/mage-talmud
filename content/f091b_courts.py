@@ -77,10 +77,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the court as recurring cast.</span
            'unfinished dead and on the drowned who serve the drain, '
            'see M20, folios 99&ndash;100, and Umbra: the Velvet '
            'Shadow, folios 99&ndash;103 of that volume.</p>\n'
-           '        <p class="drop"><span class="mark">d</span> On '
-           'names, bargains, and appraisal in the spirit courts, see '
-           'the protocol law bound at folio 521a and the sources it '
-           'cites.</p>',
+           '        <p class="drop"><span class="mark">d</span> On names, bargains, and appraisal in the spirit courts, see M20, the Spirit entries at folios 520&ndash;521, and the elder court catalog, Book of Worlds, folios 25&ndash;33 of that volume; the ladder of dealings is bound at folio 521a.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The court protocol here '
            'is 521a&rsquo;s bargain ladder worn as etiquette: the toll, '
            'the gift, and the grudge are that folio&rsquo;s law '

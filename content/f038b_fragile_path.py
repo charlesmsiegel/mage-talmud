@@ -76,8 +76,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On pacing the three stages.</span> Th
            'inward enemies &mdash; see the same folios.</p>\n'
            '        <p class="drop"><span class="mark">c</span> On the '
            'resolutions, and on Gilgul as the worst of them, see the same '
-           'folios; the unmaking&rsquo;s own law is chapter VII&rsquo;s debt, '
-           'wanting, and 2b has already presupposed it.</p>\n'
+           'folios; the unmaking&rsquo;s own law is kept at 2b, and chapter VII&rsquo;s margin weighs it against the compact&rsquo;s unused jar at 197b.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On presage, '
            'wild talent, and the rare waking in which the spark drives '
            '&mdash; bounded by its own rating &mdash; see Initiates of the '
@@ -94,7 +93,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On pacing the three stages.</span> Th
            'reader both ways.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The '
            'inward enemies of the second stage each keep a folio: the '
-           'break inward at 554a, the corruption at chapter VII, wanting, '
+           'break inward at 554a, the corruption at folio 224, '
            'and the stagnation &mdash; subtler than either &mdash; in every '
            'gate this binding has audited since chapter V.</p>',
  'h1': 'The Fragile Path',

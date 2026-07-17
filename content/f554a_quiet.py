@@ -84,7 +84,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On taking the voice.</span> Quiet is 
            'judge. The backlash that overflows ten points arrives here, and the '
            'Masoret routes the reader accordingly.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The Mad who '
-           'never return are folio 234&rsquo;s, wanting &mdash; the walking '
+           'never return are folio 234&rsquo;s &mdash; the walking '
            'Quiets whose weather follows them &mdash; and the wild talent that '
            'ends there is 527&rsquo;s optional storm; this folio keeps the '
            'doorway and that one will keep the country.</p>\n'

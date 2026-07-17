@@ -71,10 +71,8 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing an Ecstatic.</span> The pi
            'and its ten tenets &mdash; the first phrased less politely than any law in this '
            'tractate &mdash; see the Lore of the Traditions chapter on the Ecstatics.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On the purged &mdash; the Aghoris, '
-           'the Acharne, the Maenads &mdash; see the same chapter; on the fallen generally, folio '
-           '224, wanting.</p>',
- 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 522, '
-           'wanting; the seer&rsquo;s silence before the court &mdash; ruling vii of folio 3a, '
+           'the Acharne, the Maenads &mdash; see the same chapter; on the fallen generally, folio 224.</p>',
+ 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 522; the seer&rsquo;s silence before the court &mdash; ruling vii of folio 3a, '
            'argued from Salonikas&rsquo;s case &mdash; is faced on this folio&rsquo;s verso, where '
            'it belongs to his heirs.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The shared Avatar of the '

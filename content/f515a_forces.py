@@ -66,8 +66,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the third dot.</span> The rank tha
  'chapter': 'Chapter the Eleventh',
  'colophon': 'An out-of-character disputation for Mage: the Ascension &middot; fan work in the '
              'form of a daf; no rules text is reproduced &middot; set in Abbess &amp; Goudy Old '
-             'Style after the M20 interior &middot; first of the nine Sphere folios; its siblings '
-             'are wanting, and folio 533a waits past the lacuna to price everything ruled here.',
+             'Style after the M20 interior &middot; first of the nine Sphere folios; its siblings follow at 512 through 522, and folio 533a waits to price everything ruled here.',
  'folio': '515A',
  'glossL': '<p><span class="mark">a</span> On the Sphere of Forces entire &mdash; its kinds of '
            'energy, its ranks, its worked examples &mdash; see M20, the Spheres chapter, folio '
@@ -84,7 +83,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the third dot.</span> The rank tha
            'Sphere&rsquo;s M20 entry and the discussions of magickal feats in the systems '
            'chapters.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The seat of Forces among the Nine is the Order '
-           'of Hermes (folio 158 &mdash; wanting); the Union&rsquo;s iterators prize the Sphere '
+           'of Hermes (folio 158); the Union&rsquo;s iterators prize the Sphere '
            'no less (folio 186). One ladder, two liturgies.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> This folio is secretly '
            'about witnesses, as folio 3a says all of them are: vulgarity is tried at 533a, the '

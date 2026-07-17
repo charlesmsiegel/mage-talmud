@@ -53,8 +53,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On quoting the recto.</span> The chea
            'everywhere, quietly, and kept their own minutes. And lately &mdash; the elders of '
            'the Council learning it late and third-hand &mdash; the unseated have taken the '
            'borrowed insult for a flag and made a compact under it. That body, its houses, and '
-           'its law are tried at folio 197, which is wanting; this page owes it only the '
-           'origin. The disputants around this text quarrel over what the second telling is, '
+           'its law are tried at folio 197; this page owes it only the origin. The disputants around this text quarrel over what the second telling is, '
            'and what a seat would mean now.</p>',
  'chapter': 'Chapter the First &middot; concluded',
  'colophon': 'An out-of-character disputation for Mage: the Ascension &middot; fan work in the '

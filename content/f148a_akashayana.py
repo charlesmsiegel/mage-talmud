@@ -52,7 +52,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
            'on the mountain, and the mountain handed it to the monasteries; the monasteries '
            'handed it to the roads, and the roads handed it to whoever walked them well. It met '
            'the death-mages in the high passes and warred with them for centuries, and the '
-           'grief of that war is still kept &mdash; folio 156, when it is written, keeps it '
+           'grief of that war is still kept &mdash; folio 156 keeps it '
            'too. It sent walkers west when the West convened, and took a chair at the '
            'Convocation with the ink of that grief not yet dry, and it has held the chair of '
            'Mind through scattering, empire, and exile since. <span class="kw">OUR TEACHERS '
@@ -82,14 +82,14 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
            'fist, the eye, and the open hand &mdash; and the roles the modern books add &mdash; '
            'see the same entries; the names vary by recension, the argument does not.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The chair was taken at the Convocation of '
-           'folio 2a, with the war against the Chakravanti (folio 156 &mdash; wanting) barely '
+           'folio 2a, with the war against the Chakravanti (folio 156) barely '
            'cold; the Council seated two enemies and called it peace, and it held.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The fist&rsquo;s '
            'coincidence is tried at folio 533a: a master&rsquo;s strike is witness-proof, for '
            'the bystander sees only skill. As folio 3a says of all law &mdash; this too is the '
            'law of who is watching, and practice is witness-management perfected.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The seat&rsquo;s Sphere is '
-           'tried at folio 519, which is wanting; the duel law this folio&rsquo;s masters are '
+           'tried at folio 519; the duel law this folio&rsquo;s masters are '
            'forever being challenged under is folio 143, likewise wanting.</p>',
  'h1': 'The Akashic Brotherhood',
  'hagahah': 'The Akashic Record preserves, complete and consultable, every argument the '

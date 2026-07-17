@@ -59,9 +59,9 @@ FOLIO = {
             ('194a', '194', 'The Void Engineers \u00b7 The Unfiled'),
         ]),
         ('VII \u00b7 The Unseated and the Fallen', [
-            (None, '197', 'The Silent Alliance'),
-            (None, '224', 'The Fallen'),
-            (None, '234', 'The Mad'),
+            ('197a', '197', 'The Silent Alliance \u00b7 The Wise Hearts'),
+            ('224a', '224', 'The Fallen \u00b7 The Deep Game'),
+            ('234a', '234', 'The Mad \u00b7 The Weather'),
         ]),
         ('VIII \u00b7 The Order of Making', [
             ('250a', '250', 'The Seder of Creation \u00b7 The Fifteen'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are one hundred and two; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are one hundred and eight; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }

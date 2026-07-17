@@ -80,7 +80,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the societies as cast.</span> The 
            'seat question from the inside: what that folio argues in the abstract, this one has '
            'minutes for.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The technoshamans&rsquo; '
-           'wires run toward folio 164&rsquo;s Web, wanting, where the spirits in the machine have '
+           'wires run toward folio 164&rsquo;s Web, where the spirits in the machine have '
            'other keepers with other protocols.</p>',
  'h1': 'The People',
  'hagahah': 'The memory-keepers&rsquo; realm was severed by the storm, and the Baruti&rsquo;s '
