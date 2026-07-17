@@ -54,7 +54,7 @@ disputes — a folio whose outer commentary merely explains has failed.
 
 ## Current state
 Built: shaar, 2a/b, 3a/b, all of chapter V (148–164, nine Tradition
-pairs), all nine Sphere pairs (512–522), 533a/b — forty dafs, every bound
+pairs), all nine Sphere pairs (512–522), 533a/b — forty-two dafs, every bound
 folio a complete a/b pair, one shaar ToC row per folio number. All pass
 verify.
 Names: classic Tradition names are primary (the renames didn't take),
