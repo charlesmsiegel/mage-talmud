@@ -90,7 +90,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the first crossing.</span> A party
  'glossR': '<p><span class="mark">&#8224;</span> This leaf closes the '
            'chapter&rsquo;s circuit: the water of 62a sets the wall of 82a, '
            'the wells of 78b thin it, and the doors of this side open on '
-           'the countries chapter IV owes. The World is one folio of '
+           'the countries of chapter IV, folios 89 through 109. The World is one folio of '
            'four pages, and the Masoret binds them as such.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The '
            'keeper at every portal is 521a&rsquo;s bargain law standing in '

@@ -72,7 +72,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the societies as cast.</span> The 
            '        <p class="drop"><span class="mark">d</span> On the gathering-in after Standing '
            'Rock and the community-centered turn, see the same chapter&rsquo;s modern history.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The storm itself belongs to the histories of the '
-           'worlds beyond, chapter IV, wanting; this folio keeps only what it cost the People. The '
+           'worlds beyond, chapter IV, folios 89 through 109; this folio keeps only what it cost the People. The '
            'far-walkers&rsquo; fate rhymes darkly with folio 148b&rsquo;s Wheel &mdash; some dead '
            'return; some ways of returning died.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The threshold cases &mdash; '

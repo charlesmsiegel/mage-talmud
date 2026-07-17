@@ -212,7 +212,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On using the casebook.</span> The sam
           'working is craft; prudence installed as the register '
           'itself is surrender with a style guide, and the difference '
           'is the whole Ascension War in miniature. Handed '
-          'now to chapter VI unopened. <span class="kw">TEYKU</span> '
+          'now to chapter VI, folios 168 through 194. <span class="kw">TEYKU</span> '
           '&mdash; the Book of Magick ends, as it began, at the '
           'wall.</p>',
  'outer_head': 'The Disputants<span class="comm-sub">the outer commentary &middot; '

@@ -42,7 +42,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the chantry budget.</span> Run the
            'hold.<sup>d</sup></p>\n'
            '        <p class="gemara-break"><span class="kw">GEMARA.</span> Whence tenure in first '
            'stuff &mdash; who may own a well of the world&rsquo;s own light? The chapter has heard '
-           'this question before: folio 78, when it is written, will hold the property law entire, '
+           'this question before: folio 78 holds the property law entire, '
            'and this verso keeps only the economy&rsquo;s grammar. <span class="kw">IT HAPPENED '
            'THAT</span> two chantries shared a node on a parish boundary for two hundred years, '
            'splitting the yield by a treaty neither could produce when asked. A new prior demanded '
@@ -72,7 +72,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the chantry budget.</span> Run the
            'Avatar&rsquo;s measure, the periapt&rsquo;s bound, the node&rsquo;s yield &mdash; see '
            'the same entry and folio 520a&rsquo;s first rank.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The node&rsquo;s property law is folio '
-           '78&rsquo;s, wanting; the commons-versus-title fight promised there is this '
+           '78b&rsquo;s; the commons-versus-title fight staged there is this '
            'verso&rsquo;s Gemara in long form, and the burned charter is the Masoret&rsquo;s early '
            'evidence for the commons.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The wonder built here wears '

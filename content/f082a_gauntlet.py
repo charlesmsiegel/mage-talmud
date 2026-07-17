@@ -94,9 +94,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the veil as scene transition.</spa
            'with the end-times, wanting.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The '
            'countries beyond the wall are chapter IV&rsquo;s, folios 89 '
-           'through 109, wanting: this folio builds the door and that '
-           'chapter owes the atlas. The Masoret marks the debt at the '
-           'threshold.</p>',
+           'through 109: this folio builds the door and that chapter keeps the atlas &mdash; the mirror at 89, the deeps at 91, the outer wall at 109. The Masoret marks the door at the threshold.</p>',
  'h1': 'The Gauntlet',
  'hagahah': 'The wall between worlds is measured in how hard the neighbors '
             'disbelieve you. Good fences make sane neighbors, and the '
@@ -109,7 +107,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the veil as scene transition.</spa
           'place and hour, and belongs to the organism rather than to '
           'any architect. The near country behind it is the '
           'spirit&rsquo;s shallows; the deeps are the far countries, and '
-          'chapter IV will owe them an atlas.</p>\n'
+          'chapter IV keeps their atlas.</p>\n'
           '        <p><span class="lemma">Graded by locale.</span> The '
           'chart clause&rsquo;s plain sense, banded per the standing '
           'rule: the node&rsquo;s sill barely resists &mdash; a single '

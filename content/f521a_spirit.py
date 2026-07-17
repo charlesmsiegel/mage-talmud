@@ -124,7 +124,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the spirit-worker in the cabal.</s
           'plainly: the first rank&rsquo;s sight opens on the near shadow &mdash; the '
           'place&rsquo;s honest mirror, showing what it is rather than how it looks &mdash; and '
           'the reading is the Sphere&rsquo;s investigative gift: the sweatshop&rsquo;s Penumbra '
-          'bleeds, the loved house&rsquo;s glows, and folio 89, wanting, will keep the atlas. The '
+          'bleeds, the loved house&rsquo;s glows, and folio 89 keeps the atlas. The '
           'consequence for play arrives before any crossing: the Spirit-worker knows what every '
           'place <span class="aside">means</span>, which is intelligence no camera gathers and no '
           'ward against sight &mdash; folio 512b noted &mdash; was ever built to stop.</p>\n'

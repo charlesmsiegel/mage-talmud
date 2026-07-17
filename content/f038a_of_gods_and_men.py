@@ -67,7 +67,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On session one.</span> The Awakening 
  'folio': '38A',
  'glossL': '<p><span class="mark">a</span> On the census &mdash; Sleeper, '
            'Sleepwalker, and the Awareness that runs before a waking &mdash; '
-           'see M20, folio 40, whence this page takes its number.</p>\n'
+           'see M20, folio 40.</p>\n'
            '        <p><span class="mark">b</span> On the Night-Folk filed '
            'apart, stuck halfway in their own nightmares, see the same folio; '
            'their standing at the court is 533b&rsquo;s dispute.</p>\n'

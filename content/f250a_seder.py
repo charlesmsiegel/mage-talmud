@@ -133,7 +133,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On running the seder in session zero.
           'of the thing that Awakened her, chosen now and answered for across a '
           'whole career &mdash; the seder asks for it first because everything '
           'after is negotiable and this is not. Its full account is the '
-          'Avatar&rsquo;s own folio, 43, wanting; the seder needs only the '
+          'Avatar&rsquo;s own folio, 43; the seder needs only the '
           'declaration, and the humility to know what it is declaring.</p>\n'
           '        <p><span class="lemma">By their allowance.</span> Step '
           'four&rsquo;s numbers: seven dots of Backgrounds, six of Spheres, '
