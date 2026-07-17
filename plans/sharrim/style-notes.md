@@ -112,7 +112,23 @@ line's own palette, display face, and ornament language.
 
 ## Techiyah — Mummy: the Resurrection
 
-- awaiting screenshot + display font
+- **Display face:** Nueva Caesar (`chrome/fonts/NuevaCaesar.ttf`,
+  user-supplied) — a chiseled, monumental caps face.
+- **Palette:** greys and pewter on pale papyrus/sandstone mottling; black
+  heads and body; the metal ornament carries the tone.
+- **Frame/ornament:** engraved-metal Egyptian bands — a winged-scarab
+  lintel across the head with an Eye of Horus medallion at center, a
+  scarab roundel holding the page number at the corner, and repeating
+  hieroglyphic friezes (lotus/ankh rows) across the foot. Monumental,
+  funerary-triumphant.
+- **Heads:** chapter heads in chiseled caps, black, two-line stacks;
+  sub-heads in letterspaced small caps.
+- **Running matter:** book title centered in letterspaced caps above the
+  foot friezes.
+- **Register for the shaar:** resurrection as imperial decree — Techiyah
+  as "revival of the dead"; the tractate of the returning. Title page
+  should read as a temple lintel: the arch literally a winged band, the
+  imprint a dedication stone.
 
 ## Nefilim — Demon: the Fallen
 
