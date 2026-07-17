@@ -6,6 +6,22 @@ user-supplied page screenshot, to be translated into that tractate's shaar:
 same arch-and-apparatus structure as Aliyah's shaar, re-skinned in the
 line's own palette, display face, and ornament language.
 
+## Aliyah — Mage: the Ascension (M20) — the bound reference
+
+- **Display face:** Abbess (`chrome/fonts/ABBESSOpti.otf`, already
+  embedded) — the tractate's existing chrome derives from this.
+- **Palette:** purple/violet heads (Abbess), black bold serif sub-heads,
+  cream parchment ground, red cross-references; table headers carry the
+  purple accent with alternating row tints.
+- **Frame/ornament:** gold/ochre art-nouveau border — flowing whiplash
+  lines and geometric panels, mucha-esque, ornament heaviest at corners
+  and one flowing tendril crossing the foot.
+- **Running matter:** section + page number at the outer foot corner in
+  bold serif.
+- Aliyah's daf chrome already interprets this (maroon standing in for the
+  accent, Abbess heads); no change needed — recorded for completeness and
+  as the calibration point for how far each sibling skin should depart.
+
 ## Masekha — Vampire: the Masquerade (V20)
 
 - **Display face:** Delavan (`chrome/fonts/Delavan.TTF`, user-supplied).
