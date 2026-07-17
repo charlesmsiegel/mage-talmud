@@ -86,7 +86,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On watching the fifteen.</span> The f
            'that should follow any making, see folios 261&ndash;262 and the '
            'recto&rsquo;s counsel.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The ledger&rsquo;s dearest line '
-           'is 328&rsquo;s subject, wanting: Arete priced at eight times its '
+           'is 328&rsquo;s subject: Arete priced at eight times its '
            'measure is the system&rsquo;s statement that enlightenment is not '
            'a purchase, and the Masoret files the multiplier beside the seekings of 43b.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The '
@@ -95,8 +95,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On watching the fifteen.</span> The f
            'shapes her prices forever, which the Traditions of chapter V '
            'would call doctrine and the Adepts would call lock-in.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The '
-           'earned-Background custom is 303&rsquo;s dispute in advance, '
-           'wanting: the only stats the Storyteller co-owns, and the only '
+           'earned-Background custom is 303&rsquo;s dispute in advance: the only stats the Storyteller co-owns, and the only '
            'ones the ladder lets her refuse to sell.</p>',
  'h1': 'The Fifteen',
  'hagahah': 'Fifteen points: three dots of the person, or two of magick '
@@ -196,7 +195,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On watching the fifteen.</span> The f
           'only when the soul has done the work, and the chart is thereby '
           'the one place the system says aloud that its deepest trait '
           'cannot actually be purchased. The first school runs smoother '
-          'campaigns; the second is why the seekings of 43b and folio 328, wanting, exist; and the tractate notes that both schools charge the '
+          'campaigns; the second is why the seekings of 43b and folio 328 exist; and the tractate notes that both schools charge the '
           'same eight. <span class="kw">TEYKU</span> &mdash; the ladder '
           'holds while the schools climb it.</p>\n'
           '        <p><span class="lemma">The sheet is a person.</span> A '

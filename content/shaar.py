@@ -65,10 +65,10 @@ FOLIO = {
         ]),
         ('VIII \u00b7 The Order of Making', [
             ('250a', '250', 'The Seder of Creation \u00b7 The Fifteen'),
-            (None, '273', 'Attributes (luach)'),
-            (None, '275', 'Abilities (luach)'),
-            (None, '303', 'Backgrounds (luach)'),
-            (None, '328', 'Arete and Will'),
+            ('273a', '273', 'Attributes \u00b7 The Ladder'),
+            ('275a', '275', 'Abilities \u00b7 The Knowledges'),
+            ('303a', '303', 'Backgrounds \u00b7 The Awakened Assets'),
+            ('328a', '328', 'Arete and Will \u00b7 The Price'),
         ]),
         ('IX \u00b7 Middot: Measures', [
             ('384a', '384', 'The Golden Rule \u00b7 The Contract'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are one hundred and eight; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are one hundred and sixteen; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }
