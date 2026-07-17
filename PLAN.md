@@ -45,6 +45,16 @@ Update the status tables here in the same commit as the work.
 | 533a | Paradox | daf | **built** |
 | 533b | Witnesses | daf | **built** |
 | 554a/b | Quiet · The Three Faces | daf pair | **built** |
+| 567a/b | Focus: Belief · The Inheritance | daf pair | **built** |
+| 572a/b | Focus: Practice · The Blend | daf pair | **built** |
+| 586a/b | Focus: Instruments · The Inventory | daf pair | **built** |
+| 607a/b | Rotes and Procedures · The Casebook | daf pair | **built** — chapter XI complete |
+| 168a/b | The Precepts · The Clarifications | daf pair (register swap) | **built** |
+| 186a/b | Iteration X · The Machine | daf pair | **built** |
+| 188a/b | The New World Order · Room 101 | daf pair | **built** |
+| 190a/b | The Progenitors · The Vat | daf pair | **built** |
+| 192a/b | The Syndicate · The Ledger | daf pair | **built** |
+| 194a/b | The Void Engineers · The Unfiled | daf pair | **built** — chapter VI complete |
 | the Sharrim | seven sibling title pages | shaar (skinned) | **built** — see SPEC §3; sources in plans/sharrim/ |
 | everything else | — | — | briefed in plans/folio-briefs.md |
 
@@ -77,11 +87,11 @@ faction chapters batch cleanly once their molds exist.
    chapter complete.
 2. ~~**X Strife** (409, 423, 430, 435)~~ **done** — four pairs, the last two
    sides the luach proof; chapter complete.
-3. **XI The Book of Magick** — Sphere pairs 512–522, 500 Casting, and 554
-   Quiet **done**; remaining: the focus folios 567/572/586 and 607 Rotes.
+3. ~~**XI The Book of Magick**~~ **done** — Sphere pairs 512–522, 500 Casting,
+   554 Quiet, the focus trio 567/572/586, and 607 Rotes; chapter complete.
 4. ~~**V Avot** (150–164 batch vs the f148 mold)~~ **done** — chapter V complete, every folio an a/b pair.
-5. **VI The Union** (168, 186–194) — decide the register-swap question on 168
-   before batching the Conventions (see chapter VI brief).
+5. ~~**VI The Union** (168, 186–194)~~ **done** — register swap trialed on 168
+   and adopted for the whole chapter (see Standing decisions); six a/b pairs.
 6. **II The Awakening** (38, 43, 46) and **III The World** (62, 78, 82).
 7. **IV The Worlds Beyond** (89, 91, 109).
 8. **VII The Unseated and the Fallen** (3b, 197, 224, 234) — 3b pays the debt
@@ -112,12 +122,13 @@ faction chapters batch cleanly once their molds exist.
 - Storyteller advice lives in the Later Authorities of the folio it concerns;
   there is no "storytelling chapter."
 - Every chapter owns at least one honest TEYKU.
+- Chapter VI runs the register swap: inner commentary in procedures-manual
+  deadpan ("Standard Commentary … per the manual"), outer as the Traditions'
+  polemic with the Union answering ("The Council's Objections"). Trialed on
+  f168, adopted for 186–194. Both registers stay out of character per SPEC §0.
 
 ## Open questions (decide during the relevant folio)
 
-- Chapter VI register swap: do Convention folios flip the commentary voices
-  (inner = procedures-manual deadpan, outer = Tradition polemic)? Trial it on
-  f168 and decide before batching 186–194.
 - f143 vs f430 (Certámen the institution vs. old-form duel mechanics): keep
   both or merge into 430 with a Masoret note at 143? Decide when writing 143.
 - Whether the Digital Web deserves one luach after all (currently cut).

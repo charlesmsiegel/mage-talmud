@@ -230,3 +230,9 @@ Total ≈ 70 folios + shaar.
   move for law/history contradictions.
 - Ein lemedin min ha-aggada — except when one does. The exception is the whole
   of play.
+- Chapter VI runs the register swap (decided at f168, adopted through 194):
+  the inner commentary is "Standard Commentary … per the manual" — the plain
+  sense written in procedures-manual deadpan, whose driest filings carry the
+  chapter's judgments — and the outer is "The Council's Objections" — the
+  Traditions' polemic with the Union answering, both voices out of character
+  per §0. The deadpan does the horror; the polemic does the fairness.

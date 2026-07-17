@@ -51,12 +51,12 @@ FOLIO = {
             ('164a', '164', 'The Virtual Adepts \u00b7 The Web'),
         ]),
         ('VI \u00b7 The Union', [
-            (None, '168', 'The Precepts'),
-            (None, '186', 'Iteration X'),
-            (None, '188', 'The New World Order'),
-            (None, '190', 'The Progenitors'),
-            (None, '192', 'The Syndicate'),
-            (None, '194', 'The Void Engineers'),
+            ('168a', '168', 'The Precepts \u00b7 The Clarifications'),
+            ('186a', '186', 'Iteration X \u00b7 The Machine'),
+            ('188a', '188', 'The New World Order \u00b7 Room 101'),
+            ('190a', '190', 'The Progenitors \u00b7 The Vat'),
+            ('192a', '192', 'The Syndicate \u00b7 The Ledger'),
+            ('194a', '194', 'The Void Engineers \u00b7 The Unfiled'),
         ]),
         ('VII \u00b7 The Unseated and the Fallen', [
             (None, '197', 'The Silent Alliance'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are sixty-four; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are eighty-four; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }
