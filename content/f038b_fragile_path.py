@@ -34,8 +34,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On pacing the three stages.</span> Th
            'corruption, stagnation, the break inward, chains, and '
            'death.<sup>b</sup> Last <span class="term">resolution</span>: '
            'prosperity, sacrifice, transformation, transcendence &mdash; or at '
-           'the worst end Gilgul, the unmaking of the spark itself, of which '
-           'a later folio keeps the law.<sup>c</sup> The road is walked with '
+           'the worst end Gilgul, the unmaking of the spark itself, of which the folio of 2b already keeps the law.<sup>c</sup> The road is walked with '
            'signs before it and storms at its gate: the presage runs in '
            'dreams and premonitions as the stirring spark nudges the soul '
            'from its mold; the violent waking may briefly wield the '
@@ -209,9 +208,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On pacing the three stages.</span> Th
           'one working precedent: the rare houses that pool their '
           'retrieval &mdash; rivals splitting the watch by rota, the '
           'woken told plainly who else exists &mdash; lose recruits and '
-          'keep them better, which either proves the reform or '
-          'explains its rarity, depending on the reader&rsquo;s '
-          'faction. <span class="kw">TEYKU</span> &mdash; the '
+          'keep them better, which either proves the reform or explains its rarity, depending on the reader&rsquo;s faction &mdash; and the surveys, notably, have never been rerun. <span class="kw">TEYKU</span> &mdash; the '
           'firemen, at least, were welcome.</p>',
  'outer_head': 'The Disputants<span class="comm-sub">the outer commentary &middot; '
                'two difficulties: the map, and the blanket</span>',

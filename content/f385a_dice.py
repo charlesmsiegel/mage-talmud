@@ -21,8 +21,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On when not to roll.</span> The drama
            '&mdash; is the character sheet&rsquo;s plainest advice: a mage attempting '
            'her specialty should be rolling a real handful, and the player whose '
            'concept keeps producing two-die rolls has built a character the system '
-           'will grind. Say so at creation, kindly, with this folio open; the '
-           'seder of making, chapter VIII, will say it again with worksheets.</p>',
+           'will grind. Say so at creation, kindly, with this folio open; the seder of making, chapter VIII, has said it already with worksheets.</p>',
  'bottom_head': 'The Later Authorities<span class="comm-sub">on the sound of dice, '
                 'declared walls, and decent pools</span>',
  'center': '<p class="noindent"><span class="dropcap">M</span><span class="kw">ISHNAH.</span> '
