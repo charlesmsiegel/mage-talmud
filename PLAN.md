@@ -22,6 +22,7 @@ Update the status tables here in the same commit as the work.
 | 160a/b | The Society of Ether · Paradigma | daf pair | **built** |
 | 162a/b | The Verbena · The Garden | daf pair | **built** |
 | 164a/b | The Virtual Adepts · The Web | daf pair | **built** |
+| 500a/b | Casting · The Long Working | daf pair | **built** |
 | 512a/b | Correspondence · The Reach | daf pair | **built** |
 | 514a/b | Entropy · Fortune | daf pair | **built** |
 | 515a | Forces | daf (Sphere mold) | **built** |
@@ -43,6 +44,7 @@ Update the status tables here in the same commit as the work.
 | 406a/b | Health · The Wound | daf pair | **built** |
 | 533a | Paradox | daf | **built** |
 | 533b | Witnesses | daf | **built** |
+| 554a/b | Quiet · The Three Faces | daf pair | **built** |
 | the Sharrim | seven sibling title pages | shaar (skinned) | **built** — see SPEC §3; sources in plans/sharrim/ |
 | everything else | — | — | briefed in plans/folio-briefs.md |
 
@@ -75,8 +77,8 @@ faction chapters batch cleanly once their molds exist.
    chapter complete.
 2. ~~**X Strife** (409, 423, 430, 435)~~ **done** — four pairs, the last two
    sides the luach proof; chapter complete.
-3. **XI The Book of Magick** — Sphere pairs 512–522 **done**; remaining: 500,
-   554, 567/572/586, 607.
+3. **XI The Book of Magick** — Sphere pairs 512–522, 500 Casting, and 554
+   Quiet **done**; remaining: the focus folios 567/572/586 and 607 Rotes.
 4. ~~**V Avot** (150–164 batch vs the f148 mold)~~ **done** — chapter V complete, every folio an a/b pair.
 5. **VI The Union** (168, 186–194) — decide the register-swap question on 168
    before batching the Conventions (see chapter VI brief).

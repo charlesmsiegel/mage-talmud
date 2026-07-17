@@ -68,6 +68,9 @@ MANIFEST = [
     'f435a_hazards',
     'f435b_breaking',
     '...',
+    'f500a_casting',
+    'f500b_long_working',
+    '...',
     'f512a_correspondence',
     'f512b_the_reach',
     'f514a_entropy',
@@ -88,6 +91,9 @@ MANIFEST = [
     'f522b_rewind',
     'f533a_paradox',
     'f533b_witnesses',
+    '...',
+    'f554a_quiet',
+    'f554b_three_faces',
 ]
 
 
