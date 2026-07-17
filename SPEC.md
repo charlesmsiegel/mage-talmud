@@ -129,7 +129,15 @@ Register conventions:
   table text counted as the center; verify must pass unchanged.
 - **seder** — ordered-procedure page for character creation: numbered steps as
   the center, commentary wrapped around each step. The Haggadah's genre.
-  **Not yet implemented.**
+  **Implemented** (proof: f250a). Conventions, per the proof: the content
+  dict is a daf whose `center` is a one-line opening Mishnah + one
+  `<p class="step">` per step (each opening `<span class="term">Step
+  N.</span>` + a terse imperative) + a short Gemara on why the order is an
+  order; `type: 'seder'` renders via `render_daf` with a `seder-page` class
+  (step CSS in daf.css). **The arithmetic is exiled to the inner
+  commentary** — point totals never appear in the center; the steps are
+  ritual, the margins are bookkeeping. Daf budgets and verify apply
+  unchanged.
 - **shtar** — the character sheet as a formal deed (ketubah tradition of
   fixed-formula documents). **Not yet implemented.**
 

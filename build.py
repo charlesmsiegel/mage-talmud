@@ -42,6 +42,9 @@ MANIFEST = [
     'f164a_adepts',
     'f164b_the_web',
     '...',
+    'f250a_seder',
+    'f250b_fifteen',
+    '...',
     'f384a_golden_rule',
     'f384b_contract',
     'f385a_dice',
@@ -282,7 +285,12 @@ def render_luach(m):
     return render_daf(m, page_class='page luach-page')
 
 
-RENDERERS = {'daf': render_daf, 'shaar': render_shaar, 'luach': render_luach}
+def render_seder(m):
+    return render_daf(m, page_class='page seder-page')
+
+
+RENDERERS = {'daf': render_daf, 'shaar': render_shaar, 'luach': render_luach,
+             'seder': render_seder}
 
 
 def page_shell(title, body, extra_css='', extra_js='', fonts=('Abbess', 'Goudy Old Style')):

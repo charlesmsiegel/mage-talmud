@@ -54,12 +54,13 @@ disputes — a folio whose outer commentary merely explains has failed.
 
 ## Current state
 Built: shaar, 2a/b, 3a/b, all of chapter V (148–164, nine Tradition
-pairs), all of chapter IX (384–406, four Middot pairs), all of chapter X
-(409–435, three daf pairs + the 435 luach pair), all nine Sphere pairs
-(512–522), 533a/b — fifty-eight daf-sides, every bound folio a complete
-a/b pair, one shaar ToC row per folio number. All pass verify.
-The luach mold is proven (f435a/b, `render_luach`, SPEC §3 conventions);
-273/275/303 and the minor tractates batch against it.
+pairs), 250a/b, all of chapter IX (384–406, four Middot pairs), all of
+chapter X (409–435, three daf pairs + the 435 luach pair), all nine
+Sphere pairs (512–522), 533a/b — sixty daf-sides, every bound folio a
+complete a/b pair, one shaar ToC row per folio number. All pass verify.
+All four page types are proven: daf, luach (f435a/b), seder (f250a),
+shaar — conventions in SPEC §3; 273/275/303 and the minor tractates
+batch against the luach mold.
 The Sharrim are built: seven sibling-tractate title pages
 (dist/tractate-<name>.html), each skinned in its line's interior style
 (chrome/sharrim.css; sources and rulings in plans/sharrim/); every shelf
@@ -67,5 +68,6 @@ spine is lit and clickable.
 Names: classic Tradition names are primary (the renames didn't take),
 except Chakravanti and Society of Ether; naming questions appear in-folio
 as live debates.
-Next: the seder (f250) proof (new renderer), then chapter XI's remainder
-(f500 Casting, f554 Quiet, the focus folios); see PLAN.md.
+Next: chapter XI's remainder (f500 Casting, f554 Quiet, the focus
+folios), then chapter VI Union (decide the f168 register swap first);
+see PLAN.md.

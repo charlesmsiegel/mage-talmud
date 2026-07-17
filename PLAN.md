@@ -33,6 +33,7 @@ Update the status tables here in the same commit as the work.
 | 521a/b | Spirit · The Crossing | daf pair | **built** |
 | 522a/b | Time · The Rewind | daf pair | **built** |
 | 384a/b | The Golden Rule · The Contract | daf pair | **built** |
+| 250a/b | The Seder of Creation · The Fifteen | seder pair (mold proof) | **built** |
 | 409a/b | Combat · The Gun and the Word | daf pair | **built** |
 | 423a/b | The Martial Arts and Do · The Eight Limbs | daf pair | **built** |
 | 430a/b | Duels, Old Form · The Wager | daf pair | **built** |
@@ -57,8 +58,10 @@ CLAUDE.md.
 3. ~~**f435 Hazards** (luach)~~ **done** — the chart mold is proven
    (f435a/b, `render_luach`, table CSS); 273/275/303 and the minor
    tractates batch against it. Conventions recorded in SPEC §3.
-4. **f250 The Seder of Creation** (seder). Requires `render_seder` + CSS.
-   Spec: plans/pagetypes.md.
+4. ~~**f250 The Seder of Creation** (seder)~~ **done** — the
+   ordered-procedure mold is proven (f250a + its Fifteen verso,
+   `render_seder`, step CSS); conventions in SPEC §3. All four page types
+   are now implemented.
 
 After each proof: extract anything reusable you learned into SPEC.md (new
 conventions get written down, same commit).
