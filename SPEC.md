@@ -24,8 +24,9 @@ convention is invented, it gets written into this file in the same commit.
 - The corpus is **Seder Chashak** (חשך, "to be dark, hidden, obscured") — the
   World of Darkness as an order of tractates. This volume is **Tractate
   Aliyah** (עלייה, "ascension"): Mage. The sibling tractates carry Hebrew
-  names chosen for the connotations of each line's subtitle, and exist only
-  as shelf spines and Masoret cross-references until someone writes them:
+  names chosen for the connotations of each line's subtitle, and exist as
+  **Sharrim** — title pages with all-wanting ToCs (see §3) — plus Masoret
+  cross-references, until someone writes their folios:
   - **Masekha** (מסכה, "mask" — and, pointedly, "molten idol"): Vampire,
     the Masquerade. The pun on *masechet* is intentional and citable.
   - **Acharit** (אחרית, "the end of days," *acharit ha-yamim*): Werewolf,
@@ -95,10 +96,23 @@ Register conventions:
   the codex; ToC anchors navigate the codex by hash.
 - **the shelf** — the site's home page (implemented; `dist/index.html`, not a
   folio). The eight tractates of Seder Chashak stand spine-out on a shelf in
-  publication order of their game lines; only Aliyah is bound and clickable,
-  the rest are wanting. Clicking Aliyah opens the codex, which has no tab
-  bar: pages are turned with the side arrows, arrow keys, swipe, or a
-  `#folio` hash.
+  publication order of their game lines. Every spine is lit and clickable:
+  Aliyah (tallest, maroon and gold) opens the bound codex, which has no tab
+  bar — pages are turned with the side arrows, arrow keys, swipe, or a
+  `#folio` hash; the seven siblings, each in its own line's spine colors,
+  open their Sharrim.
+- **the Sharrim** — sibling-tractate title pages (implemented;
+  `dist/tractate-<name>.html`, one per line). Each is the shaar structure
+  re-skinned in its source book's interior language: display face and
+  palette per `plans/sharrim/style-notes.md`, ToC drawn from the core
+  book's structure (`plans/sharrim/*-toc.md`) with **every row wanting**,
+  the same imprint discipline (fan work, no text reproduced, folio = source
+  page number), Dark Pack notice, and a colophon that says plainly the
+  volume is unbound. Content modules `content/shaar_<name>.py` (type
+  `shaar` + a `skin` key); skins live in `chrome/sharrim.css`; each page
+  embeds only Goudy plus its own display face. When a sibling tractate
+  gains real folios, its shaar ToC rows gain anchors exactly as Aliyah's
+  did.
 - **luach** — chart folio: the center block is a reference table (difficulty
   charts, weapons, backlash ladder, Merits/Flaws), commentary frame thinner.
   Precedent: the Vilna's own diagram pages in Eruvin. **Not yet implemented**
