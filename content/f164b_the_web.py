@@ -1,8 +1,7 @@
 # Folio 164b - The Web. Verso of the Virtual Adepts folio: Digital Web law,
 # the Old Guard / Mercurial Elite schism, and the AGI dispute, per the
 # wod-llm-wiki Virtual Adepts page (LotT ch.9).
-FOLIO = {'bottom': '<p><span class="lemma">On the Web as venue.</span> Run it as chapter IV will rule the '
-           'Umbra is run: a place, entered at cost, with locals. Sector by sector the Web has '
+FOLIO = {'bottom': '<p><span class="lemma">On the Web as venue.</span> Run it as chapter IV rules the Umbra is run: a place, entered at cost, with locals. Sector by sector the Web has '
            'owners, weather, and law &mdash; the commons where anything may be read and anything '
            'might be reading back, the Constrained sectors with their border guards, the old '
            'regions where the architecture predates every living Adept and does not answer pings. '
@@ -160,7 +159,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the Web as venue.</span> Run it as
           'would be the code &mdash; is the war&rsquo;s actual victory condition, and every year '
           'spent defending meat-world trenches is a year not spent building the world that needs '
           'no trenches. <span class="voice">The Elite answer</span> that a paradise you must '
-          'emigrate to is a Realm, and chapter IV&rsquo;s folio has the ruling waiting: every '
+          'emigrate to is a Realm, and chapter IV&rsquo;s folio has the ruling at 109b: every '
           'paradise is somebody&rsquo;s argument, won &mdash; and a won argument with root access '
           'is not freedom but the Union&rsquo;s dream with better aesthetics, administered by '
           'whoever holds the keys, who will be, as ever, the people who built the walls. The Guard '

@@ -35,9 +35,9 @@ FOLIO = {
             ('82a', '82', 'The Gauntlet · The Crossing'),
         ]),
         ('IV \u00b7 The Worlds Beyond', [
-            (None, '89',  'The Penumbra'),
-            (None, '91',  'The Three Umbrae'),
-            (None, '109', 'The Horizon'),
+            ('89a', '89',  'The Penumbra \u00b7 The Reflection'),
+            ('91a', '91',  'The Three Umbrae \u00b7 The Courts'),
+            ('109a', '109', 'The Horizon \u00b7 The Made Countries'),
         ]),
         ('V \u00b7 Avot: The Traditions', [
             ('148a', '148', 'The Akashic Brotherhood \u00b7 The Wheel'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are ninety-six; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are one hundred and two; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }

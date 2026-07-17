@@ -14,6 +14,9 @@ Update the status tables here in the same commit as the work.
 | 62a/b | Consensus and Belief · The Zones | daf pair | **built** |
 | 78a/b | The Life-Blood · The Wells | daf pair | **built** |
 | 82a/b | The Gauntlet · The Crossing | daf pair | **built** — chapter III complete |
+| 89a/b | The Penumbra · The Reflection | daf pair | **built** |
+| 91a/b | The Three Umbrae · The Courts | daf pair | **built** |
+| 109a/b | The Horizon · The Made Countries | daf pair | **built** — chapter IV complete |
 | 2a | Convocation | daf | **built** |
 | 2b | The Betrayal | daf | **built** |
 | 3a | Judgments | daf | **built** |
@@ -100,7 +103,8 @@ faction chapters batch cleanly once their molds exist.
    and adopted for the whole chapter (see Standing decisions); six a/b pairs.
 6. ~~**II The Awakening** (38, 43, 46) and **III The World** (62, 78, 82)~~
    **done** — both chapters complete, every folio an a/b pair.
-7. **IV The Worlds Beyond** (89, 91, 109).
+7. ~~**IV The Worlds Beyond** (89, 91, 109)~~ **done** — three a/b pairs;
+   chapter complete.
 8. **VII The Unseated and the Fallen** (3b, 197, 224, 234) — 3b pays the debt
    the Masoret of 2a promised.
 9. **VIII The Order of Making** (250✓, 273, 275, 303, 328) — luachs + Arete.

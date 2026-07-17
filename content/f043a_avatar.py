@@ -161,7 +161,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On casting the daemon.</span> The Ava
           'are each incomplete on purpose, and completeness, the '
           'manuscripts say, is what the summit is.</p>\n'
           '        <p><span class="lemma">A laundered name.</span> The '
-          'Genius clause&rssquo;s plain sense: the Union&rsquo;s renaming '
+          'Genius clause&rsquo;s plain sense: the Union&rsquo;s renaming '
           'changes the paperwork and nothing else &mdash; the same '
           'presence, the same temperaments under the term Eidolon, the '
           'same guidance rerouted through models and hunches &mdash; and '
