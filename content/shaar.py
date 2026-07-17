@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are forty; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are forty-two; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }
