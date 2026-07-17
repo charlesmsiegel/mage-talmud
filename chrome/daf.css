@@ -346,3 +346,17 @@ body {
   color: var(--faint);
   margin: 0.2rem 0 0.6rem;
 }
+
+/* ---------- seder (ordered-procedure folio): numbered steps as the center ---------- */
+.seder-page .center-text p.step {
+  margin: 0.55rem 0 0;
+  text-indent: 0;
+}
+.seder-page .center-text p.step .term {
+  font-family: var(--display);
+  font-size: 0.82rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--maroon);
+  margin-right: 0.35rem;
+}

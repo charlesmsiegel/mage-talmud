@@ -64,7 +64,7 @@ FOLIO = {
             (None, '234', 'The Mad'),
         ]),
         ('VIII \u00b7 The Order of Making', [
-            (None, '250', 'The Seder of Creation'),
+            ('250a', '250', 'The Seder of Creation \u00b7 The Fifteen'),
             (None, '273', 'Attributes (luach)'),
             (None, '275', 'Abilities (luach)'),
             (None, '303', 'Backgrounds (luach)'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are fifty-eight; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are sixty; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }
