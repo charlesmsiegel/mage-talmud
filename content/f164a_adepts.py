@@ -80,7 +80,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing an Adept.</span> The caric
            '        <p class="drop"><span class="mark">&#8225;</span> The defection mirrors the '
            'secession of folio 160a: two children of the Union, one walked out over a theory, one '
            'driven out over a man; chapter VI will state the Union&rsquo;s side of both, and the '
-           'broken Archmaster&rsquo;s file belongs to folio 188&rsquo;s watchers, wanting.</p>\n'
+           'broken Archmaster&rsquo;s file belongs to folio 188&rsquo;s watchers.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The camera problem of folio '
            '533b is this Tradition&rsquo;s home turf: the lens that launders and the feed that '
            'testifies are their working conditions, and every ruling of that folio&rsquo;s census '

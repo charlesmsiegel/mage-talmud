@@ -76,7 +76,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On consent at the table, first and no
            'the will&rsquo;s floor and premiums, the entry&rsquo;s head-matter.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The seat of this Sphere is the Akashic '
            'Brotherhood&rsquo;s, folio 148a, whose Record is the Sphere&rsquo;s cosmology writ '
-           'total; the Union&rsquo;s watchers of folio 188, wanting, are the seat&rsquo;s dark '
+           'total; the Union&rsquo;s watchers of folio 188 are the seat&rsquo;s dark '
            'twin, and both know it.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The consent law this '
            'folio&rsquo;s Later Authorities lead with is the Code of folio 152a and the license of '

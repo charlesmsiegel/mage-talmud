@@ -192,7 +192,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On running session zero.</span> Treat
           'the extremes and blur in the middle, where every table&rsquo;s '
           'horror lives; the review clause is their standing arbitration; and '
           'the tractate notes that this exact dispute, at Council scale, is '
-          'folio 188&rsquo;s whole brief, wanting, which is either an irony or '
+          'folio 188&rsquo;s whole brief, which is either an irony or '
           'the setting doing its job. A third voice adds the working test: whatever '
           'the Storyteller keeps locked, the drawer itself is declared &mdash; a '
           'table told there are drawers stops rattling the furniture, and one told '

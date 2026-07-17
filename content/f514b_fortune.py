@@ -74,7 +74,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On curses in play.</span> The slow cu
            'oaths-as-workings are this law worn Hermetically, and the Council&rsquo;s whole legal '
            'order leans on a Sphere most of its members fear.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The meme-work of the fifth '
-           'rank is the Union&rsquo;s managed narrative worked retail &mdash; folio 188, wanting, '
+           'rank is the Union&rsquo;s managed narrative worked retail &mdash; folio 188, '
            'will show the wholesale operation; the Masoret files the comparison where both parties '
            'can see it.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> Fortune bent past '

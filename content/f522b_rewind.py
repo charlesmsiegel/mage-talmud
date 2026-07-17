@@ -60,8 +60,8 @@ FOLIO = {'bottom': '<p><span class="lemma">On running the rewind.</span> The ret
  'colophon': 'An out-of-character disputation for Mage: the Ascension &middot; fan work in the '
              'form of a daf; no rules text is reproduced &middot; set in Abbess &amp; Goudy Old '
              'Style after the M20 interior &middot; verso of the Time folio, and the Sphere '
-             'ladders&rsquo; last page: the chapter&rsquo;s remaining folios are wanting, and the '
-             'wanting is the plan.',
+             'ladders&rsquo; last page: the chapter runs on to Paradox, Quiet, the '
+             'focus trio, and the rotes of 607.',
  'folio': '522B',
  'glossL': '<p><span class="mark">a</span> On backward travel as always vulgar and harder by the '
            'law&rsquo;s own increment, see M20&rsquo;s Time entry, folios 521&ndash;523.</p>\n'
