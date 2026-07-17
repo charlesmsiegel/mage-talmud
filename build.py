@@ -94,6 +94,18 @@ MANIFEST = [
     '...',
     'f554a_quiet',
     'f554b_three_faces',
+    '...',
+    'f567a_belief',
+    'f567b_inheritance',
+    '...',
+    'f572a_practice',
+    'f572b_blend',
+    '...',
+    'f586a_instruments',
+    'f586b_inventory',
+    '...',
+    'f607a_rotes',
+    'f607b_casebook',
 ]
 
 
