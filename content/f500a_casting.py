@@ -91,8 +91,8 @@ FOLIO = {'bottom': '<p><span class="lemma">On the rhythm.</span> Rule, then roll
            'the design signature again.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The focus '
            'that step two consults &mdash; paradigm, practice, instruments '
-           '&mdash; is chapter XI&rsquo;s remaining business: folios 567, 572, '
-           'and 586, wanting, and the rotes of 607 with them.</p>',
+           '&mdash; is kept at folios 567, 572, and 586, and the rotes of '
+           '607 close the chapter behind them.</p>',
  'h1': 'Casting',
  'hagahah': 'Four steps, of which the dice are the least interesting: the first '
             'step is philosophy, the second is theology, the fourth is '
