@@ -21,8 +21,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
            'with a search engine; one who makes it vivid has gained a haunted archive that '
            'answers questions the character did not ask.</p>\n'
            '        <p><span class="lemma">On Do in the chronicle.</span> The art&rsquo;s '
-           'reputation for imbalance precedes it; the measures themselves are tried at folio '
-           '423, which is wanting, and this page will not retry them. At the table the older '
+           'reputation for imbalance precedes it; the measures themselves are tried at folio 423, and this page will not retry them. At the table the older '
            'problem is narrative: a master of Do makes ordinary violence boring, so stop '
            'offering ordinary violence. Stake the fights on something the fists cannot hold '
            '&mdash; a student watching, a vow not to strike first, a hall that must not be '
@@ -65,15 +64,13 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
  'chapter': 'Chapter the Fifth',
  'colophon': 'An out-of-character disputation for Mage: the Ascension &middot; fan work in the '
              'form of a daf; no rules text is reproduced &middot; set in Abbess &amp; Goudy Old '
-             'Style after the M20 interior &middot; first of the nine Avot folios; its eight '
-             'siblings are wanting &middot; teyku &mdash; let the gate stand open or shut.',
+             'Style after the M20 interior &middot; first of the nine Avot folios; its eight siblings follow at 150 through 164 &middot; teyku &mdash; let the gate stand open or shut.',
  'folio': '148A',
  'glossL': '<p><span class="mark">a</span> On the Akashic Brotherhood entire &mdash; paradigm, practice, '
            'history, and the modern sangha &mdash; see M20, the Traditions chapter, folio 148, '
            'whence this page takes its number.</p>\n'
            '        <p><span class="mark">b</span> On Do as curriculum and combat art, see '
-           'M20&rsquo;s martial-arts material and its cautions; the measures are tried at folio '
-           '423, which is wanting.</p>\n'
+           'M20&rsquo;s martial-arts material and its cautions; the measures are tried at folio 423.</p>\n'
            '        <p class="drop"><span class="mark">c</span> On the Akashic Record &mdash; '
            'the karmic repository of all action and intent, read in fleeting parts, never in '
            'full &mdash; see the Tradition&rsquo;s M20 entry and the Lore of the Traditions '

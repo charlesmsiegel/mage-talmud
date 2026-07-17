@@ -8,8 +8,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On bookkeeping.</span> A conjunction 
            'roll once, and spend the successes as one pool &mdash; and when a player begins '
            'assembling four-Sphere contraptions in initiative, remember that the declaration '
            'must still fit in a sentence a bystander could fail to understand. If it takes a '
-           'paragraph, it is a ritual, and rituals have their own folio, which is '
-           'wanting.</p>\n'
+           'paragraph, it is a ritual, and rituals have their own folio, 500b.</p>\n'
            '        <p><span class="lemma">On the shield economy.</span> The walking '
            'force-shield is where conjunction law meets the chronicle&rsquo;s pacing. Priced '
            'honestly &mdash; a working maintained, a vulgarity question asked every scene it '
@@ -92,8 +91,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On bookkeeping.</span> A conjunction 
            'at once or hangs like a stormcloud is described there; this folio merely arms '
            'the ambiguity.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> Prime&rsquo;s own folio '
-           'is 520 and Time&rsquo;s is 522, both wanting; the creation co-requirement will '
-           'be staged in full at 517 and 520, as the recto&rsquo;s gloss promises.</p>',
+           'is 520 and Time&rsquo;s is 522; the creation co-requirement is staged in full at 517 and 520, as the recto&rsquo;s gloss promised.</p>',
  'h1': 'Conjunctions',
  'hagahah': 'Masters of the fifth rank are called Nukes. No one has ever introduced herself '
             'as one. The Resonance handles the introductions, which is the joke: the one '
