@@ -152,8 +152,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On stakes before dice.</span> Run the
           'fought past the yield belongs to the archmasters&rsquo; '
           'girsa, and the baseline files it as warning, not option: '
           'a form that can kill is a feud with better lighting, '
-          'which is precisely what the instrument was built to '
-          'end.</p>\n'
+          'which is precisely what the instrument was built to end. The grudge girsa the baseline does keep is fought to the pain, not the death: will staked beside essence, the loser waking emptied but waking, per the optional leaves the margin cites &mdash; the charter bending without breaking, and the marshalls still seated over every variant.</p>\n'
           '        <p><span class="lemma">What may not be staked.</span> The reserve, read from the charter: the life is not a stake, for the form exists to keep both parties living, and the person is not a stake, by the precedent the verso will try. Whatever else the parties post &mdash; standing, holdings, secrets, service short of servitude &mdash; the law leaves to the seconds&rsquo; escrow and the marshalls&rsquo; review. The reserve is short on purpose: a court that enumerated every forbidden stake would invite the reading that everything unlisted is fair, and the drafters knew their clientele.</p>\n'
           '        <p><span class="lemma">Alternative to feud.</span> '
           'The adoption clause&rsquo;s plain sense: the Council took '
@@ -211,7 +210,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On stakes before dice.</span> Run the
           'Even lost &mdash; especially lost &mdash; the declared suit '
           'is on the record, witnessed, and the grievance of the '
           'weak acquires what it never had before the circle: a '
-          'date, a crowd, and a file. The form gives the low a rostrum if not a victory, and the folio notes that institutions have been founded on less. And the rank dispute&rsquo;s quiet coda: the masters know the arithmetic too, which is why the shrewd ones settle with apprentices before the circle is cut &mdash; the challenge they cannot lose in the arena they can still lose in the telling.</p>',
+          'date, a crowd, and a file. The form gives the low a rostrum if not a victory, and the folio notes that institutions have been founded on less. And the rank dispute&rsquo;s quiet coda: the masters know the arithmetic too, which is why the shrewd ones settle with apprentices before the circle is cut &mdash; the challenge they cannot lose in the arena they can still lose in the telling. And one boundary the folio leaves unruled: whether the sitting offices &mdash; the judges, the primi, the keepers of the code &mdash; may be called into the circle at all, the leaves on this binding&rsquo;s shelf do not say, and the folio files the question as wanting rather than guessing.</p>',
  'outer_head': 'The Disputants<span class="comm-sub">the outer commentary &middot; '
                'two difficulties: the costume, and the rank</span>',
  'rubric': 'the duel as law',
