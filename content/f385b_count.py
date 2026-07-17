@@ -82,8 +82,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the extended action as scene.</spa
            'clause is the same page&rsquo;s mercy.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On Willpower&rsquo;s '
            'purchased success, see the trait&rsquo;s treatment in the same '
-           'chapter and folio 328, wanting, where the will&rsquo;s whole economy '
-           'will be tried.</p>',
+           'chapter and folio 328, where the will&rsquo;s whole economy is tried.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The extended deed is the '
            'ritual&rsquo;s engine: folio 500 runs castings on this '
            'form, and 533a&rsquo;s botch-accumulation warning already assumes '
@@ -221,8 +220,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the extended action as scene.</spa
           'path from spending will to bending reality is a difference of '
           'degree, exactly as her Traditions claim. The first school runs '
           'smoother tables; the second has noticed what game it is '
-          'playing; and the folio of Arete and Will, 328, wanting, is '
-          'reserved the deciding vote it will decline to cast. <span '
+          'playing; and the folio of Arete and Will, 328, was reserved the deciding vote it duly declined to cast. <span '
           'class="kw">TEYKU</span> &mdash; certain, before the dice '
           'speak.</p>',
  'outer_head': 'The Auditors<span class="comm-sub">the outer commentary &middot; '

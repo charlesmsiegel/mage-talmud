@@ -100,8 +100,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the clock underwater.</span> The b
            'source, per this binding&rsquo;s first law.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The breath ladder is the one '
            'chart in Strife where the will outbids the body twice &mdash; '
-           'extending the breath, then refusing the panic &mdash; and 328, '
-           'wanting, holds the trait&rsquo;s full account; the Masoret marks the '
+           'extending the breath, then refusing the panic &mdash; and 328 holds the trait&rsquo;s full account; the Masoret marks the '
            'row as that folio&rsquo;s best advertisement.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The '
            'toughness discount for the harming arts is the borderline of 514a '

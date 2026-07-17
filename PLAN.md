@@ -67,6 +67,10 @@ Update the status tables here in the same commit as the work.
 | 197a/b | The Silent Alliance · The Wise Hearts | daf pair | **built** |
 | 224a/b | The Fallen · The Deep Game | daf pair | **built** |
 | 234a/b | The Mad · The Weather | daf pair | **built** — chapter VII complete |
+| 273a/b | Attributes · The Ladder | luach pair | **built** |
+| 275a/b | Abilities · The Knowledges | luach pair | **built** |
+| 303a/b | Backgrounds · The Awakened Assets | luach pair | **built** |
+| 328a/b | Arete and Will · The Price | daf pair | **built** — chapter VIII complete |
 | the Sharrim | seven sibling title pages | shaar (skinned) | **built** — see SPEC §3; sources in plans/sharrim/ |
 | everything else | — | — | briefed in plans/folio-briefs.md |
 
@@ -80,8 +84,8 @@ CLAUDE.md.
 2. ~~**f148 Akashic Brotherhood** (Avot daf)~~ **done** — the Avot mold is proven;
    chapter V batches against `content/f148a_akashayana.py`.
 3. ~~**f435 Hazards** (luach)~~ **done** — the chart mold is proven
-   (f435a/b, `render_luach`, table CSS); 273/275/303 and the minor
-   tractates batch against it. Conventions recorded in SPEC §3.
+   (f435a/b, `render_luach`, table CSS); 273/275/303 batched against it
+   (since built), the minor tractates next. Conventions recorded in SPEC §3.
 4. ~~**f250 The Seder of Creation** (seder)~~ **done** — the
    ordered-procedure mold is proven (f250a + its Fifteen verso,
    `render_seder`, step CSS); conventions in SPEC §3. All four page types
@@ -110,7 +114,9 @@ faction chapters batch cleanly once their molds exist.
    chapter complete.
 8. ~~**VII The Unseated and the Fallen** (3b✓, 197, 224, 234)~~ **done** —
    three a/b pairs; chapter complete.
-9. **VIII The Order of Making** (250✓, 273, 275, 303, 328) — luachs + Arete.
+9. ~~**VIII The Order of Making** (250, 273, 275, 303, 328)~~ **done** —
+   the seder pair, three luach pairs (the six VIII luachs batched against
+   the f435 mold), and the f328 Arete/Price daf pair; chapter complete.
 10. **I remainder**: f143 Certámen.
 11. **Minor tractates**: Kelim (K.1–K.2), Bestiary (B.1–B.3), shtar.
 

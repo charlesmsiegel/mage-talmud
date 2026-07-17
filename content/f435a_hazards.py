@@ -231,8 +231,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the third combatant.</span> The ch
           'Mishnah&rsquo;s terseness taken to its limit. The reader holding '
           'this page is holding the ruling: if the commentary she is reading '
           'has argued with a table and lost nothing by it, the form works, '
-          'and the folios of making, chapter VIII, wanting, may batch against '
-          'this proof as the dafs batched against theirs. <span '
+          'and the folios of making, chapter VIII, now bound, have batched against this proof as the dafs batched against theirs. <span '
           'class="kw">TEYKU</span> &mdash; but the luach, evidently, '
           'builds.</p>',
  'outer_head': 'The Surveyors<span class="comm-sub">the outer commentary &middot; '
