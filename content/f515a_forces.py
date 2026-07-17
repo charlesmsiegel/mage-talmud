@@ -85,7 +85,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the third dot.</span> The rank tha
            'chapters.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The seat of Forces among the Nine is the Order '
            'of Hermes (folio 158 &mdash; wanting); the Union&rsquo;s iterators prize the Sphere '
-           'no less (folio 186 &mdash; wanting). One ladder, two liturgies.</p>\n'
+           'no less (folio 186). One ladder, two liturgies.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> This folio is secretly '
            'about witnesses, as folio 3a says all of them are: vulgarity is tried at 533a, the '
            'census of eyes at 533b, and the invisible working below is that trial re-armed.</p>\n'

@@ -151,7 +151,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the second dot.</span> Probability
           'is an appointment &mdash; and the seat&rsquo;s whole Tradition stakes its license on '
           'the reading. The three schools cast identical dice to identical effect, which the '
           'Mishnah&rsquo;s drafters knew, and the dispute is therefore pure paradigm &mdash; folio '
-          '567, when it is written, will cite this paragraph as its cleanest specimen.</p>\n'
+          '567 cites this paragraph as its cleanest specimen.</p>\n'
           '        <p><span class="lemma">Physician or weapon.</span> The curse ethics, faced. '
           '<span class="voice">Some say</span> the fourth rank&rsquo;s two hands are one office: '
           'the power to gift vitality is the power to call disease, as every pharmacist&rsquo;s '

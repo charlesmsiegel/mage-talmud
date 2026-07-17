@@ -56,7 +56,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On using the casebook.</span> The sam
            'completely and be, in every sense the law can name, a total '
            'defeat. The disputants around this text hold why the books '
            'print jokes, and what the sanctioned shelf is for.</p>',
- 'chapter': 'Chapter the Eleventh &middot; continued',
+ 'chapter': 'Chapter the Eleventh &middot; concluded',
  'colophon': 'An out-of-character disputation for Mage: the Ascension &middot; fan '
              'work in the form of a daf; no rules text is reproduced &middot; set '
              'in Abbess &amp; Goudy Old Style after the M20 interior &middot; '

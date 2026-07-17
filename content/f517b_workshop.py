@@ -77,7 +77,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the workshop as venue.</span> A Ma
            'demonstration with sandbags, and the Society&rsquo;s seat holds this Sphere for '
            'exactly the reasons the hall displays.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> Wealth&rsquo;s watchers are '
-           'the Syndicate&rsquo;s beat, folio 192, wanting; the fortune with no history is their '
+           'the Syndicate&rsquo;s beat, folio 192; the fortune with no history is their '
            'term of art, and the Masoret notes with interest that the Traditions and the Union '
            'police this law identically, each insisting the other made it necessary.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The crafted Wonder&rsquo;s '

@@ -79,7 +79,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a Singer.</span> The pitfa
            'rules that no one compels one.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The choir&rsquo;s knightly '
            'order of old became the watchers of the Union &mdash; the New World Order&rsquo;s '
-           'ancestry runs through the Cabal of Pure Thought, folio 188, wanting. The Chorus does '
+           'ancestry runs through the Cabal of Pure Thought, folio 188. The Chorus does '
            'not sing about this. The Masoret does.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The reformation of the choir '
            '&mdash; its doctrines, its Great Return, its departed hardliners &mdash; is the '
