@@ -119,7 +119,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On rating strangers quickly.</span> T
           'persistence &mdash; and the chart&rsquo;s order within the '
           'house repeats across all three houses: what forces, what '
           'finesses, what endures. A reader who learns the pattern '
-          'once owns the whole grid, which is the design&rsquo;s quiet gift to the table. The body&rsquo;s house also carries the chapter&rsquo;s most-audited numbers: the soak of 406a stands on Stamina, the ladders of 409a open on Dexterity, and a chronicle&rsquo;s violence is priced almost entirely in this column, which the counsel of chapter X has already spent.</p>\n'
+          'once owns the whole grid, which is the design&rsquo;s quiet gift to the table. The body&rsquo;s house also carries the chapter&rsquo;s most-audited numbers: the soak of 406a stands on Stamina, the ladders of 409a open on Dexterity, and a chronicle&rsquo;s violence is priced almost entirely in this column, which the counsel of chapter X will spend in full.</p>\n'
           '        <p><span class="lemma">The house of the '
           'company.</span> The second column&rsquo;s plain sense, and its '
           'famous asymmetry: Charisma is the pull that needs no plan, '
