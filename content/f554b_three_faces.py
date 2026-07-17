@@ -161,7 +161,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On casting the face.</span> The face 
           'passes ten, so the deep countries are long by design and the '
           'law means them to be &mdash; entered by '
           'misfortune or &mdash; the strange clause &mdash; on purpose, by '
-          'meditation against a wall of the grade; the sufferer may signal '
+          'meditation against a wall of the grade and three; the sufferer may signal '
           'out by will, the ally may walk in by the dreaming arts, and '
           'the harm within bruises only. The exit&rsquo;s full clearing of '
           'the pool is the design&rsquo;s deliberate prize, and the '
