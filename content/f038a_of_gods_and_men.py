@@ -43,7 +43,9 @@ FOLIO = {'bottom': '<p><span class="lemma">On session one.</span> The Awakening 
            'and overcome, the process mattering more than the blow. And it is '
            'attended: every faction runs retrieval for the newly woken, to '
            'recruit, convert, or end them, for a fresh Epiphany is loud and '
-           'the world listens.<sup>d</sup></p>\n'
+           'the world listens. So the census&rsquo;s law runs: three names, '
+           'one gradient, a cliff at its end &mdash; and past the cliff, '
+           'this whole binding.<sup>d</sup></p>\n'
            '        <p class="gemara-break"><span class="kw">GEMARA.</span> Come '
            'and hear four wakings. A scholar followed a proof past its last '
            'step and found the step held her weight, and she stood on air and '
@@ -140,7 +142,17 @@ FOLIO = {'bottom': '<p><span class="lemma">On session one.</span> The Awakening 
           'exactly that thunder. The clause prices the setting&rsquo;s '
           'first race: between the Epiphany and the first teacher '
           'stands an interval measured in hours, and the margin '
-          'opposite notes what rides on who arrives.</p>',
+          'opposite notes what rides on who arrives.</p>\n'
+          '        <p><span class="lemma">Stuck halfway.</span> The '
+          'Night-Folk clause&rsquo;s plain sense, filed where the census '
+          'files it: the vampire, the shapechanger, the ghost, and their '
+          'kin are mighty and are not mages &mdash; caught, the books say, '
+          'halfway inside their own nightmares, transformed rather than '
+          'woken. The census keeps them off the gradient on purpose: '
+          'their roads run through sibling tractates, their standing at '
+          'the court is 533b&rsquo;s dispute, and the one thing this '
+          'binding rules is the boundary &mdash; night is not sleep, and '
+          'neither is it waking.</p>',
  'inner_head': 'On the Census<span class="comm-sub">the inner commentary &middot; '
                'the plain sense &middot; name by name, clause by '
                'clause</span>',
@@ -189,7 +201,17 @@ FOLIO = {'bottom': '<p><span class="lemma">On session one.</span> The Awakening 
           'once, and the whole Ascension War is the argument about '
           'the number in between. <span class="kw">TEYKU</span> '
           '&mdash; the bread-buyer of the Gemara, asked, said only '
-          'that nobody consulted her either way.</p>',
+          'that nobody consulted her either way. And the schools share one '
+          'closing stipulation, entered jointly: whatever the rate, the '
+          'woken owe the sleeping more than caution &mdash; they owe them '
+          'the world kept livable while the argument runs, which is the '
+          'sixth article and the ninth seat agreeing for once, to '
+          'everyone&rsquo;s discomfort. For the census&rsquo;s deepest '
+          'clause is the one neither dispute touched: the three names '
+          'are one species &mdash; the Sleeper is not raw material but '
+          'the same soul earlier, every mage was one, and the binding '
+          'that forgets it has begun writing chapter VI&rsquo;s articles '
+          'in a mystic hand.</p>',
  'outer_head': 'The Disputants<span class="comm-sub">the outer commentary &middot; '
                'two difficulties: the built door, and the opened '
                'ones</span>',

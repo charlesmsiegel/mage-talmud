@@ -78,7 +78,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On choosing the field.</span> The con
            '        <p class="drop"><span class="mark">d</span> On the Reality '
            'Challenge, its one rule, and its shared field, see folios '
            '431&ndash;433; the reality zones that give the rule teeth are the '
-           'Book of Magick&rsquo;s, folio 62 of this binding, wanting.</p>',
+           'Book of Magick&rsquo;s, folio 62 of this binding.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The core war is 164b&rsquo;s web '
            'fought at duel scale: the Adepts&rsquo; whole cosmology &mdash; '
            'information as territory, wealth as bandwidth &mdash; compressed into '
@@ -93,7 +93,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On choosing the field.</span> The con
            '        <p class="drop"><span class="mark">&sect;</span> The '
            'challenge&rsquo;s one rule is 533a&rsquo;s vulgarity law hired as a '
            'referee, and its shared field is the tractate&rsquo;s only law under '
-           'which the Union of chapter VI, wanting, and the Council compete '
+           'which the Union of chapter VI and the Council compete '
            'without treason: the Masoret marks the folio as load-bearing for '
            'any chronicle of detente.</p>',
  'h1': 'The Wager',
@@ -190,7 +190,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On choosing the field.</span> The con
           'paradigm&rsquo;s needle bent a degree &mdash; and the form is the '
           'only duel whose outcome is literally made of the thing the whole '
           'war is about. The first school keeps the table honest; the second '
-          'has read folio 62&rsquo;s brief, wanting; and the tractate, which '
+          'has read folio 62; and the tractate, which '
           'must live until that folio is written, files the question where '
           'the setting filed it &mdash; at the top of the mountain, '
           'unresolved. <span class="kw">TEYKU</span> &mdash; and mend the '

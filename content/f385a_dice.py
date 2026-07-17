@@ -202,7 +202,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On when not to roll.</span> The drama
           '<span class="voice">Others say</span> create: nothing in the fiction '
           'exists until the roll resolves it, the unrolled world is genuinely '
           'indeterminate, and the game is therefore a small Consensus running '
-          'on a kitchen table &mdash; folio 62&rsquo;s cosmology, wanting, '
+          'on a kitchen table &mdash; folio 62&rsquo;s cosmology, '
           'played out nightly with snacks. The dispute is unfalsifiable and '
           'delightful, which in this tractate is a genre, and the reader is '
           'reminded that the folio of witnesses already ruled on who the dice '

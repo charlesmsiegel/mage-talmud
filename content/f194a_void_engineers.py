@@ -83,10 +83,11 @@ FOLIO = {'bottom': '<p><span class="lemma">On the one shared trait.</span> The b
            '194&ndash;195, and Technocracy Reloaded, folios 158&ndash;163 '
            'of that volume.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On the '
-           'hollow-eyed returns and their institute, and on the renegade, '
+           'hollow-eyed returns and their institute, see Technocracy '
+           'Reloaded, folios 158&ndash;163 of that volume; on the renegade, '
            'the stolen weapon, and the storm many sources blame on them, '
-           'see the same volumes; the storm itself is the age&rsquo;s '
-           'scar, kept where the events of the end-times are kept.</p>',
+           'see M20, folios 82&ndash;83, and The Infinite Tapestry, folio '
+           '171 of that volume.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The spirit-art this '
            'Convention licenses is 521a&rsquo;s, and the crossing of 521b '
            'is its daily commute; the countries it patrols are chapter '

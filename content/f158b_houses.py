@@ -77,7 +77,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On choosing a House.</span> For a pla
            'closes a loop this tractate opened at folio 2b: betrayal, exile, and readmission as '
            'heirs &mdash; the Wheel of folio 156a, worked in institutional time.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> Awakening induced by syllabus '
-           'touches the dispute of folio 38, wanting: whether the rousing can be scheduled at all. '
+           'touches the dispute of folio 38: whether the rousing can be scheduled at all. '
            'The Order&rsquo;s third Degree is that folio&rsquo;s standing exhibit.</p>',
  'h1': 'The Houses',
  'hagahah': 'Every House&rsquo;s charter describes the Order as it would be if the other twelve '

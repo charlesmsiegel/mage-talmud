@@ -75,7 +75,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing a returning soul.</span> R
            'monastic first season, and the teaching pairs of senior and junior, see the Lore '
            'of the Traditions account of the sangha&rsquo;s structure.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On the Avatar, whose business '
-           'reincarnation properly is, see folio 43, which is wanting; on its destruction '
+           'reincarnation properly is, see folio 43; on its destruction '
            '&mdash; the Wheel broken &mdash; folio 2b&rsquo;s sentence of Gilgul.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The recto keeps the Tradition&rsquo;s law and '
            'lineage; this verso keeps its dead. Read 148a&rsquo;s gate dispute first: the '

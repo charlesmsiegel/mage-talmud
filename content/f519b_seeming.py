@@ -74,7 +74,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On illusions as scenes.</span> The th
  'glossR': '<p><span class="mark">&#8224;</span> The mental seeming is the one working in the Book '
            'of Magick that the Sleeper defeats unaided: disbelief needs no Sphere, only feet '
            'planted &mdash; the Consensus&rsquo;s own weapon, issued to every mind at birth, and '
-           'folio 62, wanting, will call it by name.</p>\n'
+           'folio 62 calls it by name.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The physical seeming is '
            'Forces&rsquo; and Prime&rsquo;s craft as much as Mind&rsquo;s &mdash; folios 515a and '
            '520 hold the partners &mdash; and the camera that cannot see the mental grade sees the '

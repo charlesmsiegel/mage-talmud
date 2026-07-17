@@ -91,7 +91,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the third dot.</span> The rank tha
            'census of eyes at 533b, and the invisible working below is that trial re-armed.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The world harms without a '
            'Sphere&rsquo;s help: fire, fall, and current are catalogued in the hazards luach '
-           '(folio 435 &mdash; wanting), where the fireball and the house fire part ways in '
+           '(folio 435), where the fireball and the house fire part ways in '
            'law.</p>',
  'h1': 'Forces',
  'hagahah': 'Every apprentice&rsquo;s first question is the fireball. Every master&rsquo;s final '

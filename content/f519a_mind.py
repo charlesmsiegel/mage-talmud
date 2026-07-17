@@ -183,7 +183,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On consent at the table, first and no
           'chosen, her childhood written, her consent manufactured with the rest of her &mdash; '
           'and no subsequent freedom launders a self whose foundations were somebody&rsquo;s '
           'draft. The basilisk parties of folio 164b are this dispute at datacenter scale; the '
-          'Avatar&rsquo;s question at folio 43, wanting, is this dispute at the soul&rsquo;s; and '
+          'Avatar&rsquo;s question at folio 43 is this dispute at the soul&rsquo;s; and '
           'the tractate, which has watched every chapter arrive at the made person from a '
           'different road, marks the crossroads and stops. <span class="kw">TEYKU</span> &mdash; '
           'let the question wake before the answer does.</p>',

@@ -99,13 +99,13 @@ FOLIO = {'bottom': '<p><span class="lemma">On casting the face.</span> The face 
            '        <p class="drop"><span class="mark">&#8225;</span> '
            'Clarity as the elder name for the over-ordered Quiet &mdash; a '
            'Technocratic affliction, the manuscript says &mdash; is chapter '
-           'VI&rsquo;s business in advance, wanting: the Union&rsquo;s folios '
-           'will have to decide whether perfect order is their doctrine or '
-           'their diagnosis.</p>\n'
+           'VI&rsquo;s business, folio 168 onward: the Union&rsquo;s folios '
+           'carry the question of whether perfect order is their doctrine '
+           'or their diagnosis.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The '
            'mindscape&rsquo;s clearing exit is the setting&rsquo;s strangest '
            'mercy: the pool paid in full by a journey nobody chooses. The '
-           'Seeking it resembles is folio 43&rsquo;s, wanting, and the '
+           'Seeking it resembles is folio 43&rsquo;s, and the '
            'resemblance is the recto&rsquo;s third dispute wearing '
            'travel clothes.</p>',
  'h1': 'The Three Faces',

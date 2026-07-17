@@ -8,6 +8,12 @@ Update the status tables here in the same commit as the work.
 | Folio | Title | Type | State |
 |---|---|---|---|
 | shaar | Title page + ToC | shaar | **built** (phase-3 upgrades pending, see plans/pagetypes.md) |
+| 38a/b | Of Gods and Men · The Fragile Path | daf pair | **built** |
+| 43a/b | The Avatar · The Seeking | daf pair | **built** |
+| 46a/b | The Will to Power · The War | daf pair | **built** — chapter II complete |
+| 62a/b | Consensus and Belief · The Zones | daf pair | **built** |
+| 78a/b | The Life-Blood · The Wells | daf pair | **built** |
+| 82a/b | The Gauntlet · The Crossing | daf pair | **built** — chapter III complete |
 | 2a | Convocation | daf | **built** |
 | 2b | The Betrayal | daf | **built** |
 | 3a | Judgments | daf | **built** |
@@ -92,7 +98,8 @@ faction chapters batch cleanly once their molds exist.
 4. ~~**V Avot** (150–164 batch vs the f148 mold)~~ **done** — chapter V complete, every folio an a/b pair.
 5. ~~**VI The Union** (168, 186–194)~~ **done** — register swap trialed on 168
    and adopted for the whole chapter (see Standing decisions); six a/b pairs.
-6. **II The Awakening** (38, 43, 46) and **III The World** (62, 78, 82).
+6. ~~**II The Awakening** (38, 43, 46) and **III The World** (62, 78, 82)~~
+   **done** — both chapters complete, every folio an a/b pair.
 7. **IV The Worlds Beyond** (89, 91, 109).
 8. **VII The Unseated and the Fallen** (3b, 197, 224, 234) — 3b pays the debt
    the Masoret of 2a promised.
