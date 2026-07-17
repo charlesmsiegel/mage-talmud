@@ -82,7 +82,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On illusions as scenes.</span> The th
            '        <p class="drop"><span class="mark">&sect;</span> The horror cut from the '
            'skeptic&rsquo;s grief is Quiet&rsquo;s doorstep, folio 554: a seeming '
            'believed long enough furnishes a private world, and the difference between a paradigm '
-           'and a Quiet, the hagahah of 554 will say, is other people.</p>',
+           'and a Quiet, the hagahah of 554 says, is other people.</p>',
  'h1': 'The Seeming',
  'hagahah': 'Stage magicians, the books observe, are the one Sleeper guild that polices this '
             'folio&rsquo;s law without knowing it: they build physical seemings from mirrors and '

@@ -154,7 +154,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the starting spellbook.</span> Let
           'approved, versioned, issued; and the difference between a '
           'spell with a genealogy and a Procedure with a document '
           'number is the difference between common law and code law, '
-          'which chapter VI will spend six folios pricing. Subtle '
+          'which chapter VI spends six folios pricing. Subtle '
           'Adjustments run coincidental by design; Procedures are the '
           'big guns and pay the big guns&rsquo; fees.</p>',
  'inner_head': 'On the Docket<span class="comm-sub">the inner commentary &middot; '

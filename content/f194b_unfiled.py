@@ -87,10 +87,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the mirror as endgame.</span> The 
            'personnel cost &mdash; the returns, the institute, the passive '
            'voice &mdash; see Technocracy Reloaded, folios 158&ndash;163 of '
            'that volume.</p>\n'
-           '        <p class="drop"><span class="mark">d</span> On the '
-           'implied question &mdash; corruption native to the far side, or '
-           'carried &mdash; the sources speak by arrangement of hints; the '
-           'tractate cites the arrangement itself as the finding.</p>',
+           '        <p class="drop"><span class="mark">d</span> On the implied question &mdash; corruption native to the far side, or carried &mdash; no source rules; the inference is the tractate&rsquo;s own, drawn from the arrangement of Technocracy Reloaded, folios 220&ndash;227 of that volume, set beside M20, folios 114&ndash;115.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The twin completes the '
            'chapter&rsquo;s mirror-work: 168a opened with the Union as the '
            'Council&rsquo;s reflection, and the chapter closes with the '
