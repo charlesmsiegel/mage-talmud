@@ -43,7 +43,8 @@ FOLIO = {'bottom': '<p><span class="lemma">On running the seder in session zero.
            '        <p class="step"><span class="term">Step Four.</span> Give her a '
            'place in the world and a way of working it: the Backgrounds by their '
            'allowance, the Spheres by theirs &mdash; the first dot always in an '
-           'affinity of her line, and no Sphere ever above her Arete, the dots '
+           'affinity &mdash; her line&rsquo;s, or the orphan&rsquo;s own choosing '
+           '&mdash; and no Sphere ever above her Arete, the dots '
            'prudently held open until the fifth step settles what Arete is '
            '&mdash; and the focus declared whole:the paradigm believed, the practice kept, the '
            'seven instruments held, all free of charge, for belief is not bought '
@@ -86,7 +87,9 @@ FOLIO = {'bottom': '<p><span class="lemma">On running the seder in session zero.
            '        <p class="drop"><span class="mark">d</span> On the finishing '
            'touches &mdash; Arete&rsquo;s given dot and creation cap, the '
            'will&rsquo;s start, the Avatar-measured pool &mdash; see folio '
-           '259.</p>',
+           '259; the supplementary manual&rsquo;s option adds a starting dot '
+           'of Resonance among these touches, see the Book of Secrets at '
+           'folios 133&ndash;134 of that volume.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The seder consults its luachs as '
            'a reader consults charts: Attributes at 273, Abilities at 275, '
            'Backgrounds at 303, all wanting and all promised against the '
