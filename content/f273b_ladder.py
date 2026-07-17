@@ -77,8 +77,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On saying the epithet aloud.</span> T
            'chapter charts at 303.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On the '
            'measures&rsquo; testing &mdash; pools, walls, and the count of '
-           'successes &mdash; see the dice folio of this binding, 385a, '
-           'and its sources.</p>',
+           'successes &mdash; see M20, folios 383&ndash;395, the Book of Rules; the binding&rsquo;s dice folio is 385a, as the Masoret binds.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The ladder&rsquo;s arithmetic '
            'lives at 385a &mdash; each rung one die in the hand &mdash; and '
            'the epithets live here; the two folios are one trait read as '

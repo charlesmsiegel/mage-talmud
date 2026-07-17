@@ -108,8 +108,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On reading the sheet as biography.</s
            '250&ndash;266.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On the '
            'faction-bound learnings the chart omits &mdash; the '
-           'Akashayana&rsquo;s Do first among them &mdash; see folio 423 of '
-           'this binding and the secondary lists glossed overleaf.</p>',
+           'Akashayana&rsquo;s Do first among them &mdash; see M20, folios 426&ndash;427; the way&rsquo;s own folio in this binding is 423, and the secondary lists are glossed overleaf.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> Every row is the second '
            'half of a pool: the measures of 273a join these learnings in '
            'the hands of 385a, and the specialty law of 273b runs here '

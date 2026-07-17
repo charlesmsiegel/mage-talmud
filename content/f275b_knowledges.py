@@ -91,8 +91,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the scholar&rsquo;s spotlight.</sp
            'holds only the confession.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On '
            'Esoterica as the focus&rsquo;s learned floor &mdash; the '
-           'blend&rsquo;s gate at the fourth dot &mdash; see folio 572 of '
-           'this binding and the sources it cites.</p>',
+           'blend&rsquo;s gate at the fourth dot &mdash; see the Book of Secrets, folios 167&ndash;175 of that volume; the blend itself is 572b&rsquo;s subject in this binding.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> Cosmology is chapter '
            'IV&rsquo;s atlas carried as a study &mdash; the maps of 91a '
            'sold in the gift shop, courtesies and all &mdash; and Occult '
@@ -157,8 +156,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the scholar&rsquo;s spotlight.</sp
           'Storyteller&rsquo;s leave &mdash; and the gate is the point: '
           'the shelf sprawls by design, and the leave is what keeps '
           'the sprawl from resorting the chart. The one column with '
-          'a law of its own is Do, gated to the Akashayana entire, '
-          'whose folio has already argued the gate at length.</p>\n        <p><span class="lemma">The pairings of habit.</span> Each study keeps a customary partner: Intelligence carries the recall of Academics and Science, Perception the reading of Investigation, Wits the diagnosis improvised under fire &mdash; and the customs are defaults, not law, for the pools of 385a pair freely by the task. The table that varies the pairings has learned the system&rsquo;s real grammar: the measure is how the character works, and the learning is what she works with.</p>',
+          'a law of its own is Do, gated to the Akashayana entire, whose folio, 423, will argue the gate at length.</p>\n        <p><span class="lemma">The pairings of habit.</span> Each study keeps a customary partner: Intelligence carries the recall of Academics and Science, Perception the reading of Investigation, Wits the diagnosis improvised under fire &mdash; and the customs are defaults, not law, for the pools of 385a pair freely by the task. The table that varies the pairings has learned the system&rsquo;s real grammar: the measure is how the character works, and the learning is what she works with.</p>',
  'inner_head': 'On the Studies<span class="comm-sub">the inner commentary &middot; '
                'the plain sense &middot; the eleven, and the shelf '
                'behind</span>',

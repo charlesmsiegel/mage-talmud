@@ -89,7 +89,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the load-bearing three.</span> Ava
            'wonder of folio 327.</p>\n'
            '        <p><span class="mark">b</span> On the dearly priced '
            'rows &mdash; enhancement, sanctum, totem at two points the dot '
-           '&mdash; and the Technocrat-only rows, see the same entries.</p>\n'
+           '&mdash; see folios 313, 323, and 325&ndash;327 in turn; the Technocrat-only rows, the requisitions and the prototype shelf, at 321 and 324.</p>\n'
            '        <p class="drop"><span class="mark">c</span> On the '
            'Avatar row&rsquo;s three jurisdictions &mdash; essence held, '
            'essence by the turn, the Seekings&rsquo; depth &mdash; see '
