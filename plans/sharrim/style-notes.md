@@ -43,7 +43,21 @@ line's own palette, display face, and ornament language.
 
 ## Neshiyah — Wraith: the Oblivion (Wr20)
 
-- awaiting screenshot + display font
+- **Display face:** Matrix Tall (`chrome/fonts/MatrixTall.ttf`,
+  user-supplied) — a tall, condensed serif.
+- **Palette:** teal/dark-cyan heads on warm off-white; the frame in
+  grey-green patinated metal; body near-black.
+- **Frame/ornament:** corroded bas-relief metal border — pitted
+  Stygian-iron strips embossed with figures and reliefs, heavy and
+  asymmetric (a thick relief bar down one edge, thinner strips along the
+  others). Funerary metalwork, soulforged.
+- **Heads:** section heads in Matrix Tall, teal, title case, no rule;
+  quiet against the heavy frame.
+- **Running matter:** centered small-caps footer in the tall face; page
+  number in italic at the outer corner.
+- **Register for the shaar:** elegiac-imperial; Stygia as a bureaucracy of
+  grief (Neshiyah as "forgetting/oblivion"). Title page should feel like a
+  memorial plaque cast in patinated iron.
 
 ## Chalom — Changeling: the Dreaming (C20)
 
