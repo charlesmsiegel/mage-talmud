@@ -95,7 +95,20 @@ line's own palette, display face, and ornament language.
 
 ## Din — Hunter: the Reckoning
 
-- awaiting screenshot + display font
+- **Display face:** Chouse (`chrome/fonts/Chouse.ttf`, user-supplied) — a
+  distressed, stencil-like grunge face.
+- **Palette:** monochrome plus grime — black ornament and heads, white
+  ground mottled with grey photocopy smudges.
+- **Frame/ornament:** torn black tape strips — ragged duct-tape bars
+  framing the page like a photocopied zine; the running head sits
+  reversed (white) inside the top tape bar. Samizdat, street-level,
+  urgent.
+- **Heads:** section heads in the stencil face, black, compact; body in
+  the standard serif. Page number in the stencil face at the foot.
+- **Register for the shaar:** a pamphlet posing as scripture — Din as
+  "judgment"; the tractate of the deputized. Title page should read as a
+  wheat-pasted broadside: the arch built from tape and torn paper, the
+  imprint half a warning.
 
 ## Techiyah — Mummy: the Resurrection
 
