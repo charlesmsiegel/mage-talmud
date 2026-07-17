@@ -105,8 +105,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the mirror as endgame.</span> The 
            '        <p class="drop"><span class="mark">&sect;</span> The '
            'question this folio leaves unfiled &mdash; native rot or '
            'carried &mdash; is chapter VII&rsquo;s opening question wearing '
-           'a spacesuit, and the binding walks there next but one: the '
-           'Fallen&rsquo;s folios, wanting, hold the landward half.</p>',
+           'a spacesuit, and the binding walks there next but one: the Fallen&rsquo;s folio, 224, holds the landward half.</p>',
  'h1': 'The Unfiled',
  'hagahah': 'The wanderers&rsquo; one rule was go and see. The day they '
             'recommended not looking, the Convention learned what every '

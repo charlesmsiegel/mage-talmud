@@ -78,7 +78,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the aftermath.</span> A fr
            'leads out of the Council entire: the Templar knights they joined stand among the '
            'unseated of folio 3b, which a reader of this page has already met.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The Order of Naught&rsquo;s '
-           'doctrine borders the Fallen&rsquo;s, tried at folio 224, wanting; the difference '
+           'doctrine borders the Fallen&rsquo;s, tried at folio 224; the difference '
            'between union and unmaking is the whole width of this seder.</p>',
  'h1': 'The Reformation',
  'hagahah': 'The choir abolished its own papacy, and the motion carried on a voice vote. '

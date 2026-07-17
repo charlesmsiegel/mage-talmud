@@ -72,7 +72,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the second dot.</span> Probability
            'same entry&rsquo;s close.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The seat of this Sphere is the '
            'Chakravanti&rsquo;s, folio 156a, whose license and watches are the ladder&rsquo;s '
-           'living jurisprudence; the botch it tithes is folio 393&rsquo;s, wanting, where entropy '
+           'living jurisprudence; the botch it tithes is folio 393&rsquo;s, where entropy '
            'taxes ambition one face in ten.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The mark upon the worker is '
            'jhor&rsquo;s doorstep: folio 156b keeps the disease, this folio keeps the doorknob. '

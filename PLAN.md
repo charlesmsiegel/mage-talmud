@@ -64,6 +64,9 @@ Update the status tables here in the same commit as the work.
 | 190a/b | The Progenitors · The Vat | daf pair | **built** |
 | 192a/b | The Syndicate · The Ledger | daf pair | **built** |
 | 194a/b | The Void Engineers · The Unfiled | daf pair | **built** — chapter VI complete |
+| 197a/b | The Silent Alliance · The Wise Hearts | daf pair | **built** |
+| 224a/b | The Fallen · The Deep Game | daf pair | **built** |
+| 234a/b | The Mad · The Weather | daf pair | **built** — chapter VII complete |
 | the Sharrim | seven sibling title pages | shaar (skinned) | **built** — see SPEC §3; sources in plans/sharrim/ |
 | everything else | — | — | briefed in plans/folio-briefs.md |
 
@@ -105,8 +108,8 @@ faction chapters batch cleanly once their molds exist.
    **done** — both chapters complete, every folio an a/b pair.
 7. ~~**IV The Worlds Beyond** (89, 91, 109)~~ **done** — three a/b pairs;
    chapter complete.
-8. **VII The Unseated and the Fallen** (3b, 197, 224, 234) — 3b pays the debt
-   the Masoret of 2a promised.
+8. ~~**VII The Unseated and the Fallen** (3b✓, 197, 224, 234)~~ **done** —
+   three a/b pairs; chapter complete.
 9. **VIII The Order of Making** (250✓, 273, 275, 303, 328) — luachs + Arete.
 10. **I remainder**: f143 Certámen.
 11. **Minor tractates**: Kelim (K.1–K.2), Bestiary (B.1–B.3), shtar.

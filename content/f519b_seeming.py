@@ -80,7 +80,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On illusions as scenes.</span> The th
            '520 hold the partners &mdash; and the camera that cannot see the mental grade sees the '
            'physical one perfectly, which hands 533b&rsquo;s census its strangest cases.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The horror cut from the '
-           'skeptic&rsquo;s grief is Quiet&rsquo;s doorstep, folio 554, wanting: a seeming '
+           'skeptic&rsquo;s grief is Quiet&rsquo;s doorstep, folio 554: a seeming '
            'believed long enough furnishes a private world, and the difference between a paradigm '
            'and a Quiet, the hagahah of 554 will say, is other people.</p>',
  'h1': 'The Seeming',

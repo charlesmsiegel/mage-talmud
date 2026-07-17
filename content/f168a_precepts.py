@@ -81,9 +81,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Union.</span> A Techno
            'that volume, which prints the admission in so many words.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On the '
            'founding &mdash; the tower, the convention of 1325, the promise '
-           'and its souring &mdash; see Technocracy Reloaded, folio 14, and '
-           'the Victorian recension&rsquo;s history; the professor before the '
-           'queen is M20 Victorian Age, folio 31 of that volume.</p>',
+           'and its souring &mdash; see Technocracy Reloaded, folio 14, and Convention Book: Syndicate Revised, folio 24 of that volume, on the White Tower convention of 1325; the professor before the queen is M20 Victorian Age, folio 31 of that volume.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> Read 2a again before reading '
            'this page: a convocation, a promise, a war justified by mercy. '
            'The rhyme is not subtle and the Masoret declines to pretend '

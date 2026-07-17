@@ -85,7 +85,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the extended action as scene.</spa
            'chapter and folio 328, wanting, where the will&rsquo;s whole economy '
            'will be tried.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The extended deed is the '
-           'ritual&rsquo;s engine: folio 500, wanting, will run castings on this '
+           'ritual&rsquo;s engine: folio 500 runs castings on this '
            'form, and 533a&rsquo;s botch-accumulation warning already assumes '
            'it. The scribe&rsquo;s candle is every ritual mage&rsquo;s '
            'clock.</p>\n'

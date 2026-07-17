@@ -73,7 +73,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On coven as troupe.</span> The coven 
            '148b and the door of folio 154b in the chapter&rsquo;s running conversation about who '
            'may enter a lineage; three Traditions, three gates, one question.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The green current&rsquo;s '
-           'wires run toward the technoshamans of folio 154b and the Web of folio 164, wanting; '
+           'wires run toward the technoshamans of folio 154b and the Web of folio 164; '
            'the Old Faith&rsquo;s youngest branch is closer to those neighbors than to its own '
            'grandmothers, which the grandmothers have noticed.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> Descent as qualification is '

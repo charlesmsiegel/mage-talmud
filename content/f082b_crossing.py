@@ -83,10 +83,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the first crossing.</span> A party
            'stranding, the rescue by skilled hands, and the storm '
            'season&rsquo;s lethal passages and thicker aftermath, see '
            'folios 82&ndash;83 and 474&ndash;475.</p>\n'
-           '        <p class="drop"><span class="mark">d</span> On the '
-           'courtesy of the far country, see the spirit folio&rsquo;s own '
-           'protocols, 521a of this binding, and the sources it '
-           'cites.</p>',
+           '        <p class="drop"><span class="mark">d</span> On the courtesy of the far country &mdash; the guest-law of spirits, their tolls and bargains &mdash; see M20, the Spirit entries at folios 520&ndash;521, and Umbra: the Velvet Shadow, folios 20&ndash;21 of that volume; the ladder of dealings is bound at folio 521a.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> This leaf closes the '
            'chapter&rsquo;s circuit: the water of 62a sets the wall of 82a, '
            'the wells of 78b thin it, and the doors of this side open on '

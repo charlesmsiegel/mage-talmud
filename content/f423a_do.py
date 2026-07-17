@@ -84,8 +84,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On pricing the maneuvers.</span> The 
            'the mage-tricks of the way, bullets caught by conjoined Spheres, '
            'wait overleaf with the techniques.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The '
-           'Wu Lung&rsquo;s dragon style and its double-counted tens, folio 197, '
-           'wanting, keep the Masoret&rsquo;s reminder that the Akashayana&rsquo;s '
+           'Wu Lung&rsquo;s dragon style and its double-counted tens, kept with their craft at folio 197, keep the Masoret&rsquo;s reminder that the Akashayana&rsquo;s '
            'claim of descent has neighbors who dispute the genealogy in '
            'kind.</p>',
  'h1': 'The Martial Arts and Do',

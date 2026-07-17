@@ -210,7 +210,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the Arete botch as scene.</span> T
           'chapter&rsquo;s law hides in it: is the botch informative? <span '
           'class="voice">Some say</span> no doctrine should be built on '
           'wreckage &mdash; the botch is noise, and mages who read their '
-          'disasters for guidance end in the Quiet of folio 554, wanting, '
+          'disasters for guidance end in the Quiet of folio 554, '
           'where all noise is signal. <span class="voice">Others say</span> '
           'the setting&rsquo;s own pedagogy disagrees: every Tradition&rsquo;s '
           'training stories turn on instructive catastrophe, the '

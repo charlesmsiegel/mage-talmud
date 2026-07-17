@@ -77,8 +77,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On adjudicating the three doors.</spa
            'page.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On ambush, multiple '
            'opponents, targeting, and the unbodied spirit&rsquo;s combat, see folios '
-           '415&ndash;418; the spirit rules point onward to the courts of folio 91, '
-           'wanting.</p>',
+           '415&ndash;418; the spirit rules point onward to the courts of folio 91.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The countermagick named on the recto '
            'as a mystic dodge is cast by Arete and judged by 533a&rsquo;s law; the '
            'Prime master&rsquo;s unweaving, 520a, stands over the fight as it '
