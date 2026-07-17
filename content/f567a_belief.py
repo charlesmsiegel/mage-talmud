@@ -64,8 +64,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the paradigm interview.</span> Ses
  'folio': '567A',
  'glossL': '<p><span class="mark">a</span> On focus as one unit &mdash; paradigm, '
            'practice, instruments &mdash; see M20, folios 61 and 567, whence this '
-           'page takes its number; the older recensions read the word otherwise, '
-           'and the margin below keeps the variant.</p>\n'
+           'page takes its number; the older recensions read the word otherwise &mdash; as the tools alone &mdash; per M20&rsquo;s own account of them at folios 61 and 371, and the margin below keeps the variant.</p>\n'
            '        <p><span class="mark">b</span> On the paradigm and the twelve '
            'common models, see the Book of Magick, folios 567&ndash;571; the '
            'further dozens are the Book of Secrets&rsquo;, folios 188&ndash;196 '
