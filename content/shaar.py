@@ -71,10 +71,10 @@ FOLIO = {
             (None, '328', 'Arete and Will'),
         ]),
         ('IX \u00b7 Middot: Measures', [
-            (None, '384', 'The Golden Rule'),
-            (None, '385', 'The Dice'),
-            (None, '393', 'The Rule of One'),
-            (None, '406', 'Health and Injury'),
+            ('384a', '384', 'The Golden Rule \u00b7 The Contract'),
+            ('385a', '385', 'The Dice \u00b7 The Count'),
+            ('393a', '393', 'The Rule of One \u00b7 The Comment'),
+            ('406a', '406', 'Health \u00b7 The Wound'),
         ]),
         ('X \u00b7 Strife', [
             (None, '409', 'Combat'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are forty-two; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are fifty; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }
