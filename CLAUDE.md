@@ -54,10 +54,11 @@ disputes — a folio whose outer commentary merely explains has failed.
 
 ## Current state
 Built: shaar, 2a/b, 3a/b, all of chapter V (148–164, nine Tradition
-pairs), 515a/b, 533a/b — every bound folio is a complete a/b pair, and the
-shaar ToC links one row per folio number. All pass verify.
+pairs), all nine Sphere pairs (512–522), 533a/b — forty dafs, every bound
+folio a complete a/b pair, one shaar ToC row per folio number. All pass
+verify.
 Names: classic Tradition names are primary (the renames didn't take),
 except Chakravanti and Society of Ether; naming questions appear in-folio
 as live debates.
-Next: chapter XI Sphere pairs (512–522 against the f515 mold), then the
-luach (f435) and seder (f250) proofs; see PLAN.md.
+Next: the luach (f435) and seder (f250) proofs (new renderers), then
+f500 Casting and the focus folios; see PLAN.md.

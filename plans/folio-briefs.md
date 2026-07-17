@@ -491,10 +491,10 @@ below). **LA:** what the Sphere does to a chronicle when a PC has 4+ dots.
 **Masoret:** each folio cites 533a (vulgarity) and its Tradition/Convention
 holders. **Hag:** one per Sphere, earned.
 
-- **f512 Correspondence** — disputes: the One-Point problem (Corr 1 as
+- **f512 Correspondence** ✅ (verso: The Reach — the range/connection law) — disputes: the One-Point problem (Corr 1 as
   universal range-extender); co-location's sanity; sympathetic connection
   strength. Gloss: the Data variant as the Union's girsa. X: f164.
-- **f514 Entropy** — disputes: probability vs. fate vs. decay (three
+- **f514 Entropy** ✅ (verso: Fortune — blessings, oaths, memes) — disputes: probability vs. fate vs. decay (three
   readings of one Sphere); the living-pattern boundary (which dot touches
   life); curse ethics. X: f156, f393. Hag: the house always wins; Entropy 3
   is buying the house.
@@ -513,26 +513,26 @@ holders. **Hag:** one per Sphere, earned.
   vulgarity meter; the hung bolt's Paradox timing (TEYKU); Resonance as
   signature (the witness thesis again). X: 515a, 533a, f517/f520/f522.
   Hag: no one introduces herself as a Nuke.
-- **f516 Life** — disputes: heal-self vs. heal-others rank asymmetry; the
+- **f516 Life** ✅ (verso: Healing — the healer's ladder per TB Verbena) — disputes: heal-self vs. heal-others rank asymmetry; the
   better-body temptation; where Life ends and Mind begins in a brain.
   X: f162, f190, f406.
-- **f517 Matter** — disputes: creation ex nihilo and the Prime-2
+- **f517 Matter** ✅ (verso: The Workshop — device and wealth law) — disputes: creation ex nihilo and the Prime-2
   co-requirement (the famous conjunction fight — stage it here with f520);
   transmutation permanence; complexity ladders (lump to lock to laptop).
   X: f160, f186, f520. Hag: the alchemists' Sphere, held in trust by people
   who apologize for alchemy.
-- **f519 Mind** — disputes: consent and violation (the ethics dispute is
+- **f519 Mind** ✅ (verso: The Seeming — illusion grades and disbelief) — disputes: consent and violation (the ethics dispute is
   the mechanical dispute — reading surface thought vs. entering; and the
   Later Authorities MUST carry table-consent procedure for mind-control
   scenes); memory editing's permanence. X: f148, f188.
-- **f520 Prime** — disputes: the Prime-2 creation co-requirement (own it
+- **f520 Prime** ✅ (verso: The Well — the quintessence economy) — disputes: the Prime-2 creation co-requirement (own it
   here, cross-staged with f517); Quintessence flows and the tithe; Primal
   Utility as the Syndicate's girsa. X: f078, f150, f192.
-- **f521 Spirit** — disputes: the Gauntlet's difficulty table as law vs.
+- **f521 Spirit** ✅ (verso: The Crossing — passage, chiminage, fetish law) — disputes: the Gauntlet's difficulty table as law vs.
   weather; binding vs. bargain (spirit pact law — Masoret winks at the
   Redemption tractate); Dimensional Science as the Union's girsa.
   X: f082–f109, f154, f194.
-- **f522 Time** — disputes: precognition vs. the Storyteller's unwritten
+- **f522 Time** ✅ (verso: The Rewind — the backward road and the Paradox teyku) — disputes: precognition vs. the Storyteller's unwritten
   plot (narrative authority as a rules fight); retroactive casting; does a
   rewind unmake Paradox (cite 533a); the seer's-silence case (cite 3a
   ruling vii — this folio must face Salonikas from the mechanics side).
