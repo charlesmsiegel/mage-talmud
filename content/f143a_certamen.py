@@ -101,9 +101,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On stakes before dice.</span> Run the
            'chapter resumes here, a hundred and forty folios on, is the '
            'numbering&rsquo;s custom keeping its own counsel, and the '
            'Masoret files the strangeness rather than repairing it.</p>\n'
-           '        <p class="drop"><span class="mark">&sect;</span> The '
-           'circle&rsquo;s jurisdiction stands in the made countries of '
-           '109a, one leaf back; the court that undoes the earthly match '
+           '        <p class="drop"><span class="mark">&sect;</span> The circle&rsquo;s jurisdiction stands in the made countries of 109b, one leaf back; the court that undoes the earthly match '
            'will hold session at 533a; and the seat that keeps the '
            'form&rsquo;s law will be seated at 158a, where the Houses '
            'convene.</p>',
