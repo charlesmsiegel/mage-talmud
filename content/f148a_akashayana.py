@@ -26,8 +26,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
            'offering ordinary violence. Stake the fights on something the fists cannot hold '
            '&mdash; a student watching, a vow not to strike first, a hall that must not be '
            'damaged &mdash; and the art becomes interesting again at any power level. Stakes '
-           'on the table before the first stance; the duel law of folio 143, when it is '
-           'written, will say the same.</p>',
+           'on the table before the first stance; the duel law of folio 143 says the same, and said it first.</p>',
  'bottom_head': 'The Later Authorities<span class="comm-sub">on stereotype and specificity, the '
                 'Record as plot, and the Way at the table</span>',
  'center': '<p class="noindent"><span class="dropcap">M</span><span class="kw">ISHNAH.</span> '
@@ -87,7 +86,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing the Brotherhood.</span> Th
            'law of who is watching, and practice is witness-management perfected.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The seat&rsquo;s Sphere is '
            'tried at folio 519; the duel law this folio&rsquo;s masters are '
-           'forever being challenged under is folio 143, likewise wanting.</p>',
+           'forever being challenged under is folio 143, bound at its wandering number.</p>',
  'h1': 'The Akashic Brotherhood',
  'hagahah': 'The Akashic Record preserves, complete and consultable, every argument the '
             'Brotherhood has ever held about what the Akashic Record is. Consulting it does not '

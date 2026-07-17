@@ -22,7 +22,7 @@ FOLIO = {
         ('I \u00b7 The Nine Seats', [
             ('2a',   '2',   'Convocation \u00b7 The Betrayal'),
             ('3a',   '3',   'Judgments \u00b7 The Unseated Answer'),
-            (None,   '143', 'Cert\u00e1men'),
+            ('143a', '143', 'Cert\u00e1men \u00b7 The Stakes'),
         ]),
         ('II \u00b7 The Awakening', [
             ('38a', '38', 'Of Gods and Men · The Fragile Path'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The sides here bound are one hundred and sixteen — fifty-eight folios, recto and verso; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The sides here bound are one hundred and eighteen — fifty-nine folios, recto and verso; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }

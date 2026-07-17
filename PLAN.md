@@ -71,6 +71,7 @@ Update the status tables here in the same commit as the work.
 | 275a/b | Abilities · The Knowledges | luach pair | **built** |
 | 303a/b | Backgrounds · The Awakened Assets | luach pair | **built** |
 | 328a/b | Arete and Will · The Price | daf pair | **built** — chapter VIII complete |
+| 143a/b | Certámen · The Stakes | daf pair | **built** — chapter I complete; bound at its number |
 | the Sharrim | seven sibling title pages | shaar (skinned) | **built** — see SPEC §3; sources in plans/sharrim/ |
 | everything else | — | — | briefed in plans/folio-briefs.md |
 
@@ -117,7 +118,9 @@ faction chapters batch cleanly once their molds exist.
 9. ~~**VIII The Order of Making** (250, 273, 275, 303, 328)~~ **done** —
    the seder pair, three luach pairs (the six VIII luachs batched against
    the f435 mold), and the f328 Arete/Price daf pair; chapter complete.
-10. **I remainder**: f143 Certámen.
+10. ~~**I remainder**: f143 Certámen~~ **done** — the f143a/b pair
+    (institution + stakes), bound at its number between chapters IV
+    and V; chapter I complete.
 11. **Minor tractates**: Kelim (K.1–K.2), Bestiary (B.1–B.3), shtar.
 
 ## Phase 3 — Bindery (when folio count makes the flat tab bar absurd, ~15+)
@@ -149,6 +152,9 @@ faction chapters batch cleanly once their molds exist.
 
 ## Open questions (decide during the relevant folio)
 
-- f143 vs f430 (Certámen the institution vs. old-form duel mechanics): keep
-  both or merge into 430 with a Masoret note at 143? Decide when writing 143.
+- ~~f143 vs f430: keep both or merge?~~ **Decided: keep both.** f143 owns
+  the institution (the courthouse), f430 the old-form mechanics (the
+  arena); both Masorets mark the division as standing. The bound folios
+  already reserved 143 "the institution's full trial," and the material
+  splits cleanly (TBOoH Rev pp.26/37/43-45 vs. M20 pp.430-433).
 - Whether the Digital Web deserves one luach after all (currently cut).
