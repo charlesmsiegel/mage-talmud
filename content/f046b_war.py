@@ -76,7 +76,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the War as weather or front.</span
            'whence this chapter&rsquo;s numbers run.</p>\n'
            '        <p><span class="mark">b</span> On the sides, see this '
            'binding&rsquo;s own chapters: the seats at V, the Conventions at '
-           'VI, the Fallen and the Mad at VII, wanting.</p>\n'
+           'VI, the Fallen and the Mad at VII.</p>\n'
            '        <p class="drop"><span class="mark">c</span> On room '
            'against settlement &mdash; the asymmetric stakes &mdash; see '
            'folios 46&ndash;53, with the zones of 62b in this binding.</p>\n'

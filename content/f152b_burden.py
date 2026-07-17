@@ -17,7 +17,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On prophecy at the table.</span> The 
            'start asking her what she is willing to carry.</p>\n'
            '        <p><span class="lemma">On procedure.</span> Decide in session zero how this '
            'chronicle&rsquo;s futures behave: fixed, branching, or fogged by observation &mdash; '
-           'the folio of Time, when it is written, will hold the mechanics, but the table&rsquo;s '
+           'the folio of Time, 522, holds the mechanics, but the table&rsquo;s '
            'metaphysic should be chosen before the first vision, not discovered in an argument '
            'after one. And grant the seer&rsquo;s player the 3a protection explicitly: what her '
            'character saw and did not say is not table knowledge, not evidence, and not the '

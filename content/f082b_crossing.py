@@ -220,9 +220,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the first crossing.</span> A party
           'printers&rsquo; own strange order, and holding. Whatever '
           'lives in the between, the binding now stands on both '
           'sides of it, and the chapters still wanting are countries '
-          'with their doors already hung. The chapter&rsquo;s four '
-          'leaves close as one folio, which is what the Masoret '
-          'promised at its first margin, and the binding keeps its '
+          'with their doors already hung. The chapter&rsquo;s six sides close as one folio of the World, which is what the Masoret promised at its first margin, and the binding keeps its '
           'promises in geometry when it cannot in law.</p>',
  'outer_head': 'The Disputants<span class="comm-sub">the outer commentary &middot; '
                'two difficulties: the beneficiary, and the '

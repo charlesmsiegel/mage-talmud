@@ -71,8 +71,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On the two readings.</span> Sacred ge
            '        <p class="drop"><span class="mark">&#8225;</span> Forward: the First Cabal and '
            'the trial of the Twin, folio 2b; the judgments derived from both, folio 3a.</p>\n'
            '        <p class="drop"><span class="mark">&sect;</span> The crafts left unseated did '
-           'not cease to exist. Their descendants are called Disparates, and their tractate is '
-           'wanting.</p>',
+           'not cease to exist. Their descendants are called Disparates, and their compact is bound at chapter VII, folio 197.</p>',
  'h1': 'Convocation',
  'hagahah': 'The archive of Horizon is kept inside a reality its keepers agree upon. Whether that '
             'makes it the most reliable record in the world or the least is a question the archive '

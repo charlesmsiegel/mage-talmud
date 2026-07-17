@@ -73,8 +73,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On playing an Adept.</span> The caric
            '        <p class="drop"><span class="mark">d</span> On initiation by mission and '
            'mockery &mdash; the grand tradition of trolling, as the books have it &mdash; see the '
            'same sources.</p>',
- 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 512, '
-           'wanting, where the Data variant is the Union&rsquo;s girsa and the Adepts&rsquo; claim '
+ 'glossR': '<p><span class="mark">&#8224;</span> The seat&rsquo;s Sphere is tried at folio 512, where the Data variant is the Union&rsquo;s girsa and the Adepts&rsquo; claim '
            'of authorship is an open exhibit; the youngest-chair ruling is folio 3a&rsquo;s ruling '
            'i.</p>\n'
            '        <p class="drop"><span class="mark">&#8225;</span> The defection mirrors the '

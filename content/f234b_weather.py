@@ -91,9 +91,7 @@ FOLIO = {'bottom': '<p><span class="lemma">On fronts with faces.</span> When the
            'optional rule for their unconscious counter-art.</p>\n'
            '        <p class="drop"><span class="mark">d</span> On the '
            'shedding into the deeps and the dream-countries at the '
-           'break&rsquo;s far end, see the Book of Madness, folios '
-           '56&ndash;57 of that volume, and the dream-realm entries '
-           'of the otherworld sources.</p>',
+           'break&rsquo;s far end, see the Book of Madness, folios 56&ndash;57 of that volume, and the dream realm of Maya, M20, folio 101, with The Infinite Tapestry, folio 29 of that volume.</p>',
  'glossR': '<p><span class="mark">&#8224;</span> The underground&rsquo;s '
            'smuggling road runs through 82a&rsquo;s crossings and '
            '91a&rsquo;s wilds to safe country past the reach of '
