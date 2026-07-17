@@ -22,8 +22,16 @@ Update the status tables here in the same commit as the work.
 | 160a/b | The Society of Ether · Paradigma | daf pair | **built** |
 | 162a/b | The Verbena · The Garden | daf pair | **built** |
 | 164a/b | The Virtual Adepts · The Web | daf pair | **built** |
+| 512a/b | Correspondence · The Reach | daf pair | **built** |
+| 514a/b | Entropy · Fortune | daf pair | **built** |
 | 515a | Forces | daf (Sphere mold) | **built** |
 | 515b | Conjunctions | daf | **built** |
+| 516a/b | Life · Healing | daf pair | **built** |
+| 517a/b | Matter · The Workshop | daf pair | **built** |
+| 519a/b | Mind · The Seeming | daf pair | **built** |
+| 520a/b | Prime · The Well | daf pair | **built** |
+| 521a/b | Spirit · The Crossing | daf pair | **built** |
+| 522a/b | Time · The Rewind | daf pair | **built** |
 | 533a | Paradox | daf | **built** |
 | 533b | Witnesses | daf | **built** |
 | everything else | — | — | briefed in plans/folio-briefs.md |
@@ -53,8 +61,8 @@ faction chapters batch cleanly once their molds exist.
 
 1. **IX Middot** (384, 385, 393, 406) — the dice; everything cites these.
 2. **X Strife** (409, 423, 430, 435✓) — combat; 435 already done in Phase 1.
-3. **XI The Book of Magick** (500, 512–524 batch vs the f515 mold, 554,
-   567/572/586, 607) — the heart; largest chapter, ~16 remaining after proofs.
+3. **XI The Book of Magick** — Sphere pairs 512–522 **done**; remaining: 500,
+   554, 567/572/586, 607.
 4. ~~**V Avot** (150–164 batch vs the f148 mold)~~ **done** — chapter V complete, every folio an a/b pair.
 5. **VI The Union** (168, 186–194) — decide the register-swap question on 168
    before batching the Conventions (see chapter VI brief).

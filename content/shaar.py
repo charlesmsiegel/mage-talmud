@@ -84,15 +84,15 @@ FOLIO = {
         ]),
         ('XI \u00b7 The Book of Magick', [
             (None,    '500',  'Casting'),
-            (None,    '512',  'Correspondence'),
-            (None,    '514',  'Entropy'),
+            ('512a',  '512',  'Correspondence \u00b7 The Reach'),
+            ('514a',  '514',  'Entropy \u00b7 Fortune'),
             ('515a',  '515',  'Forces \u00b7 Conjunctions'),
-            (None,    '516',  'Life'),
-            (None,    '517',  'Matter'),
-            (None,    '519',  'Mind'),
-            (None,    '520',  'Prime'),
-            (None,    '521',  'Spirit'),
-            (None,    '522',  'Time'),
+            ('516a',  '516',  'Life \u00b7 Healing'),
+            ('517a',  '517',  'Matter \u00b7 The Workshop'),
+            ('519a',  '519',  'Mind \u00b7 The Seeming'),
+            ('520a',  '520',  'Prime \u00b7 The Well'),
+            ('521a',  '521',  'Spirit \u00b7 The Crossing'),
+            ('522a',  '522',  'Time \u00b7 The Rewind'),
             ('533a',  '533',  'Paradox \u00b7 Witnesses'),
             (None,    '554',  'Quiet'),
             (None,    '567',  'Focus: Belief'),
@@ -105,7 +105,7 @@ FOLIO = {
             (None, 'B.1', 'The Bestiary'),
         ]),
     ],
-    'colophon': ('The folios here bound are twenty-four; the rest are wanting, and the wanting is the plan. '
+    'colophon': ('The folios here bound are forty; the rest are wanting, and the wanting is the plan. '
                  'A tractate that stops accreting commentary is not finished \u2014 it is dead, '
                  'and this one intends to be neither.'),
 }
