@@ -25,7 +25,21 @@ line's own palette, display face, and ornament language.
 
 ## Acharit — Werewolf: the Apocalypse (W20)
 
-- awaiting screenshot + display font
+- **Display face:** Garou (`chrome/fonts/Garou.ttf`, user-supplied) — a
+  calligraphic uncial/blackletter hybrid.
+- **Palette:** black heads and body on off-white parchment with faint
+  grey mottling; the border carries the color — rust-brown and black.
+- **Frame/ornament:** claw-torn border — jagged strips of dark wood-grain
+  or hide, slashed and splintered, running the page edges; corners read as
+  overlapping torn layers. Feral, physical, hand-hewn.
+- **Heads:** section heads in Garou, black, title-case, with a thin rule
+  beneath; no colored accent in heads.
+- **Running matter:** italic serif footer — page number left, book title
+  centered in letterspaced italic caps over a thin rule.
+- **Art:** woodcut-style black ink illustration.
+- **Register for the shaar:** war-liturgy; a tractate of last things
+  (Acharit as "the end/aftermath"). Title page should feel carved and
+  clawed, a rune-stone rather than a deed.
 
 ## Neshiyah — Wraith: the Oblivion (Wr20)
 
